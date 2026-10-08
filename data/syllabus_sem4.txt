@@ -1,0 +1,2497 @@
+ 
+ 
+Scheme and Detailed syllabus (DJS23) 
+Second Year B.Tech 
+in 
+Computer Science and 
+Engineering (Data Science) 
+(Semester IV) 
+ 
+ 
+ 
+ 
+Dwarkadas J. Sanghvi College of Engineering 
+(Autonomous College Affiliated to the University of Mumbai) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Theory 
+(Hrs)
+Practical 
+(Hrs)
+Tutorial 
+(Hrs) Credits Duration 
+(Hrs) Theory Oral Pract
+Oral 
+& 
+Pract
+SEE
+ Total 
+(A)
+Term 
+Test 1 
+(TT1)
+Term 
+Test 2 
+(TT2)
+Term 
+Test 3 
+(TT3)
+Term 
+Test 
+Total 
+(TT1 
++ 
+TT2+ 
+TT3)
+Term 
+Work
+CA 
+Total 
+(B)
+DJS23DPC251 Data Structures 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DPC251L Data Structures Laboratory -- 2 -- 1 2 -- -- -- 25 25 -- -- -- -- 25 25 50 1
+DJS23DPC252 Machine Learning - I 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DPC252L Machine Learning - I Laboratory -- 2 -- 1 2 -- -- -- 25 25 -- -- -- -- 25 25 50 1
+DJS23DPC253 Statistics for Data Science 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DPC253L Statistics for Data Science Laboratory -- 2 -- 1 2 -- 25 -- -- 25 -- -- -- -- 25 25 50 1
+4 DJS23DMD251L Web Engineering Laboratory -- 4 -- 2 2 -- -- -- 50 50 -- -- -- -- 50 50 100 2 2
+DJS23XOE261 Project Management 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23XOE262 Cyber Security, Policies and Laws 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23XOE263 Advanced Operations Research 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23XOE264 Corporate Finance Management 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23XOE265 Corporate Social Responsibility 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23XOE266 Bioinformatics 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23XOE267 Human Resource Management 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23XOE268 Digital Marketing Management 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23XOE269 Logistics and Supply Chain 
+Management 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+6 DJS23XHS281T Professional and Business 
+Communication Tutorial -- -- 2 2 -- -- -- -- -- -- -- -- -- -- 50 50 50 2 2
+7 DJS23XHS282 Economics and Financial 
+Management 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100 2 2
+8 DJS23XSC251P Innovative Product Development II -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 1
+Total 14 12 2 22 18 300 25 -- 100 425 75 75 50 200 200 400 825 22 22
+# Open Elective Courses
+Continuous Assessment (CA) - B
+Aggre
+gate 
+(A+B)
+4
+4
+4
+Scheme of Semester IV (DJS23) for Department of Computer Science and Engineering (Data Science)
+Course Code Course
+Teaching Scheme Semester End Examination (SEE) - A
+Credits Earned
+3 3
+Sr. 
+No.
+1
+2
+3
+5#
+
+ 
+ 
+Continuous Assessment (A): 
+ 
+ 
+Course Assessment Tools Marks Time (hrs.) 
+Theory 
+a. Term Test 1 (based on 40 % syllabus) 15 45 
+b. Term Test 2 (on next 40 % syllabus) 15 45 
+c. Assignment / course project / group discussion / 
+presentation / quiz/ any other. 10 -- 
+Total marks (a + b + c) 40 
+ 
+-- 
+Audit course 
+Performance in the assignments / quiz / power point 
+presentation / poster presentation / group project / 
+any other tool. 
+ 
+-- 
+ 
+ 
+ 
+As 
+applicable Laboratory Performance in the laboratory and documentation. 25 
+Tutorial Performance in each tutorial & / assignment. 25 
+Laboratory 
+&Tutorial 
+Performance in the laboratory and tutorial. 50 
+ 
+The final certification and acceptance of term work will be subject to satisfactory performance upon 
+fulfilling minimum passing criteria in the term work / completion of audit course. 
+ 
+Semester End Assessment (B): 
+ 
+Course Assessment Tools Marks Time (hrs.) 
+Theory / 
+ 
+* Computer 
+based 
+Written paper based on the entire syllabus. 
+60 
+ 
+2 
+* Computer based assessment in the college premises. 
+Oral Questions based on the entire syllabus. 25 As applicable 
+Practical 
+Performance of the practical assigned during the examination 
+and the output / results obtained. 25 2 
+Oral & 
+Practical 
+Project based courses - Performance of the practical assigned 
+during the examination and the output / results obtained. 
+Based on the practical performed during the examination and 
+on the entire syllabus. 
+ 
+As per the 
+scheme 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ Shri Vile Parle Kelavani Mandal’s 
+ Dwarkadas J. Sanghvi College of Engineering 
+ (Autonomous College Affiliated to the University of Mumbai) 
+ 
+Computer Science and 
+Engineering (Data Science) 
+(Semester IV) 
+ 
+ 
+Second Year B.Tech. (DJS23) 
+Programme Core Courses 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: IV 
+Course: Data Structures (DJS23DPC251) 
+ Data Structures Laboratory ((DJS23DPC251L) 
+ 
+Pre-requisite: C-Programming 
+ 
+Objectives: 
+To introduce and familiarize students with linear and non-linear data structures, their use in fundamental 
+algorithms and design & implementation of these data structures. To introduce students to the basics of 
+algorithms and time complexity. To familiarize students to various sorting and searching techniques, 
+and their performance comparison. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Classify various linear and non-linear data structures. 
+2. Solve the problem using an appropriate data structure. 
+3. Analyze the problem and use a suitable data structure for it. 
+ 
+Data Structures (DJS23DPC251) 
+Unit Description Duration 
+1 Basics of Algorithms: Algorithms, Characteristics of an Algorithm, Time and Space 
+Complexities, Order of Growth functions, Preliminary Asymptotic Notations. 04 
+2 Introduction to Data Structures: Introduction, need of Data Structures, Types of Data 
+Structures, Abstract Data Types (ADT). 
+Linear Data Structures – Linked List: List as an ADT, Array-based implementation, 
+Linked List implementation, singly linked lists, circularly linked lists, doubly-linked lists, 
+All operations (Insertion, Deletion, Merge, Traversal, etc.), Applications of linked lists -
+Polynomial Addition. 
+09 
+3 
+ 
+Linear Data Structure – STACK: Stack as an ADT, Operations, Array and Linked 
+List representation of Stack, Applications – Reversing data, Conversion of Infix to 
+prefix and postfix expression, Evaluation of postfix and prefix expressions, balanced 
+parenthesis, etc. 
+ 
+05 
+ 
+4 Linear Data Structure – QUEUE: Queue as an ADT, Operations, Implementation of 
+Linear Queue, Circular and Priority Queue using arrays and Linked List, DEQueue, 
+Applications – Queue Simulation. 
+05 
+5 Non-Linear Data Structure – TREES: Tree Terminologies, Tree as an ADT, Binary 
+Tree - Operations, Tree Traversals, Binary Search Tree (BST) - Operations, Expression 
+Trees, K-Dimensional Tree. 
+Height Balanced Tree: Creation of AVL Tree. 
+HEAP: Operations on heap, Heap Sort. 
+Applications: Huffman coding. 
+GRAPHS: Representation of Graph using arrays and Linked List. 
+10 
+ 
+ 
+6 Searching- Linear Search, Binary Search and Fibonacci search. 
+Sorting: Bubble Sort, Selection Sort, Heap Sort, Insertion Sort, Radix Sort, Merge Sort,
+Quick Sort. Analysis of Searching and Sorting Techniques. 
+Hashing: Hash Functions, Overflow handling, Collision & Collision Resolution 
+Techniques, Linear hashing, Hashing with chaining, Separate Chaining, Open 
+Addressing, Rehashing and Extendible hashing. 
+ 
+ 
+ 
+09 
+ Total 42 
+ 
+Data Structures Laboratory (DJS23DPC251L) 
+Exp. Suggested experiments 
+1 Implementations of Linked List using menu driven approach. 
+2 Implementation of different operations on linked list –copy, concatenate, split, reverse, count no. of 
+nodes etc. 
+3 Implementation of polynomials operations (addition, subtraction) using Linked List. 
+4 Implementations of stack using menu driven approach. 
+5 Implementations of Infix to Postfix conversion. 
+6 Implementation of prefix and postfix evaluation using menu driven approach. 
+7 Implementation of parenthesis checker using stack. 
+8 Implementations of Linear queue using menu driven approach. 
+9 Implementations of circular queue using menu driven approach. 
+10 Implementations of double ended queue using menu driven approach. 
+11 Implementation of Priority queue program using array and Linked list. 
+12 Implementations of Binary Tree using menu driven approach. 
+13 Implementation of Binary Tree Traversal. 
+14 Implementations of BST. 
+15 Implementation of various operations on tree like – copying tree, mirroring a tree, counting the 
+number of nodes in the tree, counting only leaf nodes in the tree. 
+16 Implementations of Graph traversal using menu driven program (DFS & BSF). 
+17 Implementations of Selection sort, Radix sort using menu driven. 
+18 Implementations of Heap & Heap Sort using menu driven program. 
+19 Implementations of Advanced Bubble Sort and Insertion Sort using menu driven Program. 
+20 Implementations of searching methods (Index Sequential, Fibonacci search, Binary Search) using 
+menu driven program. 
+21 Implementation of hashing functions with different collision resolution techniques. 
+Minimum eight experiments from the above-suggested list or any other experiment or mini project 
+based on syllabus will be included, which would help the learner to apply the concept learnt. 
+*The Term Work will be calculated based on Laboratory Performance (15m) and Quizzes (10m). 
+ 
+ 
+Books Recommended: 
+Text books: 
+1. Reema Thareja, “Data Structures using C”, 3rd Edition, Oxford, 2023. 
+2. Ellis Horowitz, Sartaj Sahni and Susan Anderson-Freed, “Fundamentals of Data 
+Structures in C”, 2nd Edition, W. H. Freeman and Company, 2010. 
+3. R. F. Gilberg and B. A. Forouzan, “Data Structures – A Pseudocode Approach with C”, 
+2 nd Edition, Cengage Learning, 2007. 
+4. Thomas H. Cormen, Charles E. Leiserson, Ronald L Rivest, Clifford Stein, 
+“Introduction to Algorithms”, 3rd Edition, MIT Pres, 2009 
+ 
+Reference Books: 
+1. Mark A. Weiss, Data Structures and Algorithm Analysis in C, 4th Edition, Pearson, 2014. 
+2. M. T. Goodritch, R. Tamassia, D. Mount, Data Structures and Algorithms in C++, Wiley, 2nd 
+Edition, 2011. 
+3. Kruse, Leung, Tondo, Data Structures and Program Design in C, Pearson Education, 2 nd 
+Edition, 2013. 
+4. Tenenbaum, Langsam, Augenstein, Data Structures using C, Pearson, 2nd Edition, 2015. 
+5. Aho, Hopcroft, Ullman, Data Structures and Algorithms, Addison-Wesley, 2010. 
+6. Seymour Lipschutz, Data Structures, Schaum's Outline Series, Tata McGraw-Hill, 1st Edition, 
+2014. 
+ 
+Web Links: 
+1. Tech Guide: https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/ 
+2. NPTEL Course: https://nptel.ac.in/courses/106102064 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: IV 
+Course: Machine Learning - I (DJS23DPC252) 
+ Machine Learning - I Laboratory (DJS23DPC252L) 
+ 
+Prerequisite: 
+1. Mathematics for Intelligent Systems 
+2. Python Programming 
+ 
+Objectives: 
+1. To introduce the concepts of computation learning theory and techniques of Machine Learning. 
+2. To become familiar with regression, classification and clustering tasks. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Apply given machine learning techniques for a problem. 
+2. Analyze various machine learning algorithms by comparing their performance, examining optimization 
+functions, and identifying their advantages/disadvantages. 
+3. Evaluate a given dataset for the selection of an appropriate machine learning algorithm and the quality of 
+the results. 
+4. Design applications using machine learning algorithms. 
+ 
+Machine Learning - I (DJS23DPC252) 
+Unit Description Duration 
+1 
+Introduction to Machine Learning: Types of Machine Learning, Issues in 
+Machine Learning, Application of Machine Learning, Steps involved in 
+developing a Machine Learning Application, Hypothesis and Inductive Bias, 
+Bias-Variance Trade-off, Performance measures, Data Validation. 
+04 
+2 
+Supervised Machine Learning: 
+Regression: Linear Regression, Least Minimum Slope (LMS) algorithm, 
+Gradient Descent, Lasso and Ridge Regression. Polynomial Regression. Logistic 
+Regression, Maximum Likelihood Function. 
+08 
+3 
+Supervised Machine Learning: 
+Classification: Introduction to decision tree, Learning Decision tree using ID3 
+and Gini index; CART, Overfitting. Ensemble methods: Bagging (Random 
+Forest) and Boosting (AdaBoost and Gradient Boost). 
+08 
+4 
+Supervised Machine Learning: 
+Bayesian Learning: Introduction to Bayesian Learning, Naïve Bayes, Bayesian 
+Network: Representation in Bayesian Belief Network, Inference in Bayesian 
+Network, Applications of Bayesian Network. 
+06 
+5 
+Supervised Machine Learning: 
+Support Vector Machine: Support Vectors, Functional Margin, Geometric 
+Margin, Optimization problem, Lagrange Duality, KKT condition, Maximum 
+margin with noise, Non-linear SVM and Kernel Function. 
+Dimensionality Reduction: Singular Value Decomposition (SVD) and 
+Principal Component Analysis (PCA), t-distributed Stochastic Neighbor 
+Embedding (t-SNE). 
+06 
+ 
+6 
+Unsupervised Machine Learning: 
+Association Rule Mining: Market Basket Analysis, Apriori algorithm and 
+measures of association. 
+Clustering: Partition based clustering (K-means, K-Medoid), Hierarchal 
+Clustering (Agglomerative Clustering), Density Based Clustering (DBSCAN) 
+and Distribution Based Clustering (Expectation Maximisation (EM), Gaussian 
+Mixture Model (GMM)). 
+10 
+ Total 42 
+Students should be encouraged to write these programs from scratch to develop better understanding of 
+the algorithms. Last 30 minutes of the laboratory should be utilized as a discussion on available python 
+libraries and hyperparameters. 
+ 
+Machine Learning - I Laboratory (DJS23DPC252L) 
+Exp. Suggested Experiments 
+1 Perform Linear Regression. 
+2 Perform Logistic Regression. 
+3 Perform Decision Tree using GINI. 
+4 Perform CART decision tree algorithm. 
+5 Perform Ensemble methods. 
+6 Perform Bayesian Classification. 
+7 Perform Support Vector Machine. 
+8 Perform K-means clustering. 
+9 Perform Association Rule Mining. 
+10 Mini project based on any machine learning application. 
+Above experiments or any other experiment based on syllabus will be included, which would help the learner 
+to apply the concept learnt. 
+*The Term Work will be calculated based on Laboratory Performance (15m) and Mini Project (10m). 
+ 
+Books Recommended: 
+Textbooks: 
+1. Ethem Alpaydın, ‘Introduction to Machine Learning’, MIT Press, 4th Edition, 2020. 
+2. Tom M.Mitchell, ‘Machine Learning’, McGraw Hill, 1st Edition, 2017. 
+3. Peter Harrington, ‘Machine Learning In Action’, DreamTech Press, 1st Edition, 2012. 
+ 
+Reference Books: 
+1. Andreas C. Müller and Sarah Guido, ‘Introduction to Machine Learning with Python: A Guide for Data 
+Scientists’, O'reilly, 1st Edition, 2016. 
+2. Stephen Marsland, ‘Machine Learning An Algorithmic Perspective’, CRC Press, 2nd Edition, 2014. 
+3. Kevin P. Murphy, ‘Machine Learning ― A Probabilistic Perspective’, MIT Press, Illustrated Edition, 
+2012. 
+4. Han Kamber, ‘Data Mining Concepts and Techniques’, Morgann Kaufmann Publishers, 3 rd Edition, 
+2011. 
+ 
+Web Links: 
+1. Towards Data Science: https://towardsdatascience.com D 
+2. Machine Learning — Andrew Ng, Stanford University: 
+https://youtube.com/playlist?list=PLLssT5z_DsKh9vYZkQkYNWcItqhlRJLN 
+ 
+ 
+ 
+ 
+ 
+3. Commonly used Machine Learning Algorithms: 
+https://www.analyticsvidhya.com/blog/2017/09/common-machinelearning-algorithms/ 
+4. A Tour to Machine Learning Algorithms: https://machinelearningmastery.com/a-tour-of-machine-
+learningalgorithms/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: IV 
+Course: Statistics for Data Science (DJS23DPC253) 
+ Statistics for Data Science Laboratory (DJS23DPC253L) 
+ 
+Prerequisite: Probability and Statistics. 
+ 
+Objectives: 
+To build the strong foundation in statistics which can be applied to analyze data and make predictions. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Examine relations between data. 
+2. Demonstrate sampling distributions and estimate statistical parameters. 
+3. Classify data using LDA and evaluate model performance with metrics. 
+4. Develop hypothesis based on data and perform testing using various statistical techniques. 
+5. Perform analysis of variance on data. 
+Statistics for Data Science (DJS23DPC253) 
+Unit Description Duration 
+1 
+Sampling distribution 
+ Central limit theorem. 
+ Probability of sample mean using Sampling distribution. 
+ Chi-square distribution. 
+ Z – distribution. 
+ Student's t-distribution. 
+ F-Distribution. 
+Statistical Estimation: 
+ Confidence interval of population mean using large and small samples. 
+ Confidence interval of difference in population means using large and small 
+samples. 
+ Confidence interval of population proportion. 
+ Confidence interval of difference in population proportions. 
+ Confidence interval of population variance and standard deviation. 
+ Confidence interval of ratio of population variances and standard deviations. 
+ Estimation of sample size for single mean and single proportion. 
+10 
+2 
+Hypothesis Testing for data driven decision making: 
+ Hypothesis testing: Test of significance, null and alternative hypothesis, type 
+I and type II error, factors affecting Type II error, probability of Type II error, 
+power of test, p Value, critical region, level of significance. 
+ Tests using z-statistics: difference between sample proportion and 
+population proportion, difference between two sample proportion, difference 
+between sample mean and population mean with known σ and unknown σ, 
+difference between two sample means, one tailed and two tailed tests. 
+ Test using t-statistics: difference between sample mean and population 
+mean, difference between two independent sample means, difference 
+between means from the same group, paired-t test. 
+ Test using F-statistics: equality of population variances. 
+ Test using chi-square statistics: difference between population variance and 
+sample variance, test of independence, goodness of fit, contingency table. 
+12 
+ 
+3 
+Analysis of Variance (ANOVA) for data analysis: 
+ One-way ANOVA with POST-HOC Analysis (Tukey’s Test) 
+ Two-way ANOVA. 
+05 
+ 
+4 
+Correlation: 
+ Scatter plot, 
+ Karl Pearson’s coefficient of correlation, 
+ correlation vs causation 
+ limits of correlation coefficient 
+ Spearman’s rank correlation coefficient, Repeated ranks 
+Regression: 
+ lines of regression 
+ regression coefficients, 
+ scatter plot with regression lines 
+ coefficient of determination 
+ multiple regression 
+ F-test for model significance 
+10 
+5 
+Statistical Analysis: 
+ Linear Discriminant Analysis (LDA). 
+ Metrics: FP measures, Confusion Matrix, Accuracy, Precision, Recall, F1-
+score, Area under the curve (AUC). 
+05 
+ Total 42 
+ 
+Statistics for Data Science Laboratory (DJS23DPC253L) 
+Exp. Suggested Experiments 
+1 To perform correlation on data. 
+2 To visualize regression on data. 
+3 To prove central limit theorem. 
+4 To study sampling distributions and their parameters. 
+5 To perform statistical estimation tests on data. 
+6 To calculate confidence interval for different parameters. 
+7 To perform LDA on given datasets 
+8 To calculate metrics of regression on data 
+9 To perform hypothesis test using t statistics. (Single mean, difference between means, paired t 
+test) 
+10 To perform hypothesis test using Chi square. (Contingency table) 
+11 To perform hypothesis test using Chi square. (Goodness of fit) 
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes (10m). 
+ 
+Books Recommended: 
+Textbooks: 
+1. S. P. Gupta, ‘Statistical Methods’, Sultan Chand, 46th Edition, 2021. 
+2. Thomas Hasalwanter, ‘An Introduction to Statistics with Python’, Springer, 1st Edition, 2016. 
+3. Allen B. Downey, Think Stats: Probability and Statistics for Programmers, Green Tea Press, 1 st 
+Edition, 2011. 
+4. Testing Statistical Hypotheses, E. L. Lehmann, Joseph P. Romano, Springer, 3rd Edition, 2008. 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference Books: 
+1. Peter Bruce, Andrew Bruce, Peter Gedeck, ‘Practical Statistics for data scientists 50+ Essential 
+Concepts Using R and Python’, Orelly, 2nd Edition, 2020. 
+2. Freedman, David, Robert Pisani, Roger Pervis, W. W. Norton, ‘Statistics’, 2007. 
+3. S. C. Gupta, V. K. Kapoor, Sultan Chand, ‘Fundamentals of mathematical statistics’, 10 th Edition, 
+2002. 
+ 
+Web Links: 
+1. Essentials of Data Science With R Software _ 1: Probability and Statistical Inference, IIT Kanpur: 
+https://nptel.ac.in/courses/111104146 
+2. Probability and Statistics: https://onlinecourses.nptel.ac.in/noc21_ma74/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MULTIDISCIPLINARY MINOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: IV 
+Course: Web Engineering Laboratory (DJS23DMD251L) 
+ 
+Pre-requisite: Programming Fundamentals 
+ 
+Objectives: 
+To provide the basic framework of web development (MERN Stack) and cloud computing. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Develop a website as per the requirements. 
+2. Apply the concepts of cloud computing to improve the efficiency of web development. 
+3. Evaluate the requirement of the problem and select appropriate method of web development. 
+Web Engineering Laboratory (DJS23DMD251L) 
+Unit Description Duration 
+1 
+HTML: 
+1. Create a static web page using HTML. 
+2. Create a class timetable using HTML. 
+3. Create a registration form using HTML. 
+4. Create a web page using HTML5 tags. 
+02 
+2 
+CSS: 
+1. Design a responsive web page and CSS3 using external CSS (media queries). 
+2. Design a web page using Bootstrap. 
+3. Design the admission form using Bootstrap. 
+02 
+3 
+Client-Side Scripting: 
+1. Programs based on objects in JavaScript. 
+2. Programs based on form validation. 
+3. Fetch Data from an API Using the Fetch API in JavaScript. 
+06 
+4 
+React JS: 
+1. Types of Components 
+2. Single Page Application (Virtual DOM) 
+3. State 
+4. React Hooks 
+08 
+5 
+Introduction to Git and GitHub: 
+1. Adding files to the staging area 
+2. Push new branch 
+3. Merge into the master 
+4. Auto Commit 
+02 
+6 
+Server-Side Scripting: 
+1. Installation and Configuration of Node.js server 
+2. Program based on inbuilt functions in Node.js 
+04 
+7 
+Express & MongoDB: 
+1. Using Mongoose to make schemas in MongoDB. 
+2. Making API end points using Express and testing using postman. 
+3. Develop a website and integrate it with pre-defined API. 
+08 
+ 
+4. Doing CRUD on database MongoDB using Express. 
+5. PostgreSQL & Sequelize 
+8 
+XML & XSL: 
+1. Design XML using XML DTD and schema. 
+2. Implementing XSL elements in XML. 
+3. Validate XML using Node.js 
+04 
+9 
+Concepts of Cloud Computing: 
+1. Introduction to cloud computing. 
+2. NIST model 
+3. Service and Deployment models. 
+04 
+10 
+Networking and Security: 
+1. Identity and Access Management 
+2. Networking basics 
+3. VPC networking and security 
+4. Design a VPC 
+5. Build your own VPC and Launch a Web Server 
+04 
+11 
+Compute Service: 
+1. Compute Services overview 
+2. Elastic Computing 
+3. Serverless Compute service 
+4. Deploying and scaling web applications 
+04 
+12 
+Storage Service: 
+1. Cloud object storage 
+2. Cloud block storage 
+3. Elastic file system 
+04 
+13 
+Database Service: 
+1. Cloud Relational database services 
+2. Cloud NoSQL Databases 
+3. Elastic load balancing 
+04 
+ Total 56 
+*The Term Work will be calculated based on Laboratory Performance (15m), Mini Project (10m) and Computer 
+Based Assessment (25m). 
+Books Recommended: 
+Text books: 
+1. Vasan Subramanian, Pro MERN Stack, 2nd Edition, Apress Publication, 2019. 
+2. Shama Hoque, Full-Stack React Projects, 2nd Edition, Pac kt Publication, 2020 
+3. Rajkumar Buyya, James Broberg, Goscinki Cloud Computing: Principles and Paradigms, Wiley, 
+2013. 
+4. Shalabh Aggarwal, Flask Framework Cookbook: Over 80 proven recipes and techniques for 
+Python web development with Flask, Packt publication, 2nd Edition, 2019. 
+ 
+Reference Books: 
+1. Benjamin LaGrone, HTML5 and CSS3 Responsive Web Design Cookbook, 1st Edition, Packt 
+Publishing, 2013. 
+ 
+ 
+ 
+ 
+2. DT Editorial Services, Web Technologies: Black Book, 1st Edition, Dreamtech Press, 2018. 
+3. Christopher Schmitt, Kyle Simpson, HTML5 Cookbook, 1st Edition, O'Reilly Media Inc., 
+2011. 
+4. Uttam K. Roy, Web Technologies, 1st Edition, Oxford University Press, 2010. 
+5. Greg Sidelnikov, React. Js Book: Learning React JavaScript Library from Scratch, 1st Edition, 
+Independently Published, 2017. 
+6. DT Editorial Services, HTML5 Black Book, 2nd Edition, Dreamtech Press, 2016. 
+7. Ben Frain, Responsive Web Design with HTML5 and CSS3, 2nd Edition, Packt Publishing, 
+2015. 
+8. Steve Suehring, JavaScript Step by Step, 3rd Edition, Pearson Education, 2013. 
+9. Stoyan Stefanov, React Up Running Building Web Applications, 1st Edition, O’Reilly Media 
+Inc., 2016. 
+10. Velte, Cloud Computing a Practical Approach, Tata McGraw-Hill Education. 
+11. Sandip Bhowmik, Cloud Computing, Cambridge University Press, 2017. 
+12. Miguel Grinberg, Flask Web Development, O’Reilly publication,2018 
+13. Sack Stouffer Daniel Gaspar, Mastering Flask Web Development, Packt Publication, 2018 
+ 
+ 
+Web Links: 
+1. Professional and Lifelong Learning: Web Development Courses | Harvard University 
+2. Virtual Lab: https://html-iitd.vlabs.ac.in/exp/introduction-to-html/references.html 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPEN ELECTIVE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y. B.Tech. Semester: IV 
+Course: Project Management (DJS23XOE261) 
+ 
+Pre-requisite: 
+1. Basic concepts of Management. 
+Objectives: 
+1. To familiarize the students with the use of a structured methodology/approach for every unique 
+project undertaken, utilizing project management concepts, tools and techniques. 
+2. To appraise the students with the project management life cycle and make them knowledgeable 
+about the various phases from project initiation through closure. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Explain project management life cycle and the various project phases as well as the role of 
+project manager. 
+2. Apply selection criteria and select an appropriate project from different options. 
+3. Create a work break down structure for a project and develop a schedule based on it. Manage 
+project risk strategically. 
+4. Use Earned value technique and determine & predict status of the project. Capture lessons 
+learned during project phases and document them for future reference. 
+5. Differentiate between traditional waterfall approach and agile scrum methodology for 
+software development projects. 
+Project Management (DJS23XOE261) 
+Unit Description Duration 
+1 Project Management Foundation: Definition of a project, Project Vs 
+Operations, Necessity of project management, Triple constraints, 
+Project life cycles (typical & atypical). Project phases and stage gate 
+process. Role of project manager, Negotiations and resolving conflicts, 
+Introduction to project leadership, ethics in projects, Multicultural and 
+virtual projects, Project management in various organization structures, 
+PM knowledge areas as per Project Management Institute 
+(PMI). 
+ 
+ 
+ 
+08 
+2 Initiating Projects: How to get a project started, selecting project 
+strategically, Project selection models (Numeric /Scoring Models and 
+Non-numeric models), Project portfolio process, Project sponsor and 
+creating charter, Effective project team, Stages of team 
+development & growth (forming, storming, norming 
+&performing), team dynamics. 
+ 
+ 
+08 
+3 Project Planning: Work Breakdown structure (WBS) and linear 
+responsibility chart, Project cost estimation and budgeting, Top down 
+and bottoms up budgeting, Networking and Scheduling techniques, 
+PERT, CPM. Crashing project time & Resource loading and levelling 
+(Only Theory), Project Stakeholders and Communication plan. 
+Risk Management in projects: Risk management planning, Risk
+identification and 
+risk register, Qualitative and quantitative risk assessment, Probability, 
+and impact matrix. Risk response strategies for positive and negative 
+risks. 
+ 
+ 
+ 
+ 
+09 
+ 
+4 Monitoring and Controlling Projects : Planning monitoring and 
+controlling cycle, Information needs and reporting, engaging with all 
+stakeholders of the projects, communication and project meetings. 
+Earned Value Management techniques for measuring value of work 
+completed, using milestones for measurement, change requests and 
+scope creep, Project audit, Project Contracting: Project procurement 
+management, contracting and outsourcing. 
+Closing the Project: Customer acceptance, Reasons of project 
+termination, Various types of project terminations (Extinction, Addition, 
+Integration, Starvation), Process of project termination, completing a 
+final report, doing a lessons learned analysis, 
+acknowledging successes and failures. 
+ 
+ 
+ 
+ 
+ 
+09 
+5 Agile project management: Agile principle, Agile Manifesto, Agile 
+process framework, Characteristics of Agile Approaches and Scrum, 
+Benefits of Agile project management, Implementing Agile project 
+management. 
+Agile Project Planning: Comparison of Agile Project Management 
+with Traditional Waterfall Approach, Project Planning with Scrum, 
+Scrum Artifacts Supporting Project Planning , Scrum Events for Project 
+Planning. Scheduling with scrum, Techniques for scrum scheduling- 
+Poker estimation. 
+Agile Tools for Tracking Project Progress: Task Boards, Burnup and 
+Burndown 
+Charts. 
+ 
+ 
+ 
+ 
+08 
+ Total 42 
+ 
+Books Recommended: 
+Text Books: 
+1. Project Management: A managerial approach, Jack Meredith & Samuel Mantel, 11th Edition, 
+Wiley India. 
+2. Project Management: The Managerial Process, 8th edition, Erik Larson, Clifford Gray, McGraw 
+Hill Education. 
+3. Agile Project Management, Jim Highsmith, Pearson Education, Low Price Edition, India. 
+Reference Books: 
+1. A Guide to the Project Management Body of Knowledge (PMBOK® Guide), 7th Ed, 
+Project Management Institute PA, USA. 
+2. Project Management, Gido Clements, Cengage Learning. 
+3. Project Management, Gopalan, Wiley India. 
+4. Project Management, Dennis Lock, 9th Edition, Gower Publishing England. 
+5. Agile Essentials You Always Wanted to Know, Kalpesh Ashar, Vibrant Publishers U.S.A. 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Vice-Principal Principal 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: IV 
+Course: Cyber Security, Policies and Laws (DJS23XOE262) 
+ 
+Pre-requisite: 
+1. Fundamentals of Computers. 
+Objectives: 
+1. Familiarize with the provisions and implications of the Digital Personal and Data Protection 
+Act, the obligations of data fiduciaries, the rights and duties of data principals, and 
+mechanisms for resolving breaches. 
+2. Equip individuals and organizations with the knowledge and tools to create secure cyber 
+ecosystems, strengthen regulatory frameworks, and develop incident response plans. 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Understand and describe the major types of cybercrime and navigate legal frameworks and 
+regulations concerning digital personal and data protection. 
+2. Implement strategies for cybersecurity outlined in the National Cyber Security Policy. 
+3. Apply appropriate law enforcement strategies to both, prevent and control cybercrime. 
+4. Comprehend regulations and strategies pertaining to AI (Artificial Intelligence) and large 
+language models. 
+ 
+Cyber Security, Policies and Laws (DJS23XOE262) 
+Unit Description Duration 
+1 Cyber Crime: 
+Definition and Origin of the Word, Cyber Crime and Information 
+Security, who are Cyber Criminals, Classification of Cybercrimes, 
+E-mail Spoofing, Spamming, Cyber Defamation, Internet Time 
+Theft, Salami Attack, Salami technique Data Diddling, Forgery, 
+Newsgroup Spam, Online Frauds, Pornographic Offenders, Email 
+Bombing, Password Sniffing, Credit Card Frauds. 
+ 
+ 
+08 
+2 Cyber Offenses: 
+How Criminals plan them, Categories of Cyber Crimes, How 
+Criminal Plans the Attack: Active Attacks, Passive Attacks, Social 
+Engineering, Classification of Social Engineering, Cyber Stalking: 
+types of Stalkers, Cyber Cafe and Cyber Crimes, Botnets, Attack 
+Vectors, Cyber Crime and Cloud Computing. 
+ 
+ 
+08 
+3 Indian IT Act 
+Cyber Crime and Criminal Justice, Penalties, Adjudication and 
+Appeals Under the IT Act, 2000, IT Act. 2008 and its Amendments 
+Security aspect in Cyber-Law, The Contract Aspects in Cyber Law, 
+The Security Aspect of Cyber Law, Security Standards: SOX, 
+GLBA, HIPAA, NIST Cyber Security Framework (CSF). 
+ 
+ 
+09 
+4 India's Digital Personal and Data Protection Act (2023) 
+Preliminary, Obligations of Data Fiduciary, Rights and Duties of 
+Data Principal, Special Provisions, Data Protection Board of India, 
+Powers, Functions and Procedure to Be Followed by Board, Appeal 
+and Alternate Dispute Resolution, Penalties and Adjudication. 
+ 
+08 
+ 
+5 India's AI Regulation and Strategy 
+Privacy, Security and Artificial Intelligence, Differential Privacy, 
+Security in AI. National Artificial Intelligence Strategy, Principles for 
+Responsible AI, Information Technology (Intermediary Guidelines 
+and Digital Media Ethics Code-2021), Draft National Data Governance 
+Framework Policy (NDGFP), Rules against Deepfakes, 
+Due diligence advisory for AI, AI regulations framework (June 2024). 
+ 
+ 
+09 
+ Total 42 
+Books Recommended: 
+Text Books: 
+1. Cyber Security: Understanding Cyber Crimes, Computer Forensics and Legal 
+Perspectives by Nina Godbole, Sunit Belapur, Wiley-2011. 
+2. Understanding Cybersecurity Management in Decentralized Finance: Challenges, 
+Strategies, and Trends by Gurdip Kaur, Springer-2023. 
+ 
+Reference Books: 
+1. The Information Technology Act, 2000; Bare Act- Professional Book Publishers, New 
+Delhi. 
+2. Izzat Alsmadi , The NICE Cyber Security Framework: Cyber Security Intelligence and 
+Analytics, Springer-2023. 
+References (Web Resources): 
+1. Digital Personal Data Protection Act 2023.pdf (meity.gov.in) 
+2. National Cyber Security Policy (draft v1 (meity.gov.in) 
+3. CISO_Roles_Responsibilities.pdf 
+4. Standards (bis.gov.in) 
+5. AI, Machine Learning & Big Data Laws & Regulations | India 
+(globallegalinsights.com) 
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks. 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks. 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks Total 
+summing up to 40 marks. 
+Semester End Examination (B): 
+ Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but with 
+internal choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Vice-Principal Principal 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: IV 
+Course: Advanced Operations Research (DJS23XOE263) 
+ Pre-requisite: 
+1. Operation Research 
+2. Mathematics (Calculus) 
+Objectives: 
+1. To develop an ability to analyse the structure and mathematical model of various 
+complex system occurring in manufacturing system, service system, and business 
+applications. 
+2. To develop knowledge of the mathematical structure of linear and nonlinear optimization 
+models. 
+3. To develop an understanding of the techniques used to solve linear and nonlinear 
+optimization models using their mathematical structure. 
+4. To develop an understanding of the use of modelling languages for expressing and 
+solving optimization models. 
+Outcomes: On completion of the course, learner will be able to: 
+1. Apply Duality theory to solve linear programming problem and analyse optimum 
+solution. 
+2. Construct linear integer programming models and apply the O.R. algorithms and 
+techniques to solve linear integer programming problems. 
+3. Determine best satisfying solution under a varying quantity of resources and priorities of the 
+goals. 
+4. Set up decision models and solve nonlinear programming- unconstrained optimization 
+problems. 
+5. Set up decision models and solve nonlinear programming- constrained optimization 
+problems. 
+ 
+Advanced Operations Research (DJS23XOE263) 
+Unit Description Duration 
+1 Dual Linear Programs 
+Primal, dual, and duality theory - The dual simplex method -The 
+primal- dual algorithm-Duality applications. Post optimization 
+problems: Sensitivity analysis. 
+ 
+ 
+06 
+2 Integer Programming 
+ure and mixed integer programming problems, Solution of Integer 
+rogramming problems — Gomory's all integer cutting plane method 
+and ixed integer method, branch and bound method, Zero-one 
+programming 
+ 
+ 
+06 
+3 Goal Programming 
+Concept of Goal Programming, GP model formulations, Graphical 
+method of GP, The simplex method of GP, Application areas of GP 
+ 
+ 
+12 
+4 Nonlinear Programming- Unconstrained optimization 
+Minimization and maximization of convex functions- Local & 
+Global optimum- Convergence-Speed of convergence. one-
+dimensional 
+unconstrained optimization — Newton's method — Golden- section 
+search Method , multidimensional unconstrained optimization Gradient
+ 
+ 
+12 
+ 
+method steepest ascent (descent) method — Newton's method. 
+ 
+5 Nonlinear Programming- Constrained optimization 
+Constrained optimization with equality and inequality 
+constraints. Lagrangian method - Sufficiency conditions - Kuhn-
+Tucker optimality conditions Rate of convergence - Engineering 
+Applications Quadratic programming problems-convex 
+programming problems 
+ 
+ 
+06 
+ Total 42 
+ 
+Books Recommended: 
+Text Books: 
+1. Operations Research, Gupta, P. K. and Hira, D. S., S. Chand Publications, 2014. 
+2. Operations research: Principles and applications, Srinivasan, G., Prentice Hallof India, 
+2007. 
+3. Non-Linear Programming-A Basic Introduction, Nita H. Shah, Poonam Prakash 
+Mishra, CRC Press, 2020. 
+Reference Books: 
+1. Introduction to Operations Research, Frederick S. Hillier & Gerald J. Lieberman, 
+McGraw-Hill: Boston MA; 8th. (International) Edition, 2005. 
+2. Operations Research — Principle and Practice Ravindran, Philips and Soleberg, 
+Second 
+Edition, John Wiley, and sons, 2007. 
+3. Operations Research - An Introduction: Taha, H. A., Pearson Education, 2022. 
+4. Operations Research: models and methods, Paul A. Jensen, Jonathan F. Bard, Wiley 
+Publications, 2003 
+5. Optimization Techniques in Operation Research, C. B Gupta, I.K. International 
+Publishing House Pvt. Limited, 2008. 
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) — 15 marks. 
+2) Term Test 2 (on next 40 % syllabus) — 15 marks. 
+3) Assignment / course project / group discussion / presentation / quiz — 10 marks Total 
+summing up to 40 marks. 
+ 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but with 
+internal choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Vice-Principal Principal 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: IV 
+Course: Corporate Finance Management (DJS23XOE264) 
+ 
+Pre-requisite: 
+1. Nil 
+ 
+Objectives: 
+1. Overview of Indian financial system, instruments and market. 
+2. Basic concepts of value of money, returns and risks, corporate finance, working capital and its 
+management. 
+3. Knowledge about sources of finance, capital structure, dividend policy. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Understand Indian finance system. 
+2. Apply concepts of time value money and risk returns to product, services and business. 
+3. Understand corporate finance and working capital management. 
+4. Take Investment and finance decisions. 
+5. Take dividend decisions. 
+ 
+Corporate Finance Management (DJS23XOE264) 
+Unit Description Duration 
+1 Overview of Indian Financial System: Characteristics, 
+Components and Functions of 
+Financial System. 
+Financial Instruments: Meaning, Characteristics and Classification 
+of Basic Financial Instruments — Equity Shares, Preference Shares, 
+Bonds-Debentures, Certificates of Deposit, and Treasury Bills. 
+Financial Markets: Meaning, Characteristics and Classification of 
+Financial Markets — Capital Market, Money Market and Foreign 
+Currency Market. 
+Financial Institutions: Meaning, Characteristics and Classification of 
+Financial Institutions — Commercial Banks, Investment-Merchant 
+Banks and Stock Exchanges. 
+09 
+2 Concepts of Returns and Risks: Measurement of Historical 
+Returns and Expected 
+Returns of a Single Security and a Two-security Portfolio; 
+Measurement of Historical Risk and Expected Risk of a Single 
+Security and a Two-security Portfolio. 
+Time Value of Money: Future V alue of a Lump Sum, Ordinary 
+Annuity, and Annuity Due; Present V alue of a Lump Sum, Ordinary 
+Annuity, and Annuity Due; Continuous 
+Compounding and Continuous Discounting. 
+09 
+3 Overview of Corporate Finance: Objectives of Corporate Finance; 
+Functions of Corporate Finance-investment Decision, Financing 
+Decision, and Dividend Decision.: 
+08 
+ 
+Working Capital Management: Concepts of Meaning Working 
+Capital; Importance of Working Capital Management; Factors 
+Affecting an Entity's Working Capital Needs; Estimation of Working 
+Capital Requirements; Management of Inventories; Management of 
+Receivables; and Management of Cash and Marketable Securities. 
+4 
+ 
+ 
+ 
+Capital Budgeting: Meaning and Importance of Capital 
+Budgeting; Inputs for Capital Budgeting Decisions; Investment 
+Appraisal Criterion—Accounting Rate of Return, Payback Period, 
+Discounted Payback Period, Net Present Value (NPV), Profitability 
+Index, Internal Rate of Return (IRR), and Modified Internal Rate of 
+Return (MIRR) 
+08 
+5 Capital Structure: Factors Affecting an Entity's Capital Structure; 
+Overview of Capital Structure Theories and Approaches — Net 
+Income Approach, Net Operating Income Approach; Traditional 
+Approach, and Modigliani-Miller Approach. Relation between 
+Capital Structure and Corporate V alue; Concept of Optimal Capital 
+Structure 
+Dividend Policy: Meaning and Importance of Dividend Policy; 
+Factors Affecting an Entity's Dividend Decision; Overview of 
+Dividend Policy Theories and Approaches — Gordon's Approach, 
+Walter's Approach, and Modigliani-Miller Approach 
+08 
+ Total 42 
+ 
+Books Recommended: 
+ 
+Textbooks: 
+1. Financial Management, Theory & Practice 8th Edition (2011), by Prasanna Chandra: Tata 
+McGraw Hill Education Private Limited, New Delhi. 
+2. Indian Financial System, 9th Edition (2015) by M. Y. Khan; Publisher: McGraw Hill 
+Education, New Delhi. 
+3. Financial Management, 11th Edition (2015) by I. M. Pandey; Publisher: S. Chand (G/L) & 
+Company Limited, New Delhi. 
+ 
+Reference Books: 
+1. Fundamentals of Financial Management, 13th Edition (2015) by Eugene F. Brigham and Joel 
+F. Houston; Publisher: Cengage Publications, New Delhi. 
+2. Analysis for Financial Management, l0th Edition (2013) by Robert C. Higgins; Publishers: 
+McGraw Hill Education, New Delhi. 
+ 
+ 
+ Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks. 
+ 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks. 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks 
+ Total summing up to 40 marks. 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but with 
+internal choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Vice-Principal Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: IV 
+Course: Corporate Social Responsibility (DJS23XOE265) 
+ 
+Objectives: 
+1. To understand the fundamental concepts and significance of Corporate Social Responsibility 
+(CSR) in a global and Indian context, exploring its historical evolution, key stakeholders, and the 
+benefits for business and society. 
+2. To analyse and apply ethical frameworks such as Utilitarianism, Deontology, and Virtue Ethics, 
+guiding responsible decision-making in corporate governance, supply chains, and other CSR 
+applications. 
+3. To examine CSR legislation, trends, and corporate initiatives within India and globally, with a 
+focus on Section 135 of the Companies Act 2013, Schedule VII, and Public-Private Partnerships, 
+enhancing student understanding of regulatory and strategic CSR drivers. 
+ 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Explain and critique the concept of CSR and its evolution, understanding its relevance and 
+impact on stakeholders in both business and societal contexts. 
+2. Apply ethical theories and frameworks to real-world CSR issues, demonstrating an 
+understanding of ethical decision-making processes in business scenarios. 
+3. Interpret and analyse CSR-related legislation and compliance requirements in India, particularly 
+the Companies Act 2013, and assess how these laws shape corporate behaviour and 
+responsibilities. 
+4. Evaluate the key drivers of CSR in India, understanding market pressures, civil society 
+influence, and regulatory frameworks, while assessing case studies of successful CSR initiatives. 
+5. Design and propose CSR strategies and community engagement programs that align with 
+sustainable development goals, emphasising corporate volunteering, stakeholder engagement, 
+and public-private partnerships. 
+ 
+ 
+Corporate Social Responsibility (DJS23XOE265) 
+Unit Description Duration 
+1 Introduction to Corporate Social Responsibility (CSR) 
+- Understanding the concept of CSR 
+- Historical evolution and development of CSR 
+- Importance and benefits of CSR for businesses and society 
+- Stakeholder theory and its relevance to CSR 
+ 07 
+2 Ethical Foundations of CSR 
+- Ethical theories relevant to CSR (Utilitarianism, Deontology, Virtue 
+Ethics) 
+- Ethical decision-making frameworks in business 
+- Corporate governance and ethics 
+- Ethical issues in supply chain management 
+ 09 
+3 CSR-Legislation in India and the World 
+Section 135 of Companies Act 2013.Scope for CSR Activities under 
+Schedule VII, Appointment of Independent Directors on the Board, and 
+Computation of Net Profit’s Implementing Process in India 
+09 
+4 The Drivers of CSR in India 09 
+ 
+Market based pressure and incentives, civil society pressure, the regulatory 
+environment in India Counter trends, Review of current trends and 
+opportunities in CSR, Review of successful corporate initiatives and 
+challenges of CSR. Case Studies of Major CSR Initiatives 
+Corporate Social Responsibility and Public-Private Partnership (PPP) 
+5 Social Responsibility and Community Engagement 
+- Social issues and challenges in contemporary society 
+- Corporate philanthropy and community development initiatives 
+- Stakeholder engagement strategies 
+- Corporate volunteering and employee engagement programs 
+- CSR as a strategic business tool vital for sustainable development 
+08 
+ Total 42 
+ 
+Books Recommended: 
+ 
+Text Books: 
+1. Andrew Crane, Dirk Matten , "Corporate Social Responsibility: Definition, Core Issues, and 
+Recent Developments" Oxford University Press. 
+2. O. C. Ferrell, John Fraedrich, Linda Ferrell , "Business Ethics: Ethical Decision Making & 
+Cases", Cengage Learning 
+3. Corporate Social Responsibility in India, Sanjay K Agarwal, Sage Publications, 2008 
+4. Corporate Social Responsibility in India, Bidyut Chakrabarty, Routledge, New Delhi, 2015 
+Reference Books: 
+1. Corporate Social Responsibility: An Ethical Approach, Mark S. Schwartz, Broadview Press, 
+2011 
+2. Attaining Sustainable Growth through Corporate Social Responsibility, George Pohle and Jeff 
+Hittner, IBA Global Business Services, 2008 
+3. Strategic Corporate Social Responsibility: Stakeholders in a Global Environment, William B. 
+Werther Jr. and David Chandler, 2nd Edition, Sage Publications, 2011 
+ 
+Web References: 
+1. NPTEL : Corporate social responsibility By Prof. Aradhna Malik 
+https://archive.nptel.ac.in/noc/courses/noc17/SEM2/noc17-mg20/ 
+2. Business Roundtable on CSR : https://www.businessroundtable.org/ 
+3. World Business Council for Sustainable Development: https://www.wbcsd.org/ 
+4. UN Global Compact on CSR: https://www.unglobalcompact.org/ 
+5. Ministry of Corporate Affairs, India CSR Policy : 
+https://www.csr.gov.in/content/csr/global/master/home/aboutcsr/about-csr.html 
+6. Harvard Business Review on CSR and Business Strategy: https://hbr.org/ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Vice-Principal Principal 
+ 
+ 
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: IV 
+Course: Bioinformatics (DJS23XOE266) 
+ 
+Pre-requisite: 
+1. Nil 
+ 
+Course Objectives: 
+1. To provide an overview of bioinformatics and its significance in modern biological 
+research. 
+2. To enable students to apply bioinformatics methods in practical scenarios for 
+biological data analysis and interpretation. 
+ 
+Course Outcomes: 
+Upon successful completion of this course, students will be able to: 
+1. Understand the structure and function of cells, organelles, and biomolecules. 
+2. Understand the types of data stored in bioinformatics databases and their relevance to 
+biological research. 
+3. Explore genomic databases and understand the structure and content of protein 
+databases. 
+4. Understand system biology concepts and molecular evolution. 
+5. Apply knowledge of cellular and molecular biology concepts to analyze a biological 
+problem. 
+ 
+Bioinformatics (DJS23XOE266) 
+Unit Description Duration 
+1 Module 1: Foundations of Molecular and Cellular Biology 
+Introduction to molecular biology: DNA, RNA, proteins, and their 
+roles in cellular processes 
+Cell structure and function: Organelles, membrane structure, and 
+cellular transport 
+Cell cycle regulation: phases of the cell cycle, checkpoints, and cell 
+cycle control mechanisms 
+ 
+ 
+ 
+08 
+2 Module 2: Genetics and Genomics 
+Mendelian genetics: Inheritance patterns, Punnett squares, and 
+genetic crosses 
+Chromosome structure and organization: karyotyping, gene 
+mapping, and genetic linkage 
+Introduction to genomics: genome structure, organization, and 
+variation. Techniques in molecular genetics: PCR, DNA sequencing, 
+and gene Cloning 
+ 
+ 
+ 
+ 
+09 
+ 
+ 
+3 Module 3: Genomic and Protein Databases 
+Types of genomic databases such as GenBank, Ensemble, and 
+UCSC Genome Browser, Understand the structure and content of 
+protein databases such as UniProt and Protein Data Bank (PDB), 
+biological databases and their classification, genome sequence 
+databases, protein structure databases, composite databases. 
+Searching, Retrieving, and Analysing Genomic and Protein data 
+from online databases, Human genome project 
+ 
+ 
+09 
+4 Module 4: Systems Biology 
+Introduction to Systems Biology: Modeling biological systems and 
+network analysis, Bioinformatics tools for systems biology and 
+modeling complex biological processes. 
+Principles of molecular evolution: Mutation, Selection, and genetic 
+drift. 
+Phylogenetic analysis : Tree construction, sequence alignment, and 
+molecular clock. 
+ 
+ 
+ 
+09 
+5 Module 5: Applications and Case Studies 
+Applications of Bioinformatics in Medicine, Agriculture, and 
+Biotechnology, Case Studies (Integrating Cellular and Molecular 
+Biology with Bioinformatics) and Research Examples, Ethical and 
+Legal Issues in Bioinformatics, Future Trends and Emerging 
+Technologies in Bioinformatics. 
+ 
+ 
+ 
+07 
+ Total 42 
+ 
+Books Recommended: 
+ 
+Textbooks: 
+1. Bioinformatics For Dummies", Jean-Michel Claverie and Cedric Notredame, For 
+Dummies. (2019) 
+2. Bioinformatics Algorithms: An Active Learning Approach" by Phillip Compeau and 
+Pavel Pevzner, Active Learning Publishers (2019) 
+ 
+Reference Books: 
+1. Introduction to Bioinformatics, Arthur Lesk, Biologist & Bioinformatics Expert, 2019 
+2. Introduction to Biomedical Data Science, Robert Hoyt, Informatics Education, 2019 
+3. Python for Biologists: A Complete Programming Course for Beginners, Martin Jones, 
+Oxford University Press, 2013 
+4. An Introduction to Bioinformatics Algorithms, Neil C. Jones, and Pavel A. Pevzne, 
+MIT Press,2004. 
+5. Exploring Bioinformatics: A Project-Based Approach, Caroline St. Clair, and 
+Jonathan E. Visick, Jones & Bartlett Learning, 2014. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluation Scheme: Continuous 
+Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks. 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks. 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks 
+Total summing up to 40 marks. 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but 
+with internal choice as appropriate), each carrying 15 marks, total summing up to 60 marks.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Vice-Principal Principal 
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: IV 
+Course: Human Resource Management (DJS23XOE267) 
+ 
+Pre-requisite: 
+1. Nil 
+ 
+Objectives: 
+1. To introduce the students to basic concepts, techniques and practices of the human 
+resource management 
+2. To provide opportunity of learning Human resource management (HRM) processes, 
+related with the functions, and challenges in the emerging perspective of today ‘s 
+organizations 
+3. To familiarize the students with the importance of the labour relations in the 
+organization. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Understand and distinguish the changing environment of the HRM and the role of the 
+HR managers. 
+2. Understand and analyze the recruitment process and the application of IT. 
+3. Understand and examine the importance of training and development. 
+4. Understand and determine the pay plans, performance appraisal and compensation. 
+5. Understand and explain the importance of labour relations, employee security and 
+collective bargaining. 
+ 
+Human Resource Management (DJS23XOE267) 
+Unit Description Duration 
+1 Human Resource Function 
+Human Resource Philosophy – Changing environments of HRM – 
+Strategic human resource management – Using HRM to attain 
+competitive advantage – Trends in HRM – Organization of HR 
+departments – Line and staff functions – Role of HR Managers. 
+ 
+08 
+2 Recruitment & Placement 
+Job analysis: Methods - IT and computerized skill inventory - Writing 
+job specification - HR and responsive organization. 
+Recruitment and selection process: Employment planning and 
+forecasting - Building employee commitment: Promotion from within - 
+Sources, Developing and Using application forms - IT and recruiting on 
+the internet. 
+Employee Testing & selection: Selection process, basic testing 
+concepts, types of test, work samples & simulation, selection 
+techniques, interview, common interviewing mistakes, Designing & 
+conducting the effective interview, small business applications, 
+computer aided interview. 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+3 Training & Development 
+Orientation & Training: Orienting the employees, the training process, 
+need analysis, Training techniques, special purpose training, Training 
+via the internet. 
+Developing Managers: Management Development - The responsive 
+managers - On-the-job and off-the-job Development techniques using 
+HR to build a responsive organization. 
+Performance appraisal: Methods - Problem and solutions - MBO 
+approach - The appraisal interviews - Performance appraisal in practice. 
+Managing careers: Career planning and development - Managing 
+promotions and transfers. 
+ 
+ 
+ 
+ 
+08 
+4 Compensation & Managing Quality 
+Establishing Pay plans: Basics of compensation - factors determining 
+pay rate - Current trends in compensation - Job evaluation - pricing 
+managerial and professional jobs - Computerized job evaluation. 
+Pay for performance and financial incentives: Money and motivation - 
+incentives for operations employees and executives - Organization wide 
+incentive plans - Practices in Indian organizations. 
+Benefits and services: Statutory benefits - non-statutory (voluntary) 
+benefits - Insurance benefits -retirement benefits and other welfare 
+measures to build employee commitment. 
+ 
+ 
+ 
+ 
+08 
+5 Labour relations and employee security 
+Industrial relations and collective bargaining: Trade unions - Collective 
+bargaining - future of trade unionism. Discipline administration - 
+grievances handling - managing dismissals and separation. 
+Labour Welfare: Importance & Implications of labour legislation - 
+Employee health - Auditing HR functions, Future of HRM function. 
+ 
+ 
+08 
+ Total 42 
+ 
+Books Recommended: 
+ 
+Text Books: 
+1. Pattanayak, Biswajeet, Human Resource Management, 6th Ed,PHI Learning Pvt. 
+Ltd., 1 Jul 2020 
+2. Gary Dessler, Human Resource Management, 16th Ed, Pearson Publications, 2020 
+ 
+Reference Books: 
+1. Stephen Robbins, Organizational Behavior, 16th Ed, 2013 
+2. Aswathapa, Human resource management: Text & cases, 6th edition, 2011 
+3. C. B. Mamoria and S V Gankar, Dynamics of Industrial Relations in India, 15th Ed, 
+2015, Himalaya Publishing, 15thedition, 2015 
+4. P. Subba Rao, Essentials of Human Resource management and Industrial relations, 
+5th Ed, 2013, Himalaya Publishing 
+5. Laurie Mullins, Management & Organizational Behavior, Latest Ed, 2016, Pearson 
+Publications 
+ 
+6. Raymond J. Stone, Anne Cox, Mihajla Gavin, Human Resource Management, 10th 
+Ed,John Wiley & Sons, 14 Dec 2020. 
+7. V S P Rao, Human Resource Management, 3rd Ed, 2010, Excel publishing. 
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks. 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks. 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks 
+Total summing up to 40 marks. 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise 4 questions (All compulsory, but with 
+internal choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Vice-Principal Principal 
+ 
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: IV 
+Course: Digital Marketing Management (DJS23XOE268) 
+ 
+Pre-requisite: 
+1. Nil 
+ 
+Objectives: 
+1. Explain the evolution and technology of digital marketing, including underlying 
+frameworks. 
+2. Understand digital business strategy and emerging business structures. 
+3. Cover digital marketing planning, operations setup, and implementation of search 
+campaigns, alongside emerging concepts like Big Data, IoT, SMB, B2B marketing, 
+and SoLoMo. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Understand the digital marketing framework & model and consumer behaviour. 
+2. Develop digital marketing strategy roadmap. 
+3. Explain the terminology and concepts for developing web-specific media plans. 
+4. Understand concepts related to digital campaign management and revenue generation 
+models. 
+5. Get a perspective on global digital marketing technology/tools and future trends. 
+ 
+Digital Marketing Management (DJS23XOE268) 
+Unit Description Duration 
+1 Introduction to Digital Marketing 
+Emergence of Digital Marketing as a tool, media consumption 
+drivers for new marketing environment, applications and benefits 
+of digital marketing. 
+Digital Marketing Framework 
+Delivering enhanced customer value, market opportunity analysis 
+and digital services development, ASCOR framework 
+Digital Marketing Models Creation 
+Factors impacting digital marketplace, value chain digitization, 
+business models. 
+The Consumer for Digital Marketing 
+ Consumer behavior on the internet, evolution of consumer 
+behavior models, managing consumer demand, integrated 
+marketing communications (IMC) 
+ 
+ 
+ 
+ 
+ 
+ 
+08 
+2 Digital marketing Strategy Development 
+Elements of assessment phase, macro-micro environmental 
+analysis, marketing situation analysis. 
+Digital Marketing Internal Assessment and Objectives 
+Planning 
+Analyzing present offerings mix, marketing mix, core 
+competencies analysis and internal resource mapping. Digital 
+ 
+ 
+11 
+ 
+ presence analysis, digital marketing objectives development and 
+review. 
+Digital Marketing Strategy Definition 
+Understanding digital business strategy and structures, consumer 
+development strategy, offering mix for Digital, digital pricing 
+models, managing promotional channels and developing the 
+extended Ps- People, process, programs and performance. 
+Digital marketing Strategy Roadmap 
+Developing digital marketing strategy roadmap, the 6s digital 
+marketing implementation strategy, marketing across the product life 
+cycle. 
+ 
+3 Digital Marketing Planning and Setup 
+Understanding digital media planning terminology and stages, 
+steps to creating marketing communications strategy, introduction 
+to search marketing, display marketing, social media marketing. 
+Digital Marketing Operations Setup 
+Basics of lead generation and conversion marketing, website content 
+development and management, elements of user experience, web 
+usability and evaluation. 
+ 
+ 
+ 
+08 
+4 Digital marketing Execution 
+Basic elements of digital campaign management, search execution, 
+display execution, social media execution, content marketing. 
+Digital marketing Execution Elements 
+Digital revenue generation models, managing service delivery and 
+payments, managing digital implementation challenges like e 
+commerce, internal & external and consumer specific challenges. 
+08 
+5 Digital Business – Present and Future 
+Digital Marketing – Global Landscape, digital marketing overview 
+– global spend, advertising spend, and technology/tools landscape. 
+Data technologies (Big data and IOT) impacting marketing, 
+segment based digital marketing and SoLoMo – the next level of 
+hyperlocal marketing. 
+07 
+ Total 42 
+ 
+Books Recommended: 
+Text Books: 
+1. Fundamentals of Digital Marketing by Puneet Singh Bhatia, Pearson Education 
+Limited,2017 
+2. Digital Marketing by Seema Gupta- McGraw Hill Education, 2022 
+Reference Books: 
+1. Digital Marketing Excellence: Planning, Optimizing and Integrating Online 
+Marketing by Dave Chaffey and P. R. Smith, 5 th edition, Taylor & Francis, 2017 
+2. Digital Marketing: Strategy, Implementation and Practice- 6 th edition by Dave 
+Chaffey Fiona Ellis-Chadwick, Pearson Education Limited,2019 
+3. Digital marketing by Vandana Ahuja, Oxford University Press, 2015 
+4. The Art of Digital Marketing by Ian Dodson, John Wiley & Sons, 2016 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks. 
+ 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks. 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks 
+Total summing up to 40 marks. 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise 4 questions (All compulsory, but with 
+internal choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Vice-Principal Principal 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: IV 
+Course: Logistics & Supply Chain Management (DJS23XOE269) 
+ 
+Pre-requisite: 
+1. Latest trend of information technology in retail industry and logistic applications. 
+ 
+Objectives: 
+1. To develop advanced strategic thinking skills in supply chain management and logistics to 
+effectively analyse and optimize supply networks. 
+2. To attain proficiency in leveraging cutting-edge tools and technologies to enhance supply 
+chain efficiency and supply chain transformation. 
+3. Design and implement collaborative supply chain and sourcing strategies to promote 
+information sharing and optimise coordination. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Develop a sound understanding of the important role of supply chain management in today’s 
+business environment. 
+2. Develop criteria and standards to achieve improved business performance by integrating and 
+optimizing the total logistics and supply-chain process. 
+3. Summarize the value of focusing on information business logistics systems which drives 
+improved accuracy and decision-making at all levels of management. 
+4. Become familiar with current supply chain information technology management trends. 
+5. Use available technologies to enhance work performance and support supply chain functions, 
+processes, transactions, and communications. 
+ 
+Logistics & Supply Chain Management (DJS23XOE269) 
+Module Description Hours 
+1 Introduction 
+What Is Supply Chain Management? The Development Chain, Global 
+Optimization, Managing Uncertainty and Risk, The Complexity in 
+Supply Chain Management, Key Issues in Supply Chain Management . 
+05 
+2 Network planning 
+Introduction, Network Design- Data Collection, Data Aggregation, 
+Transportation Rates, Mileage Estimation, Warehouse Costs, 
+Warehouse Capacities, Potential Warehouse Locations, Service Level 
+Requirements, Future Demand, Model and Data Validation, Solution 
+Techniques, Key Features of a Network Configuration Supply Chain 
+Planning; Inventory Positioning and Logistics Coordination -Strategic 
+Safety Stock. 
+07 
+3 The Value of Information 
+Introduction, The Bullwhip Effect-Quantifying the Bullwhip Effect, 
+The Impact of Centralized Information on the Bullwhip Effect, 
+Methods for Coping with the Bullwhip Effect, Information Sharing and 
+Incentives, Effective Forecasts, Information for the Coordination of 
+09 
+ 
+Systems, Locating Desired Products, Lead-Time Reduction, 
+Information and Supply Chain Trade-offs-Conflicting Objectives in the 
+Supply Chain, Designing the Supply Chain for Conflicting Goals 
+,Decreasing Marginal Value of Information. 
+4 Supply chain integration 
+Introduction, Push, Pull, and Push-Pull Systems-Push-Based Supply 
+Chain, Pull-Based Supply Chain, Push-Pull Supply Chain ,Identifying 
+the Appropriate Supply Chain Strategy, Implementing a Push-Pull 
+Strategy The Impact of Lead Time Demand-Driven Strategies The 
+Impact of the Internet on Supply Chain Strategies-what is E-Business, 
+the Grocery Industry , the Book Industry , the Retail Industry and 
+Impact on Transportation and Fulfillment. 
+09 
+5 Information Technology and Business Process 
+Introduction, The Importance of Business Processes, Goals of Supply 
+Chain IT 
+Supply Chain Management System Components, Decision-Support 
+Systems 
+IT for Supply Chain Excellence, Sales and Operations Planning 
+Integrating Supply Chain Information Technology. Implementation of 
+ERP and Decision Support System. 
+06 
+6 Technology standards 
+ Introduction, IT Standards, Information Technology Infrastructure-
+Interface Devices, System Architecture and Electronic Commerce. 
+Service-Oriented Architecture (SOA)-Technology Base: IBM and 
+Microsoft and ERP Vendor Platform: SAP and Oracle. Radio 
+Frequency Identification (RFID)- applications, point of sale data , 
+business benefits and supply chain efficiency. 
+06 
+ Total 42 
+ 
+Books Recommended: 
+ 
+Text Books: 
+1. Sunil Chopra, Peter Meindl “ Supply Chain Management-Strategy, Planning, and Operation”, 
+Pearson Publications 2016 
+2. David Simchi-Levi , Philip Kaminsky , Edith Simchi-Levi, “ Designing and Managing the 
+Supply Chain-Concepts, Strategies, and Case Studies”, McGraw-Hill/Irwin 2008 
+ Reference Books: 
+1. Ian Sadler, “Logistics and Supply Chain Integration”, SAGE Publications, 2007 
+2. Donald Waters, “Supply Chain Management - An Introduction to Logistics”, 
+Bloomsbury Publishing, 2019 
+3. Dimitris Folinas, “ E-Logistics and E-Supply Chain Management-Applications for Evolving 
+Business , IGI Global publications, 2013 
+4. Martin Christopher, “Logistics & Supply Chain Management”, Pearson Education 
+publications, 2016 
+ 
+ 
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks. 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks. 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks 
+ Total summing up to 40 marks. 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but with 
+internal choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Vice-Principal Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABILITY ENHANCEMENT COURSE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: Common to all Programs Semester: IV 
+Course: Professional and Business Communication Tutorial (DJS23XHS281T) 
+ 
+Course Objectives: 
+1. To inculcate professional and ethical attitude at the workplace 
+2. To enhance communication and interpersonal skills 
+3. To develop effective employability skills 
+4. To hone written skills for technical documentation 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Apply group discussion techniques in professional situations 
+2. Use employability skills to optimize career opportunities 
+3. Employ storytelling techniques for effective presentation 
+4. Prepare technical documents using appropriate style, format, and language 
+5. Analyze the concept of professional ethics 
+6. Demonstrate interpersonal skills in professional and personal situations 
+ Professional and Business Communication Tutorial (DJS23XHS281T) 
+The course is designed to equip students with essential skills, crucial for navigating the contemporary 
+job market successfully and fostering a positive work environment through effective communication 
+and collaboration. The assignments comprise of a combination of interactive activities, discussions, 
+case studies and real-world simulations, to help students, not only to ace job interviews and 
+professional interactions, but also to contribute positively to the ethical and productive functioning of 
+any organization. For the project work, students must prepare and present a well-researched and 
+persuasive business proposal, in groups, integrating the skills and knowledge acquired throughout the 
+course. 
+Unit Description of Tutorial Activities 
+ 
+No of 
+Assignments 
+1 
+Group Discussion: 
+Purpose of a GD, types of GD, criteria for evaluating GD, Dos and Don’ts 
+of GD 
+Activity: The students will be divided into groups of 8-12 and each group 
+will be given a topic/case to discuss within a given time frame. Each 
+student will submit a write-up on their observations of the GD. 
+1 
+2 
+Employment Skills 
+Resume Writing: 
+ Types of resumes, structure, content, and formatting of resume 
+Activity: The students will prepare and submit their individual resume 
+according to the professional requirements. 
+Interview Skills: 
+Types and modes of interview, Preparation for interview, Dos and Don’ts 
+of interview, frequently asked questions during interview 
+Activity: The students will submit a write-up on the FAQs and participate 
+in mock interviews 
+2 
+3 
+Corporate Story Telling: 
+Elevator pitch, product stories, event stories, stories in presentations, 
+storytelling in SOPs and interviews, storytelling to manage conflict or to 
+motivate. 
+1 
+ 
+Activity: The students will be divided into groups of 8-12 and asked to 
+give a team presentation using storytelling technique and submit the 
+hardcopy of the ppt. 
+4 
+Technical Writing and Documentation 
+Business Proposal Writing: 
+Types of business proposals, format of proposal, language and style, 
+presentation of proposal 
+ Meeting Documentation: 
+Planning layout of meetings, observing meeting decorum, drafting notice, 
+agenda, and minutes of meeting 
+Activity: The students will be divided into groups of 8-12 and each group 
+will conduct a mock meeting based on an agenda and submit a writeup of 
+the meeting documentation. 
+1 
+5 
+Professional Ethics: 
+Effective work habits, accountability, integrity, and excellence 
+Activity: The students will be divided into groups of 8-12 and each group 
+will analyse a case involving an ethical issue and submit the writeup. 
+1 
+6 
+Interpersonal Skills 
+Team Building: 
+Difference between group and team, importance of teamwork, strategies 
+to be a good team player 
+Activity: The students will be divided into groups of 8-12 and each group 
+will be assigned a task to be accomplished as a team, for which they will 
+submit the writeup. 
+Leadership: 
+Types of leadership, leadership styles, case studies 
+Activity: Each student will submit a writeup involving a leader they 
+admire, analysing various aspects of his leadership style. 
+Time Management: 
+Importance of time management, cultural views of time, 80/20 rule, time 
+wasters, setting priorities and goals 
+Activity: Each student will submit a writeup about a case involving time 
+management. 
+2 
+Batch wise tutorial work of minimum eight assignments from the above suggested list or any other 
+assignments based on the syllabus will be included, which would help the learner to apply the concepts 
+learnt. 
+ 
+Books Recommended: 
+1. Fred Luthans, “Organizational Behavior”, McGraw Hill, edition 
+2. Lesiker and Petit, “Report Writing for Business”, McGraw Hill, edition 
+3. Huckin and Olsen, “Technical Writing and Professional Communication”, McGraw Hill 
+4. Wallace and Masters, “Personal Development for Life and Work”, Thomson Learning, 12th 
+edition 
+5. Heta Murphy, “Effective Business Communication”, Mc Graw Hill, edition 
+6. Sharma R.C. and Krishna Mohan, “Business Correspondence and Report Writing”, Tata 
+McGraw-Hill Education 
+7. Ghosh, B. N., “Managing Soft Skills for Personality Development”, Tata McGraw Hill. 
+Lehman, 
+8. Bell, Smith, “Management Communication” Wiley India Edition, 3rd edition. 
+9. Dr. Alex, K.,” Soft Skills”, S Chand and Company 
+ 
+ 
+10. Subramaniam, R., “Professional Ethics” Oxford University Press. 
+11. Sandeep Das, “How Business Story Telling Works: Increase Your Influence and Impact” 
+Penguin Random House India Pvt. Ltd. 
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Term Work: - 50 marks. 
+Term Work shall comprise of: 
+Minimum 8 assignments: 25 marks. 
+Business Proposal presentation: 15 marks. 
+Group Discussion: 10 marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENTREPRENEURSHIP / ECONOMICS / 
+MANAGEMENT COURSES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: Common to all Programs. Semester: IV 
+Course: Economics and Financial Management (DJS23XHS282) 
+Pre-requisite: Knowledge of Economics and Finance domain current affairs. 
+ 
+Objectives: 
+1. To describe the relationships among variables to analyse economic issues. 
+2. To Explain the function of the market and prices as an allocative mechanism. 
+3. To identify key macroeconomic indicators and measures of economic change, growth, and 
+development 
+4. To understand basic concepts of financial management and their application in investment and 
+financing decisions 
+5. To explore the relationship between Financial Management and Financial Statements. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Analyse individual decision making, how prices and quantities are determined in product and factor 
+markets, microeconomic and macroeconomic outcomes 
+2. Analyse the performance and functioning of government, RBI, markets, and institutions in the 
+context of social and economic problems. 
+3. Analyse the current economic status of India at global levels and provision in budget to address 
+economic issues at national level. 
+4. Describe an understanding of the overall role and importance of the finance function. 
+5. Analyse financial performance and make appropriate inferences. 
+ 
+Economics and Financial Management (DJS23XHS282) 
+Unit Syllabus Content Hours 
+1 
+Introduction to Economics 
+Fundamentals of Economics, Definition and scope of economics, the nature of the 
+economic problem, finite resources and unlimited wants, definitions of the factors of 
+production and their rewards, definition of opportunity cost, the influence of opportunity 
+cost on decision making. 
+Microeconomics and Macroeconomics 
+The role of markets in allocating resources, the market system, introduction to the price 
+mechanism, Demand, Supply and Price determination, Price elasticity of demand and 
+supply (PED). 
+06 
+2 
+Role of Government and RBI 
+Money, Banking, Households, Firms, economies and diseconomies of scale, Market 
+Structure, Fiscal Policy, Monetary Policy, Economic Growth, causes and consequences of 
+recession, causes of economic growth, measurement of economic growth i nflation and 
+deflation, living standards, indicators of living standards. 
+04 
+ 
+3 
+Government Policies 
+Last 20 years Journey of Indian Economy, Measures taken to grow Indian Economy, 
+Meaning of India is the world's fifth-largest economy by nominal GDP and the third-
+largest by purchasing power parity (PPP), On a per capita income basis, India ranked 
+139th by GDP (nominal) and 127th by GDP (PPP) (Data reference year 2023), 
+Comparison of top 5 largest economies in world, Discuss key points of India latest 
+union budget and its impact on Indian economy and citizens, Meaning of Initiatives 
+like Make in India, Digital India, Skill India etc. and expected impact on Indian 
+Economy 
+04 
+4 
+Overview of Financial Management 
+Fundamentals of financial management, principles and functions of the financial 
+management, Strategy, methods, and techniques of the financial management, 
+Overview of financial instruments, financial markets, financial Institutions 
+04 
+5 
+Overview of Financial Statements 
+Balance Sheet, Profit and Loss Account, and Cash Flow Statement; Purpose of 
+Financial Ratio Analysis; Liquidity Ratios; Efficiency or Activity Ratios; 
+Profitability Ratios; Capital Structure Ratios; Stock Market Ratios; 
+10 
+ Total 28 
+ 
+ Books Recommended: 
+ Text books: 
+1. Gaurav Datt & Biswajit Nag, “Datt & Sundharam's Indian Economy”, S. Chand Publications, 
+73rd Edition, 2024. 
+2. Prasanna Chandra, “Fundamentals of Financial Management”, McGraw Hill Publications, 7th 
+Edition, 2020. 
+ 
+Reference Books: 
+1. Public Economics: The Macroeconomic Perspective by Burkhard Heer, Springer International 
+Publications,2019 
+2. Indian Economy: Economic Ideas, Development, and Financial Reforms by Raj Kumar Sen, 
+Deep & Deep Publications, 2008 
+3. Indian Economy: Performance and Policies by Dr. V. C. Sinha, SBPD Publications,2021 
+4. Financial Management by C. Paramasivan, T. Subramanian, New Age Publications,2009 
+5. Financial Management Practices in India by Sandeep Goel, Taylor & Francis Publications,2016 
+ Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks. 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks. 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks 
+ Total summing up to 40 marks. 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but with 
+internal choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VOCATIONAL AND SKILL 
+ENHANCEMENT COURSE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: IV 
+Course: Innovative Product Development II (DJS23XSC251P) 
+ 
+ 
+Objectives: 
+1. To acquaint the students with the process of identifying the need (considering a societal requirement) 
+and ensuring that a solution is found to address the same by designing and developing an innovative 
+product. 
+2. To familiarize the students with the process of designing and developing a product, while they work as 
+part of a team. 
+3. To acquaint the students with the process of applying basic engineering fundamentals, so as to attempt at 
+the design and development of a successful value-added product. 
+4. To inculcate the basic concepts of entrepreneurship and the process of self-learning and research required 
+to conceptualize and create a successful product. 
+Outcome: 
+Learner will be able to: 
+1. Identify the requirement for a product based on societal/research needs. 
+2. Apply knowledge and skills required to solve a societal need by conceptualizing a product, especially 
+while working in a team. 
+3. Use standard norms of engineering concepts/practices in the design and development of an innovative 
+product. 
+4. Draw proper inferences through theoretical/ experimental/simulations and analyze the impact of the 
+proposed method of design and development of the product. 
+5. Develop interpersonal skills, while working as a member of the team or as the leader. 
+6. Demonstrate capabilities of self-learning as part of the team, leading to life-long learning, which 
+could eventually prepare them to be successful entrepreneurs. 
+7. Demonstrate product/project management principles during the design and development work and also 
+excel in written (Technical paper preparation) as well as oral communication. 
+Guidelines for the proposed product design and development: 
+ Students shall convert the best design solution into a working model, using various components drawn from 
+their domain as well as related interdisciplinary areas. 
+ Faculty supervisor may provide input to students during the entire span of the activity, spread over 2 semesters, 
+wherein the focus shall be on self-learning. 
+ A record in the form of an activity logbook is to be prepared by each team, wherein the team can record weekly 
+progress of work. The guide/supervisor should verify the recorded notes/comments and approve the same 
+on a weekly basis. 
+ The design solution is to be validated with proper justification and the report is to be compiled in a standard 
+format and submitted to the department. Efforts are to be made by the students to try and publish a technical 
+paper, either in the institute journal, “Techno Focus: Journal for Budding Engineers” or at a suitable 
+publication, approved by the department research committee/ Head of the department. 
+ The focus should be on self-learning, the capability to design and innovate new products as well as on 
+developing the ability to address societal problems. Advancement of entrepreneurial capabilities and quality 
+development of the students through the yearlong course should ensure that the design and development of 
+a product of appropriate level and quality is carried out, spread over two semesters, i.e., during the semesters 
+III and IV. 
+ 
+ 
+ 
+Guidelines for Assessment of the work: 
+ The review/ progress monitoring committee shall be constituted by a panel of faculty members. The 
+progress of design and development of the product is to be evaluated on a continuous basis, holding a 
+minimum of two reviews in each semester. 
+ In the continuous assessment, the focus shall also be on each individual student’s contribution to the team 
+activity, their understanding and involvement as well as responses to the questions being raised at all points 
+in time. 
+ 
+Review/Progress monitoring committee may consider the following points during the assessment. 
+ 
+The tentative rubrics that can be followed can be as follows: 
+Review 1: 
+i. Revisiting the proposed solution 
+ii. System Design and Specification 
+iii. Presentation Quality 
+iv. Contribution as a team member and Punctuality 
+ Review 2: 
+i. Implementation Details & Status (30% project implementation) 
+ii. Design & System Specifications 
+iii. Presentation Quality 
+iv. Contribution as a team member and Punctuality 
+v. Project Documentation 
+Guidelines for Assessment of Semester Reviews: 
+ The write-up should be prepared as per the guidelines given by the department. 
+ The design and the development of the product shall be assessed through a presentation and demonstration 
+of the working model by the student team to a panel of Internal Examiners. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 

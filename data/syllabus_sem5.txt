@@ -1,0 +1,2647 @@
+ 
+ 
+Scheme and Detailed syllabus (DJS23) 
+Third Year B.Tech 
+in 
+Computer Science and 
+Engineering (Data Science) 
+(Semester V) 
+ 
+ 
+ 
+ 
+ 
+Dwarkadas J. Sanghvi College of Engineering 
+(Autonomous College Affiliated to the University of Mumbai) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Scheme of Semester - V for Department of Computer Science and Engineering (Data Science) 
+Academic Year (2026 - 2027) 
+ 
+ 
+ 
+ 
+Sr. 
+No 
+ 
+ 
+ 
+ 
+Course Code 
+ 
+ 
+ 
+ 
+Course 
+Teaching Scheme Semester End Examination (SEE) - A Continuous Assessment (CA) - B 
+ 
+ 
+ 
+Aggreg
+ate 
+(A+B) 
+ 
+ 
+ 
+ 
+Total Credits 
+ 
+Theory 
+(Hrs) 
+ 
+Practical 
+(Hrs) 
+ 
+Tutorial 
+(Hrs) 
+ 
+ 
+Credits 
+ 
+Duration 
+(Hrs) 
+ 
+ 
+Theory 
+ 
+ 
+Oral 
+ 
+ 
+Pract 
+ 
+Oral 
+& 
+Pract 
+ 
+SEE 
+Total( 
+A) 
+ 
+Term 
+Test 1 
+(TT1) 
+ 
+Term 
+Test 2 
+(TT2) 
+ 
+Term 
+Test 3 
+(TT3) 
+Term 
+Test 
+Total 
+(TT1 + 
+TT2 
++ TT3) 
+ 
+ 
+Term 
+work 
+ 
+CA 
+Total 
+(B) 
+ 
+1 
+DJS23DPC301 Machine Learning-II (Deep Learning) 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 
+4 
+DJS23DPC301L Machine Learning-II Laboratory -- 2 -- 1 2 -- -- -- 25 25 -- -- -- -- 25 25 50 1 
+ 
+2 
+DJS23DPC302 Design and Analysis of Algorithms 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 
+4 
+DJS23DPC302L Design and Analysis of Algorithms Laboratory -- 2 -- 1 2 -- -- -- 25 25 -- -- -- -- 25 25 50 1 
+ 
+3 
+DJS23DPC303 Intelligent Systems 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100 2 
+3 
+DJS23DPC303L Intelligent Systems Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 
+ 
+ 
+ 
+ 
+ 
+ 
+4@ 
+DJS23DPE301 Recommender Systems 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 
+4 
+DJS23DPE301L Recommender Systems Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 
+DJS23DPE302 Soft Computing 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 
+4 
+DJS23DPE302L Soft Computing Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 
+DJS23DPE303 Social Network Analysis 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 
+4 
+DJS23DPE303L Social Network Analysis Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 
+DJS23DPE304 Cloud Computing and Security 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 
+4 
+DJS23DPE304L Cloud Computing and Security Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 
+ 
+5 
+DJS23DMD301 Computer Communication and Networks 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 
+4 
+DJS23DMD301L Computer Communication and Networks Laboratory -- 2 -- 1 2 -- -- -- 25 25 25 25 50 1 
+ 
+ 
+6# 
+DJS23DOE311L DevOps Laboratory 
+ 
+-- 
+ 
+ 
+4 
+ 
+ 
+-- 
+ 
+ 
+2 
+ 
+ 
+-- 
+ 
+ 
+-- 
+ 
+ 
+-- 
+ 
+ 
+-- 
+ 
+ 
+-- 
+ 
+ 
+-- 
+ 
+ 
+-- 
+ 
+ 
+-- 
+ 
+ 
+-- 
+ 
+ 
+-- 
+ 
+ 
+50 
+ 
+ 
+50 
+ 
+ 
+50 
+ 
+ 
+2 
+ 
+ 
+2 DJS23DOE312L Advanced Java Laboratory 
+DJS23DOE313L Advanced Database Laboratory 
+7 DJS23XSC301P Innovative Product Development III -- 2 -- 1 2 -- -- -- 25 25 -- -- -- -- 25 25 50 1 1 
+8 DJSC23DSC301 Scalable ML System Engineering 1 -- -- 1 -- -- -- -- -- -- 15 15 10 40 -- 40 40 1 1 
+9 DJS23XHS331 Constitution of India 1 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+ Total 16 16 -- 23 18 300 0 0 100 400 90 90 60 240 200 440 840 23 23 
+@ Any 1 Department Elective Course 
+# Any 1 Open Elective Course 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of Department Vice Principal Principal 
+
+ 
+Continuous Assessment (A): 
+ 
+Course Assessment Tools Marks Time (hrs.) 
+ 
+ 
+ 
+ 
+Theory 
+a. Term Test 1 (based on 40 % syllabus) 15 45 
+b. Term Test 2 (on next 40 % syllabus) 15 45 
+c. Assignment / course project / group discussion / 
+presentation / quiz/ any other. 10 -- 
+ 
+Total marks (a + b + c) 
+ 
+40 
+ 
+-- 
+ 
+Audit course 
+Performance in the assignments / quiz / power point 
+presentation / poster presentation / group project / 
+any other tool. 
+ 
+-- 
+ 
+ 
+ 
+As 
+applicable Laboratory Performance in the laboratory and documentation. 25 
+Tutorial Performance in each tutorial & / assignment. 25 
+Laboratory 
+&Tutorial 
+Performance in the laboratory and tutorial. 50 
+ 
+The final certification and acceptance of term work will be subject to satisfactory performance upon 
+fulfilling minimum passing criteria in the term work / completion of audit course. 
+ 
+Semester End Assessment (B): 
+ 
+Course Assessment Tools Marks Time (hrs.) 
+Theory / 
+* Computer 
+based 
+Written paper based on the entire syllabus. 
+60 
+ 
+2 
+* Computer based assessment in the college premises. 
+Oral Questions based on the entire syllabus. 25 As applicable 
+Practical 
+Performance of the practical assigned during the examination 
+and the output / results obtained. 25 2 
+ 
+Oral & 
+Practical 
+Project based courses - Performance of the practical assigned 
+during the examination and the output / results obtained. 
+Based on the practical performed during the examination and 
+on the entire syllabus. 
+ 
+As per the 
+scheme 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAMME CORE COURSE 
+
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Machine Learning - II (Deep Learning) (DJS23DPC301) 
+Machine Learning - II Laboratory (DJS23DPC301L) 
+ 
+Pre-requisite: Linear Algebra, Calculus, Probability, Statistics and Machine Learning Basics. 
+ 
+Course Objectives: 
+1. To introduce students with the fundamental concepts of artificial neural network and different 
+learning algorithms: supervised and unsupervised neural networks. 
+2. To expose Deep Network based methods to solve real world complex problems. 
+3. Develop in-depth understanding of the Transfer Learning, its key components, challenges 
+and Applications. 
+ 
+Course Outcomes: On completion of the course, learner will be able to: 
+1. Analyze different neural network architectures and their learning algorithms. 
+2. Build solution using appropriate neural network and deep network models. 
+3. Analyze optimization strategies and regularization methods to enhance deep learning model training. 
+4. Evaluate and implement transfer learning techniques across various applications. 
+ 
+Machine Learning - II (Deep Learning) (DJS23DPC301) 
+Unit Description Duration 
+ 
+ 
+1 
+Introduction to Artificial Neural Learning: 
+Fundamental concepts of biological Neural Networks, NN Architectures, Important 
+terminologies of ANN: Activation functions: (Sigmoid, Tanh, and ReLU, Leaky ReLU, 
+GELU, Swish, ELU), weights, bias, threshold, learning rate, McCulloch Pitts Neuron: 
+Theory and Architecture; Linear separability; Hebb Network: Theory and Algorithm. 
+ 
+ 
+07 
+ 
+ 
+2 
+Supervised Learning Networks: 
+Perceptron: Representational power of Perceptron, The Perceptron Training Rule, Delta 
+Rule; Multilayer Networks: Representational Power of Feedforward Networks; 
+Backpropagation Algorithm: Convergence and local minima, Hypothesis space search 
+and Inductive Bias, Generalization, Vanishing & Exploding Gradients. 
+ 
+ 
+07 
+ 
+ 
+ 
+3 
+Optimization for Training Deep Models: 
+Challenges in Neural Network Optimization, Basic Algorithms, Parameter Initialization 
+Strategies. Optimizers: Gradient Descent, Stochastic Gradient Descent, SGD with 
+Momentum, SGD with Momentum, RMSProp, Adam. 
+Regularization for Deep Learning: 
+Parameter Norm Penalties, Dataset Augmentation, Noise Robustness, Early Stooping, 
+Sparse Representation, Dropout and Batch Normalization. 
+ 
+ 
+ 
+06 
+ 
+ 
+4 
+Convolutional Networks: 
+The Convolution Operation, sparse interactions, parameter sharing, Dataset 
+Augmentation, Pooling, Variations of Heatmaps. Variants of Basic Convolution 
+Function, Efficient Convolution Algorithms (AlexNet, LeNet-5, VGG, InceptionNet, 
+ResNet, MobileNet (for lightweight models)), Attention Mechanisms in CNNs 
+ 
+ 
+07 
+
+ 
+ (Squeeze-and-Excitation (SE) Networks, CBAM). 
+ 
+ 
+ 
+ 
+5 
+Unsupervised Learning Networks: 
+Kohonen Self-Organizing Feature Maps – architecture, training algorithm, Kohonen 
+Self- Organizing Motor Map. 
+Autoencoders: 
+Sparse Autoencoder, Undercomplete Autoencoders, Regularized Autoencoders, 
+Denoising Autoencoders, Applications of Autoencoders. Variational Autoencoders 
+(VAEs), Linear Factor Methods such as Probabilistic PCA and Factor Analysis, 
+Independent Component Analysis, Deep Embedded Clustering (DEC) 
+Self-Supervised Learning: 
+Contrastive learning (SimCLR, CURL), Instance Discrimination Method. 
+ 
+ 
+ 
+ 
+ 
+07 
+ 
+ 
+ 
+ 
+ 
+6 
+Transfer Learning: 
+Fundamental of Transfer Learning, Freezing, Fine-tuning. Transfer Learning 
+Strategies: Inductive Transfer. 
+Types of Deep Transfer Learning: Domain Adaptation, Domain Confusion, One-shot 
+Learning, Zero-shot Learning. 
+Types of Transferable Components: Instance transfer, Feature-representation transfer, 
+Parameter transfer. 
+Transfer Learning Challenges: Negative Transfer, Transfer Bounds. 
+Model: CLIP, SAM (Segment Anything Model). 
+Applications: Transfer learning for NLP/ Audio/ Speech/ Computer Vision 
+ 
+ 
+ 
+ 
+ 
+08 
+ Total 42 
+ 
+Machine Learning - II Laboratory (DJS23DPC301L) 
+Exp. Suggested Experiments 
+1 Implement Boolean gates using perceptron. 
+2 Implement backpropagation algorithm from scratch. 
+3 Monitoring and evaluating deep learning models using Tensorflow and Keras. 
+4 Evaluate and analyze Prediction performance using appropriate optimizers for deep learning models. 
+5 Building CNN models for image categorization. (medical image analysis) 
+6 Implement Graph Convolutional Networks (GCN) for Node Classification and Link Prediction 
+7 Implement contrastive learning on unlabeled data 
+8 Anomaly detection using Self-Organizing Network. 
+9 Compare the performance of PCA and Autoencoders on a given dataset. 
+10 Transfer Learning with Pre-trained CNN model as a Feature Extractor for Image Classification with 
+a Data Availability Constraint 
+11 Zero-shot Image Classification using CLIP & Few-shot Learning with DINO 
+* The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes (10m). 
+ 
+Books Recommended: 
+Text Books: 
+1. Christopher M. Bishop, Hugh Bishop, “Deep Learning Foundations and concept”, Springer Cham, 
+1st Edition, 2023. 
+2. S. N. Sivanandam and S. N. Deepa, “Introduction to Soft Computing”, Wiley India 
+Publications, 3rd Edition, 2018. 
+3. Ian Goodfellow and Yoshua Bengio and Aaron Courville, “Deep Learning”, An MIT Press, 2016. 
+
+ 
+4. Simon Haykin, “Neural Networks and Learning Machines”, Pearson Prentice Hall, 3rd Edition, 2010. 
+Reference Books: 
+1. François Chollet, “Deep Learning with Python”, Manning Publication, 2nd edition, 2021. 
+2. Josh Patterson, Adam Gibson, “Deep Learning: A Practitioner's Approach”, O’Reilly Publication, 
+2017. 
+3. Andrew W. Trask, Grokking, “Deep Learning”, Manning Publication, 2019. 
+4. John D. Kelleher, “Deep Learning”, MIT Press Essential Knowledge series, 2019. 
+ 
+Web Links: 
+1. Learning Rule: http://vlabs.iitb.ac.in/vlabs-dev/labs/machine_learning/labs/explist.php 
+2. ANN Virtual Lab: http://cse22-iiith.vlabs.ac.in/List%20of%20experiments.html 
+3. Deep Learning: https://vlab.spit.ac.in/ai/#/experiments 
+4. NPTEL Course: Deep Learning Part 1: https://onlinecourses.nptel.ac.in/noc19_cs85/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Design and Analysis of Algorithms (DJS23DPC302) 
+Design and Analysis of Algorithms Laboratory (DJS23DPC302L) 
+ 
+Pre-requisite: Computer Programming, Data structures. 
+ 
+Course Objectives: 
+1. To provide mathematical approach for Analysis of Algorithms. 
+2. To introduce important algorithmic design paradigms and approaches for effective problem solving. 
+3. To introduce the concepts of tractable and intractable problems and the classes P, NP and NP-
+complete problems. 
+Course Outcomes: On completion of the course, learner will be able to: 
+1. Analyze the performance of algorithms by solving recurrence relations with various methods. 
+2. Solve the problem using appropriate algorithmic design techniques. 
+3. Able to prove that certain problems are NP-Complete. 
+ 
+Design and Analysis of Algorithms (DJS23DPC302) 
+Unit Description Duration 
+ 
+ 
+1 
+Introduction: 
+Methods for solving recurrence relations using tree, substitution, master method 
+Problem Solving using divide and conquer algorithm: – Binary search, Quick sort, 
+Merge Sort, Randomized Quick Sort, Analysis of Binary search, quick sort and 
+merge sort. 
+ 
+ 
+07 
+ 
+ 
+2 
+Graph and Tree Algorithms: 
+B Tree: Properties of B Tree, Insertion, Deletion and Search Operation on B Tree, 
+B+ Tree: Properties of B+ Tree, Insertion, Deletion and Search Operation on B+ 
+Tree, RB Tree: Properties of RB Tree, Insertion, Deletion and Search Operation 
+on RB Tree, Topological sorting, Applications. 
+ 
+ 
+07 
+ 
+ 
+3 
+Greedy Method: 
+Introduction, control abstraction, Problem solving using - fractional knapsack 
+problem, activity selection problem, job sequencing with deadline, Minimum 
+Spanning trees (Kruskal’s algorithm, Prim’s algorithm), Single source shortest 
+path (Dijkstra’s algorithm), coin change problem. 
+ 
+ 
+06 
+ 
+ 
+ 
+4 
+Dynamic Programming: 
+Introduction, principle of optimality, Components of dynamic programming, 
+characteristics of dynamic programming, Fibonacci problem, Coin Changing 
+problem, 0/1 knapsack (table and set method), All pairs shortest paths (Floyd 
+Warshall Algorithm), Single sou rce shortest path (Bellman -Ford Algorithm), 
+Matrix Chain Multiplication, Travelling salesperson problem, Longest Common 
+Subsequence (LCS). 
+ 
+ 
+ 
+10 
+ 
+5 
+Backtracking: 
+Introduction, Basics of backtracking, N–queen problem, Sum of subsets, Graph 
+coloring, Hamiltonian cycles Generating permutation. 
+Branch-and-Bound: 
+ 
+07 
+
+ 
+ Introduction, Control abstraction -LC BB, FIFO BB, LIFO BB, 15 Puzzle 
+problem, 0/1 Knapsack problem, Job Sequencing with Deadline. 
+ 
+ 
+6 
+Basics of Computational Complexity: 
+Complexity classes: The class P and NP, Polynomial reduction, NP 
+Completeness Problem, NP-Hard Problems, NP Completeness problem using 
+Travelling Salesman problem (TSP), Approximation algorithm using TSP. 
+ 
+ 
+05 
+ Total 42 
+ 
+Design and Analysis of Algorithms Laboratory (DJS23DPC302L) 
+Exp. Suggested Experiments 
+1 Implementation of randomized quick sort. 
+2 Implementation of minimum spanning tree algorithm – Prim's and Kruskal’s using greedy 
+approach. 
+3 Fractional Knapsack implementation using greedy approach. 
+4 Implementation of Activity selection using greedy approach. 
+5 Implementation of Kruskal’s/ Prim’s algorithm using greedy approach. 
+6 Implementation of job sequencing with deadline using greedy approach. 
+7 Implementation of Single source shortest path (Dijkstra’s algorithm) 
+8 Implementation of Bellman Ford algorithm using Dynamic programming 
+9 Implementation of Longest Common Subsequence algorithm using Dynamic programming. 
+10 Implementation of Travelling Salesperson problem using Dynamic programming. 
+11 Implementation of multistage graphs/ all pair shortest path using dynamic programming. 
+12 Implementation of N-queen problem using Backtracking. 
+ 
+13 
+Given an integer array num of 2n integers, group these integers into n pairs (a1, b1), (a2, b2), ..., (an, 
+bn) such that the sum of min (ai, bi) for all i is maximized. Return the maximized sum. (Using 
+LeetCode Platform) 
+ 
+ 
+14 
+Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to 
+the following rules: 
+1. Each row must contain the digits 1-9 without repetition. 
+2. Each column must contain the digits 1-9 without repetition. 
+3. Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition. 
+ 
+15 
+Given an m x n grid of characters’ board and a string word, return true if word exists in the grid. 
+The word can be constructed from letters of sequentially adjacent cells, where adjacent cells are 
+horizontally or vertically neighboring. The same letter cell may not be used more than once. 
+ 
+ 
+16 
+Given an array prices where prices[i] is the price of a given stock on the ith day. 
+You want to maximize your profit by choosing a single day to buy one stock and choosing a different 
+day in the future to sell that stock. 
+Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, 
+return 0. 
+Minimum 10 experiments from the above-suggested list or any other experiment or mini project based on 
+syllabus will be included, which would help the learner to apply the concept learnt. 
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignments/Quizzes (10m). 
+
+ 
+Books Recommended: 
+Textbooks: 
+1. Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, ‘Algorithms’, Tata McGraw- Hill, 1st 
+Edition, 2023. 
+2. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein, “Introduction to 
+Algorithms”, 4th Edition, The MIT Press, 2022. 
+3. Ellis Horowitz, Sartaj Sahni, S. Rajsekaran, “Fundamentals of computer algorithms”, University Press, 
+1st Edition, 2018. 
+Reference Books: 
+1. S. K. Basu, ‘Design Methods and Analysis of Algorithm’, PHI, 2nd Edition, 2013. 
+2. John Kleinberg, Eva Tardos, “Algorithm Design”, Pearson, 1st Edition, 2013. 
+ 
+Web Links: 
+1. NPTEL Course: https://onlinecourses.nptel.ac.in/noc19_cs47/preview 
+2. LeetCode: https://leetcode.com/problem-list 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Intelligent Systems (DJS23DPC303) 
+Intelligent Systems Laboratory (DJS23DPC303L) 
+ 
+Pre-requisite: Basic Mathematics, Data Structures 
+ 
+Course Objectives: 
+1. Provide the basic ideas and techniques underlying the design of intelligent systems. 
+2. Impart the knowledge of various search techniques for problem solving. 
+3. Learn knowledge representation and provide the knowledge to deal with uncertain and 
+incomplete information. 
+4. Impart the knowledge of Intelligent planning. 
+ 
+Course Outcomes: On completion of the course, learner will be able to: 
+1. Apply appropriate search-based method for a given problem. 
+2. Analyze various IS approaches to knowledge - problem solving, reasoning, 
+and intelligent planning. 
+3. Apply the knowledge of reasoning and intelligent planning to solve a problem. 
+ 
+Intelligent Systems (DJS23DPC303) 
+Unit Description Duration 
+ 
+ 
+ 
+1 
+Fundamentals: 
+Introduction to Intelligence Systems, Evolution, Categorization of Intelligent System, 
+Applications. 
+Problem solving: 
+Solving problem by Searching: Problem Solving Agent, Formulating Problems. State 
+Space Search: Uninformed search, Breadth First Search (BFS), Depth First Search 
+(DFS), Depth, Depth First Iterative Deepening (DFID). 
+ 
+ 
+ 
+04 
+ 
+ 
+ 
+2 
+Heuristic Search and Optimization: 
+Best first Search, Hill Climbing, Variations of Hill Climbing, Solution Space, and 
+Travelling Salesman Problem. Finding Optimal Paths: Branch and Bound, A*, 
+Admissibility and monotonicity properties of A*. 
+Game Playing: 
+Game Theory, Board games and game tree, The minimax algorithm, Alpha -Beta 
+Pruning. 
+ 
+ 
+ 
+07 
+ 
+3 
+Knowledge and Reasoning in Logic: 
+Logic, Soundness and Completeness, Propositional Logic, First Order Logic, forward 
+chaining, Backward chaining and Refutation. 
+ 
+05 
+ 
+ 
+ 
+4 
+Ontology: 
+Knowledge Modelling, Definition, and importance of ontologies in AI, Components of 
+ontologies: classes, properties, individuals, Ontology development methodologies (e.g. 
+Protégé), Ontology languages (e.g. OWL, RDF), Ontology reasoning and inference, 
+Applications of ontologies in AI (e.g. semantic web, knowledge management. 
+Ontology-based data access and integration, Rule-based reasoning with ontologies (e.g. 
+SWRL). 
+ 
+ 
+ 
+06 
+
+ 
+ 
+5 
+Planning: 
+Domain independent planning, Forward and Backward search, Goal Stack Planning, 
+Plan Space Planning, Means Ends Analysis, Graphplan, algorithm AO*. 
+ 
+06 
+ Total 28 
+ 
+Intelligent Systems Laboratory ((DJS23DPC303L) 
+Exp. Suggested Experiments 
+1 Implement domain specific function for different problems. 
+ 
+2 
+Identify and analyze uninformed search Algorithm to solve the problem. Implement BFS/DFS/DFID 
+search algorithms to reach goal state. 
+3 Program to implement Local Search algorithm: Hill climbing search. 
+4 Implement A* search algorithm to reach goal state. 
+5 To analyze the admissibility property of A* algorithm by comparing the results using admissible and 
+inadmissible heuristics. 
+6 Implement minimax algorithm for a two-player game. 
+7 Implement Alpha-Beta Pruning and analyze its effectiveness in optimizing game-tree search by 
+reducing the number of nodes evaluated. 
+8 Develop a knowledge base using OWL. 
+9 Develop a Rule based System using SWRL on Protégé software. 
+10 AI-Based Decision Making Using AO* Algorithm 
+* The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes (10m). 
+ 
+Books Recommended: 
+Text Books: 
+1. Stuart Jonathan Russell, Stuart Russell, Peter Norvig “Artificial Intelligence: A Modern 
+Approach”, Pearson, 2020. 
+2. Deepak Khemani.” A First Course in Artificial Intelligence”, McGraw Hill Education (India), 
+2013. 
+3. Dean Allemang, James Hendler “Semantic Web for the Working Ontologist”, Elsevier 1st 
+Edition, 2008. 
+ 
+Reference Books: 
+1. Saroj Kaushik “Artificial Intelligence”, First Edition, Cengage Learning, 2011. 
+2. Ivan Bratko “PROLOG Programming for Artificial Intelligence”, Fourth Edition, Pearson 
+Education, 2011. 
+3. Crina Grosan, Ajith Abraham, “Intelligent Systems: A Modern Approach” Springer Science & 
+Business Media, 2011 
+4. Elaine Rich and Kevin Knight “Artificial Intelligence” Third Edition, Tata McGraw-Hill, 2008. 
+5. Patrick Henry Winston, “Artificial Intelligence”, Addison-Wesley, Third Edition. 
+
+ 
+ 
+Web Links: 
+1. NPTEL: Computer Science and Engineering - Artificial Intelligence: Search Methods for 
+Problem Solving: https://nptel.ac.in/courses/106106226 
+2. NPTEL Course: An Introduction to Artificial Intelligence: 
+https://onlinecourses.nptel.ac.in/noc20_cs42/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAMME ELECTIVE COURSE 
+
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Recommender Systems (DJS23DPE301) 
+Recommender Systems Laboratory (DJS23DPE301L) 
+ 
+ 
+Pre-requisite: Statistics for Data Science, and Machine Learning. 
+ 
+Course Objectives: To provide students with the basic concepts of Recommender Systems, design space, 
+trade- offs and its application in various domain. 
+ 
+Course Outcomes: On completion of the course, the learner will be able to: 
+1. Explain the fundamental concepts and biases in recommender systems. 
+2. Apply neighborhood-based and collaborative filtering techniques for designing recommender 
+systems. 
+3. Design and evaluate advanced recommender systems using hybrid approaches, constraint-based and 
+context-aware models. 
+ 
+Recommender Systems (DJS23DPE301) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Introduction to Recommender Systems: 
+Recommender Systems Function, Techniques, Application and Evaluation, 
+Explanations and Persuasiveness, Conversational Systems, Visualization, Biases 
+in Recommender Systems: Statistical, cultural and cognitive, data and algorithm 
+bias and self-selection biases, Issues working with RSs data sets: The cold -start 
+problem. 
+Recommendation System Properties: User Preference, Prediction Accuracy, 
+Coverage, Confidence, Trust, Novelty, Serendipity, Diversity, Utility, Risk, 
+Robustness, Privacy, Adaptivity. 
+Evaluation metrics: Rating prediction and accuracy, Ranking Measures: NDPM, 
+Spearman’s ρ, R -Score, MAP, NDCG, MRR, implicit/explicit. Other metrics: 
+fairness, coverage, diversity, novelty, serendipity. 
+ 
+ 
+ 
+ 
+ 
+ 
+07 
+ 
+ 
+ 
+ 
+2 
+Content-based Recommender System: 
+High level Architecture of Content -based Systems, Advantages and Drawbacks 
+of Content -based Filtering, Item profiles, discovering features of documents, 
+obtaining item features from tags, representing item profiles, Methods for 
+Learning User Profiles, Similarity base d retrieval, Classification algorithms, 
+Knowledge based recommendation: Knowledge representation and reasoning, 
+Case based recommenders. 
+ 
+ 
+ 
+06 
+ 
+ 
+3 
+Neighbourhood-based Recommendation Methods: 
+Advantages of Neighborhood Approaches, Neighborhood -based 
+Recommendation, User -based Rating Prediction, User -based Classification 
+Regression Vs Classification, Item-based Recommendation, User-based Vs Item- 
+based Recommendation, Rating Normalization, Similarity Weight Computation, 
+ 
+ 
+09 
+
+ 
+ Neighborhood Selection. 
+Graph-based Methods: 
+User-Item Graphs, Neighborhoods with Random Walks, Neighborhoods with the 
+Katz Measure, Attacks on collaborative recommender systems 
+ 
+ 
+ 
+ 
+ 
+4 
+Neighborhood models: 
+Rule-Based Collaborative Filtering: Leveraging Association Rules for 
+Collaborative Filtering, Item-Wise Models versus User-Wise Models Naive Bayes 
+Collaborative Filtering: Handling Overfitting, Example of the Bayes Method with 
+Binary Ratings. 
+Collaborative filtering-based Recommender System: 
+Baseline predictors through least squares, Implicit feedback, Matrix factorization 
+models: SVD, SVD++, Time-aware factor model, Comparison, echo chambers, 
+data drift and concept drift. 
+ 
+ 
+ 
+ 
+07 
+ 
+ 
+ 
+5 
+Constraint-based Recommenders Development of Recommender 
+Knowledge Bases: User Guidance in Recommendation Processes, Calculating 
+Recommendations. 
+Context-Aware Recommender Systems: Context in Recommender Systems, 
+Modeling Contextual Information in Recommender Systems. Paradigms for 
+Incorporating Context in Recommender Systems: Contextual Pre- Filtering, 
+Contextual Post-Filtering, Contextual Modeling, Combining Multiple 
+Approaches, Additional Issues in Context-Aware Recommender Systems. 
+ 
+ 
+ 
+ 
+07 
+ 
+ 
+6 
+Hybrid approaches: 
+Deep Recommender systems, Multimodal Recommenders, Monolithic 
+hybridization design: Feature combination, Feature augmentation, Parallelized 
+hybridization design: Weighted, Switching. Limitations of hybridization 
+strategies. 
+ 
+ 
+06 
+ Total 42 
+ 
+Recommender Systems Laboratory (DJS23DPE301L) 
+Exp. Suggested Experiments 
+1 Processing and analysis of public recommender systems datasets, and performance evaluation and 
+comparison / Master spreadsheet-based tools. 
+2 Compare and analyze performance of Content-based recommendation engine on different 
+datasets for Book, Movie, Song, product Recommendation. 
+3 Implement Recommendation System using K-Nearest Neighbors and evaluate its performance on 
+different datasets. 
+4 Build project-association recommenders using association rule mining. 
+5 Build a Recommendation Engine with Item-Based Collaborative Filtering. 
+6 Implement Context-Aware Recommender Systems Trust. 
+7 Build Constraint-based Recommenders to provide valuable support for users searching for products 
+and services in e-commerce environments. 
+8 Implement Hacker News algorithm /Subreddit User Recommendation System based on Netflix's 
+Algorithm. 
+9 Implement Bayesian personalized ranking using matrix factorization algorithm 
+10 Implement Google PageRank algorithm for recommendation. 
+11 Implement unsupervised learning - Autoencoders and Restricted Boltzmann Machines. 
+
+ 
+12 
+Implement recommender systems in 5G wireless networks for optimizing wireless network 
+performance and deploy designed recommender System as Hosted Interactive Web Service on 
+AWS. 
+Minimum 10 experiments from the above-suggested list or any other experiment or mini project based on 
+syllabus will be included, which would help the learner to apply the concept learnt. 
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignments/Quizzes 
+(10m). 
+Books Recommended: 
+Textbooks: 
+1. Jannach D., Zanker M. and FelFering A., “Recommender Systems: An Introduction”, 
+Cambridge University Press, 1st Edition, 2011. 
+2. Kim Falk, “Practical Recommender Systems”, Manning, 1st Edition, 2019 
+3. Manouselis N., Drachsler H., Verbert K., Duval E., “Recommender Systems for Learning”, 
+Springer, 1st Edition, 2013. 
+4. C.C. Aggarwal, “Recommender Systems: The Textbook”, Springer, 1st Edition, 2016. 
+Reference Books: 
+1. 1. M.D. Ekstrand, J.T. Riedl, J.A. Konstan, “Collaborative filtering recommender systems”, 
+Now publishers, 1st Edition, 2011. 
+2. 2. J. Leskovec, A. Rajaraman and J. Ullman, “Mining of massive datasets”, Cambridge, 2nd 
+Edition, 2012. 
+3. 3. Rounak Banik, “Hands-On Recommendation Systems with Python: Start building”, Ingram 
+short title, 2018 
+4. 4. P. Pavan Kumar, S. Vairachilai, Sirisha Potluri, “Recommender Systems: Algorithms and 
+Applications”, CRC Press, 1st edition, 2021. 
+Web Links: 
+1. Udemy course on Recommender Systems and Deep Learning in Python: 
+https://realpython.com/build-recommendation-engine-collaborative-filtering 
+2. Coursera course on Recommender Systems Specialization: 
+https://www.coursera.org/specializations/recommender-systems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Soft Computing (DJS23DPE302) 
+Soft Computing Laboratory ((DJS23DPE302L) 
+ 
+ 
+Pre-requisite: Mathematics, Algorithms. 
+Course Objectives: To equip students with the knowledge and skills to apply fuzzy logic, genetic 
+algorithms, evolutionary computation, and hybrid soft computing techniques for solving real-world 
+optimization and decision-making problems. 
+Course Outcomes: On completion of the course, learner will be able to: 
+1. Understand the fundamentals of soft computing. 
+2. Apply fuzzy logic and evolutionary algorithms to solve real-world decision-making 
+and optimization problems. 
+3. Analyze multi-objective optimization techniques and hybrid soft computing models to handle 
+complex problem-solving scenarios. 
+ 
+Soft Computing (DJS23DPE302) 
+Unit Description Duration 
+ 
+ 
+1 
+Introduction: Concept of computing systems, Tolerance for imprecision and 
+uncertainty, Adaptability and learning capability, Trade -offs between 
+computational efficiency and accuracy. "Soft" computing versus "Hard" computing 
+Characteristics of Soft Computing, major areas of Soft Computing, applications of 
+Soft Computing, Limitations of soft computing approaches. 
+ 
+ 
+03 
+ 
+ 
+2 
+Fuzzy logic: 
+Introduction to Uncertainty Treatment, Fuzzy logic, Fuzzy sets and membership 
+functions, Operations on Fuzzy sets. Fuzzy relations, rules, propositions, 
+implications and inferences, Defuzzification techniques, Fuzzy logic controller 
+design, Some applications of Fuzzy logic. 
+ 
+ 
+07 
+ 
+ 
+ 
+ 
+3 
+Genetic Algorithms 
+Concept of "Genetics" and "Evolution" and its application to probabilistic search 
+techniques, Basic GA framework and different GA architectures. GA operators: 
+Encoding, Crossover, roulette wheel selection, tournament selection, population, 
+binary encoding and decoding for any optimization problem, Selection, Mutation, 
+etc. Solving single-objective optimization problems using Gas, Multi objective Gas, 
+Concepts on Non-domination, tournament selection, crowding distance operator, 
+ranking, Simulated annealing. 
+ 
+ 
+ 
+ 
+08 
+ 
+ 
+4 
+Multi-objective Optimization Problem Solving 
+Concept of multi-objective optimization problems (MOOPs) and issues of solving 
+them. Multi -Objective Evolutionary Algorithm (MOEA), TOPSIS, Non -Pareto 
+approaches to solve MOOPs Pareto-based approaches to solve MOOPs. Some 
+applications with MOEAs. 
+ 
+ 
+08 
+
+ 
+ 
+ 
+ 
+ 
+5 
+Evolutionary Computation: 
+Ant Colony Optimization and Artificial Bee Colony Algorithms: Biological ant 
+colony system, Artificial ants and assumptions – Stigmergic communications, 
+Pheromone updating- local - global - Pheromone evaporation - ant colony system 
+ACO models, Touring ant colony system - max min ant system - Concept of elistic 
+ants, Task partitioning in honeybees - Balancing foragers and receivers – Artificial 
+bee colony (ABC) algorithms - binary ABC algorithms, ACO and ABC algorithms 
+for solving SINX maximization problem, Particle Swarm Optimization. 
+ 
+ 
+ 
+ 
+10 
+ 
+6 
+Rough Sets: basic operations, lower and upper, approximations, discernibility 
+matrix, distinction table; Accuracy of Approximations. 
+Hybridization of Soft Computing tools: Sequential Hybrid Systems, Auxiliary 
+Hybrid Systems, Embedded Hybrid Systems, Neuro-Fuzzy Hybrid Systems, Neuro-
+Genetic Hybrid Systems, Fuzzy-Genetic Hybrid Systems., Rough fuzzy, Rough- 
+Fuzzy-GA etc. boundary region. Applications 
+ 
+ 
+ 
+06 
+ Total 42 
+ 
+Soft Computing Laboratory ((DJS23DPE302L) 
+Exp. Suggested Experiments 
+1 Implement fuzzy set operations (union, intersection, complement) and visualize membership 
+functions. 
+ 
+2 
+1. Design and implement a Fuzzy Inference System (FIS) for temperature control. 
+2. Implement different defuzzification techniques (e.g., Centroid, Bisector, MOM, SOM, 
+LOM). 
+ 
+ 
+3 
+Genetic Algorithms (GA) 
+1. Implement a simple Genetic Algorithm for function optimization. 
+2. Apply GA for solving a Traveling Salesman Problem (TSP). 
+3. Implement a binary encoding and decoding mechanism for GA-based optimization. 
+4. Compare Roulette Wheel Selection and Tournament Selection methods in GA. 
+ 
+4 
+Multi-objective Optimization Problem Solving 
+1. Implement Non-Dominated Sorting Genetic Algorithm (NSGA-II) for solving multi-
+objective problems. 
+2. Solve a multi-objective problem using Pareto-based optimization techniques. 
+ 
+ 
+5 
+Evolutionary Computation (anyone) 
+1. Implement Ant Colony Optimization (ACO) for pathfinding in a graph. 
+2. Implement Artificial Bee Colony (ABC) optimization for function minimization. 
+3. Solve a function maximization problem using ACO and ABC. 
+4. Implement Particle Swarm Optimization (PSO) for parameter tuning in an optimization 
+problem. 
+6 Implement rough set-based data analysis using lower and upper approximations. 
+7 Compute the discernibility matrix and generate reducts using the Rough Set approach. 
+8 Implement a Neuro-Fuzzy system for classification tasks. 
+9 Implement a hybrid Genetic Algorithm-Fuzzy Logic system for an optimization problem. 
+10 Implement a Rough-Fuzzy system for feature selection and classification. 
+* The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes 
+(10m). 
+
+ 
+ 
+Books Recommended: 
+Textbooks: 
+1. S. N. Sivanandam and S. N. Deepa, “Introduction to Soft Computing”, Wiley India Publications, 3rd 
+Edition, 2018. 
+2. Recent Advances in Swarm Intelligence and Evolutionary Computation, Xin-She Yang, Springer 
+International Publishing, Switzerland, 2015. 
+3. Kalyanmoy Deb, Multi-Objective Optimization using Evolutionary Algorithms Paperback – Wiley 
+India Publications, 2010. 
+4. Multi-Objective Optimization using Evolutionary Algorithms, Kalyanmoy Deb, John Wiley & Sons, 
+2001. 
+ 
+Reference Books: 
+1. Timothy J.Rose, ”Fuzzy Logic with Engineering Applications”, Fourth Edition, John Wiley, 2020. 
+2. GENETIC ALGORITHMS: in search, optimization and machine learning, D. E. GOLDBERG, Dec 
+2008. 
+3. Artificial Neural Networks, B. Yegnanarayana, PHI publication, 1998. 
+4. Neural Networks: Algorithms, Applications, and Programming Techniques, James FREEMAN and 
+David Skapura, Pearson publication, 1st edition – 2002. 
+5. J.S.R Jang,C.T Sun and E.Mizutani, ”Neuro-Fuzzy and Soft Computing”, Second Edition, Prentice 
+Hall of India, 2002. 
+ 
+Web Links: 
+1. Soft Computing — CS60108 
+2. https://nptel.ac.in/courses/103/103/103103164/ 
+3. https://nptel.ac.in/courses/112/105/112105235/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Social Network Analysis (DJS23DPE303) 
+Social Network Analysis Laboratory (DJS23DPE303L) 
+ 
+ 
+Pre-requisite: Probability and Statistics, Machine Learning. 
+ 
+Course Objectives: To equip students with the knowledge and analytical skills necessary for the study 
+of massive networks, addressing the associated computational, algorithmic, and modeling 
+challenges, and to cultivate a research-oriented perspective on the structure, dynamics, and analysis 
+of large-scale networks. 
+ 
+Course Outcomes: On completion of the course, the learner will be able to: 
+1. Analyse social networks using visualization techniques and structural measures. 
+2. Illustrate network growth patterns and ranking methodologies in complex networks. 
+3. Examine methods for detecting communities, predicting links, and modelling information flow. 
+4. Apply anomaly detection and representation learning approaches for network analysis. 
+ 
+Social Network Analysis (DJS23DPE303) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+1 
+Society & Network: Introduction, Use of social networks, defining a network, types 
+of network (link -centric, node and link centric, local view, temporal view, 
+generalization, real -world network), levels of social network analysis, graph 
+visualization tools. 
+Network Measures: Network basics, node centrality, assortativity, transitivity and 
+reciprocity, similarity, degeneracy. 
+Network Growth Models: Overview of real-world networks and their properties, 
+brief introduction to Erdős -Rényi Random Network Model, Watts -Strogatz Model, 
+and Preferential Attachment Model with their key characteristics and limitations. 
+ 
+ 
+ 
+ 
+08 
+ 
+2 
+Link Analysis: Application of link analysis, Signed networks: Balance Theory of 
+Undirected Signed Networks, Status Theory of Signed Networks, Triad Balance vs 
+Status, Strong and Weak Ties: Strength of a Tie, Triadic Closure, Dunbar Number, 
+Local Bridges and Importance of Weak Ties, PageRank, DivRank, SimRank, PathSim. 
+ 
+07 
+ 
+ 
+3 
+Community Detection: Application of community detection, types of communities, 
+community detection methods, Disjoint Community Detection: Node -centric 
+community detection, modularity and community detection, Overlapping Community 
+Detection: Clique Dynamics, Local Community Detection. 
+Link Prediction: Applications of link prediction, Evaluating Link Prediction methods 
+ 
+ 
+07 
+
+ 
+ 
+4 
+Cascade Behaviours & Network Effects: Preliminaries and Important Terminologies, 
+Cascade Models, Probabilistic Cascades, Epidemic Models, Independent Cascade 
+Models, Cascade Prediction. 
+ 
+05 
+ 
+5 
+Anomaly Detection in Networks: Outliers verses network based anomalies. Anomaly 
+in Static Networks: Plain and attributed networks, relational learning, Anomaly in 
+Dynamic Networks: Preliminaries, feature and decomposition-based approaches, 
+Challenges in anomaly detection. 
+ 
+07 
+ 
+ 
+ 
+6 
+Graphical Representation Learning: Intuition behind representation learning, 
+representation learning methods. 
+Graph Convolutional Network (GCN) and its variations and applications in social 
+network analysis. 
+Dynamic Graph Convolutional Networks (DGCN) & Continuous-Time Dynamic 
+Graph Neural Networks (CTDGNN): Advanced models for analyzing evolving 
+social networks. 
+ 
+ 
+ 
+08 
+ Total 42 
+ 
+Social Network Analysis Laboratory ((DJS23DPE303L) 
+Exp. Suggested Experiments 
+1 Creating and analyzing a graph using Social Network and Gephi Tool. 
+ 
+2 
+Building a network and network measures using NetworkX: 
+a) Degree & Degree Distribution 
+b) Clustering Coefficients 
+c) Node Centrality Measure 
+3 Implementation of random scale-free network growth model on network science (Barabási-Albert). 
+4 Implementation of link analysis using the Random Walk PageRank algorithm. 
+5 Implementation of link prediction using a classification approach. 
+6 Implementation of local and global link prediction models. 
+7 Implement the Clique Percolation Method (CPM) for detecting overlapping communities in a 
+given social network graph. 
+8 To implement and analyze epidemic models. 
+9 Implementation of Graph Representation Learning for Social Network Analysis Using GCN. 
+10 Mini Project 
+* The Term Work will be calculated based on Laboratory Performance (15m) and Assignment (10m). 
+ 
+Books Recommended: 
+Textbooks: 
+1. Tanmoy Chakraborty, “Social Network Analysis”, First Edition, Wiley, 2021. 
+2. Stephen P Borgatti, Martin G. Everett, Jeffrey C. Johnson, “Analyzing Social Networks”, 
+3. Sage Publications Ltd, 2nd Edition, 2018. 
+4. William L. Hamilton, “Graph Representation Learning”, Morgan & Claypool Publishers, 
+2020. 
+
+ 
+ 
+Reference Books: 
+1. Xiaoming Fu, Jar -Der Luo, Margarete Boos, ‘Social Network Analysis Interdisciplinary 
+Approaches and Case Studies’, 1st Edition, CRC Press, 2020. 
+2. Dr. Krishna Raj P.M., Mr. Ankith Mohan, Dr. Srinivasa K.G, “Practical Social Network 
+Analysis with Python (Computer Communications and Networks)”, First Edition, 
+Springer, 2019. 
+3. John Scott, “Social Network Analysis”, Fourth Edition, SAGE Publications Ltd,2017. 
+4. Song Yang, Franziska Barbara Keller, Lu Zheng,“Social Network Analysis : Methods and 
+Examples”, First Edition, SAGE Publications, 2016. 
+ 
+Web Links: 
+1. A course on Social Network Analysis: 
+https://onlinecourses.nptel.ac.in/noc22_cs117/preview 
+2. Social Network Analysis 101: Ultimate Guide Comprehensive Introduction for 
+Beginners: https://visiblenetworklabs.com/guides/social-network-analysis-101/ 
+3. Real-world use cases of Social Network Analysis: 
+https://www.latentview.com/social-media-analytics/a-guide-to-social-network-
+analysis-and-its-use-cases/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Cloud Computing and Security (DJS23DPE304) 
+Cloud Computing and Security Laboratory (DJS23DPE304L) 
+ 
+Pre-requisite: System Fundamentals and Basic Networking. 
+ 
+Course Objectives: 
+1. Understand the core principles of cloud computing, including parallel and distributed computing 
+concepts, and virtualization techniques. 
+2. Analyze the architecture of cloud computing, covering cloud service models, types of clouds, and 
+key migration strategies. 
+3. Explore Virtual Private Cloud (VPC) concepts, Elastic Compute Cloud (EC2) services, and their 
+role in cloud infrastructure design and management. 
+4. Learn cloud-based storage solutions, Database as a Service (DBaaS) offerings, and cloud security 
+measures for data protection. 
+Course Outcomes: On completion of the course, the students will able to 
+1. Demonstrate the ability to differentiate between parallel and distributed computing and understand 
+the role of virtualization in cloud environments. 
+2. Apply knowledge of cloud architecture to select appropriate cloud service models and types, and 
+perform effective cloud migrations. 
+3. Configure and manage VPCs, EC2 instances, and understand best practices for cloud networking 
+and instance management. 
+4. Implement cloud storage solutions, leverage DBaaS, and ensure robust cloud security using 
+industry-standard practices and AWS security services. 
+ 
+Cloud Computing and Security (DJS23DPE304) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+1 
+Introduction to Cloud Computing: 
+Principles of Parallel and Distributed Computing: Parallel vs. distributed computing, 
+Elements of parallel computing and Distributed Computing. 
+Virtualization: 
+Characteristics of virtualized environments, Taxonomy of virtualization techniques: 
+hosted, bare -metal, Hyp ervisor and Xen Architecture, Para virtualization with 
+Compiler Support, CPU Virtualization, Other Virtualizations: Storage, Network, 
+Desktop and Application Server Virtualization, Virtualization and cloud computing. 
+ 
+ 
+ 
+ 
+06 
+ 
+ 
+2 
+Cloud Computing Architecture: 
+The cloud reference model: SAAS, IAAS, PAAS, Types of clouds: Public, Private 
+Hybrid, Community, Economics of the cloud, Open challenges. 
+Migrating Applications to the Cloud: 
+Key aspects, cloud migration techniques, phases during migration, cloud emulators. 
+ 
+ 
+06 
+
+ 
+ 
+ 
+ 
+ 
+3 
+Virtual Private Cloud (VPC): 
+Introduction to VPC and its benefits, Networking concepts within a VPC (subnets, 
+route tables, security groups) VPC peering and connectivity options, VPC design best 
+practices and considerations. 
+Elastic Compute Cloud (EC2) Service: 
+Overview of EC2 and its role in cloud computing, EC2 instance types and families, 
+Provisioning and launching EC2 instances, configuring security groups and key pairs, 
+Managing EC2 instances (start, stop, terminate), Elastic IP addresses and Elastic 
+Network Interfaces (ENIs). 
+ 
+ 
+ 
+ 
+08 
+ 
+ 
+4 
+Cloud-Based Storage: 
+Provisioning Cloud Storage, Amazon S3, Elastic Block Store (ESB), Cloud Storage 
+Interoperability, Exploring Cloud Backup Solutions. 
+Database as a Service: 
+Key advantages of Database as a service offering, Amazon Relational Database 
+Service (Amazon RDS), Amazon DynamoDB, Amazon Redshift, Amazon Aurora. 
+ 
+ 
+08 
+ 
+ 
+ 
+ 
+ 
+5 
+Understanding Cloud Security: 
+Securing the Cloud: The security boundary, Security service boundary, Security 
+mapping, Securing Data: Brokered cloud storage access, Storage location and 
+tenancy, Encryption, Auditing and compliance, Establishing Identity and Presence, 
+Identity protocol standards: Windows Azure identity standards. 
+Data Protection: 
+Protect data at rest and in transit, Identify Amazon Simple Storage Service (Amazon 
+S3) protection features, Encrypt data in Amazon S3, Differentiate between client-side 
+encryption (CSE) and server-side encryption (SSE), Identify Amazon Web Services 
+(AWS) services that help protect your data. 
+ 
+ 
+ 
+ 
+ 
+08 
+ 
+6 
+Administration for Clouds: 
+The AAA model, single sign-on for clouds, industry implementation for AAA, 
+authentication management standards for controlling access, SAML, authorization 
+management, accounting for resource utilization. 
+ 
+06 
+ Total 42 
+ 
+Cloud Computing and Security Laboratory (DJS23DPE304L) 
+Exp. Suggested Experiments 
+ 
+1 
+Virtualisation: 
+ Hosted Virtualisation 
+ Bare Metal Virtualisation 
+2 Host a Static Website on cloud. 
+3 Create and migrate relational database on cloud. 
+4 Create a Virtual Private Clouds and establish connections between each other. 
+5 Implement user level authentication on your cloud applications. 
+6 Implement Load balancing on your created cloud application. 
+7 Automate Infrastructure Development. 
+8 Implement serverless architecture and configure notification services. 
+9 Implement Hybrid storage and Data Migration. 
+
+ 
+10 Mini Project (Capstone Project). 
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes (10m). 
+ 
+Books Recommended: 
+Text Books: 
+1. Pravin Mishra, “Cloud Computing with AWS”, Apress, 2023. 
+2. Rajkumar Buyya,“Mastering Cloud Computing”, McGraw Hill Education, 2017 
+3. Sk Singh “Cloud Computing and AWS Introduction: Mastering AWS Fundamentals and Core 
+Services”, Amazon Digital Services, 2024 
+4. Ray Rafaels, “Cloud Computing: From Beginning to End,” CreateSpace Independent Publishing, 
+2015. 
+ 
+Reference Books 
+1. Dr. Sunilkumar, S. Manvi, “Cloud Computing: Concepts and Technologies”, CRC Press, 2021. 
+2. Temitayo Fagbola, Kamal Kant Hiran, “Cloud Computing: Master The Concepts, Architecture and 
+Applications with Real-World Examples And Case Studies”, BPB Publications, 2019. 
+3. Ricardo Puttini, Thomas Erl, and Zaigham Mahmood, “Cloud Computing: Concepts, Technology & 
+Architecture,” Pearson Publication, 2013 
+4. Michael J Kavis, “Architecting the Cloud,” Wiley, 2014. 
+5. Thomas Erl, Zaigham Mahmood, “Cloud Computing: Concepts, Technology & Architecture”, 
+Pearson Education, 2014. 
+ 
+Web Links: 
+1. A course on Cloud Computing: https://onlinecourses.nptel.ac.in/noc22_cs20/preview 
+2. A comprehensive guide to Social Network Analysis: 
+https://www.analyticsvidhya.com/blog/2021/04/what-is-cloud-computing/ 
+3. AWS Cloud Services: https://docs.aws.amazon.com//?nc2=h_ql_doc_do 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MULTIDISCIPLINARY MINOR 
+
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Computer Communication and Networks (DJS23DMD301) 
+Computer Communication and Networks Laboratory (DJS23DMD301L) 
+ 
+Pre-requisite: Computer System Fundamentals. 
+ 
+Course Objectives: 
+1. To provide a foundational understanding of computer networks, their topologies, protocols, and 
+network communication models. 
+2. To explore the working principles of network layers, including network, transport, and data link 
+layers, along with addressing schemes and routing algorithms. 
+3. To introduce IoT architecture, communication protocols, and interconnectivity models, emphasizing 
+smart applications and IPv6-based smart networks. 
+ 
+Course Outcomes: On completion of the course, the learner will be able to: 
+1. Understand the fundamentals of computer networks, including topologies, protocols, and network 
+models such as OSI and TCP/IP. 
+2. Apply knowledge of network addressing, subnetting, supernetting, and routing algorithms to design 
+efficient network solutions. 
+3. Analyse transport and data link layer protocols, error control, and flow control mechanisms to enhance 
+network communication reliability. 
+4. Evaluate IoT architectures, communication protocols, and smart networking applications to propose 
+innovative IoT-based solutions. 
+ 
+Computer Communication and Networks (DJS23DMD301) 
+Unit Description Duration 
+ 
+1 
+Introduction to Computer Networks: 
+Basics of Computer Networks, Network Topologies and Protocols, OSI and 
+TCP/IP Models, Network Devices and Components. 
+ 
+06 
+ 
+2 
+Data link Layer: 
+Introduction, transmission medium, physical addressing, Error control (Hamming 
+code, CRC), Flow control, Data-Link Layer Protocols: HDLC, Media Access 
+Control: ALOHA, CSMA, Wired LANs: Ethernet, Wireless LANs. 
+ 
+09 
+ 
+3 
+Network Layer: 
+Services, Packet switching, ARP, RARP, Unicast Routing Algorithms -(DVR, 
+LSR), IPv4 Addressing (Classfull and Classless), Subnetting, Supernetting design 
+problems, IPv4 Protocol, IPV6 protocol. 
+ 
+09 
+ 
+4 
+Transport & Application Layer: 
+Services, sockets, Transport Layer Protocols - User Datagram Protocol (UDP), 
+Transmission Control Protocol (TCP), ARQ, Sliding Window Protocol. 
+Application layer protocols: HTTP, SMTP, DNS. 
+ 
+08 
+
+ 
+ 
+5 
+IoT Architecture and Technologies: 
+Introduction to the Internet of Things (IoT), IoT Architecture and Components, 
+Communication Protocols for IoT (MQTT, CoAP, etc.). 
+ 
+05 
+ 
+ 
+6 
+Interconnecting Smart Objects with IP: 
+Architecture, IP Protocol Architecture, IPv6 for Smart Object Networks and the 
+Internet of Things, Connectivity Models for Smart Object Networks 
+The applications: Smart Cities and Urban Networks, Home Automation, Structural 
+Health Monitoring 
+ 
+ 
+05 
+ Total 42 
+ 
+Computer Communication and Networks Laboratory (DJS23DMD301L) 
+Exp. Suggested Experiments 
+1 Learn to use commands like tcpdump, netstat, ifconfig, nslookup and traceroute. Capture 
+ping and trace route PDUs using a network protocol analyser. 
+2 Implementation of an error detection code using CRC. 
+3 Setting up and configuring routers & switches using CLI. 
+4 Assigning IP addresses and subnetting a network. 
+5 Establishing communication between different networks using static and Dynamic routes. 
+6 To design and configure Virtual Local Area Network and check the communication privacy 
+among different sub networks. 
+ 
+7 
+Implement applications using TCP sockets like: 
+a) Echo client and echo server 
+b) Chat 
+c) File Transfer 
+8 Implement IoE based on IPv6 using packet tracer. 
+9 Simulate the home automation using Packet Tracer. 
+10 Design and Simulation of a Scalable College Network Using Cisco Packet Tracer. 
+Minimum eight experiments from the above suggested list or any other experiment or mini project 
+based on syllabus will be included, which would help the learner to apply the concept learnt. 
+* The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes (10m). 
+ 
+Books Recommended: 
+Text Books: 
+1. James Kurose, “Computer Networking:A Top-Down Approach”, Pearson Education, 8th Edition, 
+2022. 
+2. Behrouz A. Forouzan, “TCP/IP Protocol Suite”, McGraw Hill Education, 4th edition, 2017. 
+ 
+Reference Books: 
+1. Maciej Kranz, "Building the Internet of Things" by Maciej Kranz, Wiley, 1st edition, 2016. 
+2. Rajkumar Buyya, Amir Vahid Dastjerdi, and Sriram Venugopal, "Internet of Things: Principles 
+and Paradigms", Morgan Kaufmann Publishers, 2016. 
+3. Jean-Philippe Vasseur, “Interconnecting Smart Objects with IP The Next Internet”, Morgan 
+Kaufmann Publishers, 2010. 
+
+ 
+ 
+Web links: 
+1. Routing Protocol Information: https://www.cisco.com/c/en/us/support/docs/ip/routing-information-
+protocol-rip/13788-3.html 
+2. Transmission of IPv6 Packets over IEEE 802.15.4 Networks: 
+https://datatracker.ietf.org/doc/html/rfc4944 
+3. IPv6 in IoT: https://pianalytix.com/advantages-of-ipv6-in-iot/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPEN ELECTIVE 
+
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: DevOps Laboratory (DJS23DOE311L) 
+ 
+Pre-requisite: Computer System Fundamentals, Web Engineering and Project Management. 
+ 
+Course Objectives: 
+To equip students with fundamental DevOps skills in automation, CI/CD implementation, containerization, 
+orchestration, monitoring, and MLOps integration. 
+ 
+Course Outcomes: On completion of the course, the students will able to 
+1. Apply Virtualization, Containerization, and Infrastructure Automation. 
+2. Design CI/CD Pipelines and Automated Testing. 
+3. Develop monitoring, logging, and performance enhancement strategies. 
+ 
+DevOps Laboratory (DJS23DOE311L) 
+Unit Description Duration 
+ 
+ 
+1 
+Virtualization and Containerization with Docker 
+1. Install Docker on Linux or Windows. 
+2. Run a simple container. 
+3. Build a custom Docker image for a Python web application. 
+4. Use Docker Compose to run multi-container applications. 
+ 
+ 
+04 
+ 
+ 
+2 
+Infrastructure as Code with Terraform 
+1. Install Terraform and configure it locally. 
+2. Write a Terraform script to provision a virtual machine. 
+3. Use Terraform modules to reuse infrastructure code. 
+4. Manage Terraform workspaces for different environments. 
+5. Destroy and clean up infrastructure after deployment. 
+ 
+ 
+05 
+ 
+ 
+3 
+Configuration Management with Puppet and Ansible 
+1. Install Puppet and Ansible on a Linux server. 
+2. Write a basic Puppet manifest to install a web server. 
+3. Deploy a LAMP stack using Puppet modules. 
+4. Write an Ansible playbook to set up users and install software. 
+5. Use Ansible roles to manage complex configurations. 
+ 
+ 
+06 
+ 
+ 
+ 
+4 
+Continuous Integration with Jenkins 
+1. Install Jenkins and set up a basic job. 
+2. Implement CI/CD pipelines with Jenkins & GitHub Actions. 
+3. Automate build, test, and deployment processes. 
+4. Secure CI/CD pipelines using secrets management. 
+5. Set up SonarQube in a Jenkins pipeline. 
+6. Vulnerability detection using SonarQube. 
+ 
+ 
+ 
+06 
+5 Automated Testing using Selenium 
+1. Install Selenium and set up WebDriver. 06 
+
+ 
+ 2. Write Selenium scripts for web UI testing. 
+3. Automate form submission and validations. 
+4. Capture screenshots on test failures. 
+5. Run Selenium scripts on different browsers. 
+6. Create a Jenkins job to execute Selenium scripts automatically. 
+ 
+ 
+ 
+6 
+DevOps Automation and Scripting 
+1. Write a Bash script to automate package installation. 
+2. Develop a Python script to monitor system logs. 
+3. Schedule automated tasks using cron jobs. 
+4. Write a script to restart services automatically. 
+5. Implement a simple chatbot for DevOps automation. 
+ 
+ 
+06 
+ 
+ 
+7 
+Container Orchestration with Kubernetes 
+1. Install and set up a local Kubernetes cluster. 
+2. Deploy a simple Nginx application using Kubernetes. 
+3. Expose services externally using Kubernetes services. 
+4. Scale applications dynamically using Kubernetes auto-scaling. 
+ 
+ 
+06 
+ 
+ 
+8 
+Traffic Management with Kubernetes Ingress 
+1. Understand Kubernetes Ingress and its role in routing external traffic. 
+2. Configure an Ingress resource for multiple services. 
+3. Implement SSL/TLS termination using Kubernetes secrets. 
+4. Set up path-based and host-based routing. 
+5. Test and troubleshoot Ingress rules. 
+ 
+ 
+06 
+ 
+ 
+9 
+Monitoring and Logging with ELK Stack 
+1. Install the ELK stack (Elasticsearch, Logstash, and Kibana). 
+2. Use Logstash to collect logs from a web server. 
+3. Set up Kibana dashboards to visualize logs. 
+4. Analyze logs for troubleshooting. 
+ 
+ 
+05 
+ 
+ 
+10 
+MLOps with PyCaret 
+1. Train a machine learning model using PyCaret. 
+2. Deploy the model as a REST API using Flask. 
+3. Automate model retraining using Jenkins pipelines. 
+4. Monitor ML model performance using the ELK stack. 
+ 
+ 
+06 
+ Total 56 
+* The Term Work will be calculated based on Laboratory Performance (15m), Mini Project (10m) and 
+Computer Based Assessment (25m). 
+ 
+Books Recommended: 
+Text Books: 
+1. Karl Matthias & Sean P. Kane, “Docker: Up and Running”, 3rd Edition, O'Reilly Publication, 2022. 
+2. John Ferguson Smart, “Jenkins, The Definitive Guide”, 1st Edition, O'Reilly Publication,2011. 
+3. Ryan Russell-Yates, "Mastering Puppet 5: Optimize enterprise-grade environment performance with 
+Puppet”, 1st Edition, Packt Publishing, 2018. 
+4. Jonathan McAllister, “Master Jenkins”, Packt Publishing, 2015. 
+5. Deepak Gaikwad, Viral Thakkar, “DevOps Tools from Practitioner's Viewpoint”, Wiley,2019. 
+6. Stephane Jourdan, Pierre Pomès ,“ Infrastructure as Code (IAC) Cookbook”, 2nd Edition, Packt 
+Publishing, 2017. 
+
+ 
+7. Martin Alfke , Felix Frank, “Puppet 5 Essentials", 3rd Edition, O'Reilly Publication,2017. 
+8. Yevgeniy Brikman, Terraform: Up & Running, 2nd Edition, O'Reilly, 2019. 
+ 
+ 
+Reference Books: 
+1. Sanjeev Sharma and Bernie Coyne, “ DevOps for Dummies”, 3rd Edition, Wiley Publication,2017. 
+2. Httermann, Michael, “DevOps for Developers”, 1st Edition, APress Publication, 2012. 
+3. Joakim Verona, “Practical DevOps”, 2 nd Edition Packt publication,2018. 4. Martin Alfke, “ Puppet 
+Essentials - Third Edition: A fast -paced guide to automating your infrastructure”, 3 rd Revised 
+Edition, Packt Publishing, 2017. 
+ 
+Web Links: 
+1. Introduction to DevOps: https://www.coursera.org/learn/intro-to-devops 
+2. Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps: 
+https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops 
+3. MLOps for Beginners: https://www.udemy.com/course/mlops-for-beginners/?srsltid=AfmBOorNfhfo-
+VtBlnULsdPHYEg6NFisnhct77hRVw4LH7yv9LJUZqcz 
+4. Free DevOps Course Certification: https://intellipaat.com/academy/course/devops-free-course/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Advanced Java Laboratory (DJS23DOE312L) 
+ 
+Pre-requisite: Core Java and OOP concepts. 
+ 
+Course Objectives: 
+1. To familiarize students with advanced object-oriented concepts and design patterns in Java for 
+creating scalable applications. 
+2. To enable students to optimize data handling through the Java Collections Framework, generics, 
+and the Streams API. 
+3. To equip students with skills to design, build, and secure web applications using Spring and 
+Spring Boot frameworks, with a focus on database connectivity. 
+ 
+Course Outcomes: On completion of the course, the learner will be able to: 
+1. Apply advanced object-oriented concepts and design patterns in Java to develop scalable and 
+maintainable solutions for real-world problems. 
+2. Optimize data processing and performance using the Java Collections Framework, Streams API, 
+and generics. 
+3. Build secure, database-driven web applications using Spring and Spring Boot, with RESTful web 
+services. 
+ 
+Advanced Java Laboratory (DJS23DOE312L) 
+Unit Description Duration 
+ 
+1 
+Design Patterns: 
+Introduction to design patterns and Implementation: Singleton, Factory, Observer, 
+Strategy. 
+ 
+04 
+ 
+ 
+2 
+SOLID Principles: 
+Understanding and applying SOLID principles for better design, Implementation of 
+SOLID Principles. 
+Interfaces and Abstract Classes: 
+Demonstration of Advanced uses of interfaces and abstract classes, Default methods in 
+interfaces. 
+ 
+ 
+05 
+3 Collections: 
+List: ArrayList, LinkedList, Set: HashSet, Tree Set, Map: HashMap, LinkedHashMap. 05 
+ 
+4 
+Java Streams: 
+Introduction to Streams API, Creating streams from collections, arrays, I/O Stream 
+operations: map, filter, reduce, collect. 
+ 
+05 
+ 
+5 
+Java Reflection API 
+Understanding the Java Reflection API Accessing and manipulating class properties at 
+runtime, Creating instances of classes dynamically Inspecting methods, fields, 
+Annotations: Predefined, Customized. 
+ 
+04 
+
+ 
+6 Java Database Connectivity (JDBC): 
+Connecting to databases using JDBC, Executing SQL queries and managing results. 04 
+7 Introduction to Object-Relational Mapping (ORM): 
+Overview of Hibernate and JPA, Creating a simple application using Hibernate. 04 
+ 
+8 
+Microservices: Fundamentals of Microservices, Microservices Architecture & Design 
+Principles. 
+Tools for Microservices: Spring Boot, Eureka API Gateway & load balancing between 
+multiple instances of a microservices. 
+ 
+04 
+ 
+9 
+Introduction to Spring: 
+Overview of Spring Framework features, Inversion of Control (IoC) and Dependency 
+Injection (DI). 
+ 
+05 
+ 
+10 
+Spring Core: 
+Understanding Beans, Application Context, and Bean Lifecycle Configuring Spring with 
+XML and Java annotations. 
+ 
+04 
+ 
+11 
+Introduction to Spring Boot: 
+Understanding its purpose and advantages over traditional Spring. 
+Setting Up Spring Boot Applications: Project structure and configuration. 
+ 
+04 
+ 
+12 
+Building RESTful Web Services: 
+Creating REST APIs using Spring Boot. 
+Spring Data JPA: Introduction to database interactions and repository pattern. 
+ 
+04 
+13 Securing Spring Boot Applications: 
+Basics of security in Spring Boot using Spring Security. 04 
+ Total 56 
+* The Term Work will be calculated based on Laboratory Performance (15m), Mini Project (10m) and 
+Computer Based Assessment (25m). 
+Books Recommended: 
+Textbooks: 
+1. Mark Heckler, “Spring Boot: Up and Running”, O'Reilly Media, 1st Edition, 2021. 
+2. Craig Walls, Spring in Action, Manning Publications, 6th Edition, 2022. 
+Reference Books: 
+1. Herbert Schildt, “Java: The Complete Reference”, 13th edition, McGraw Hill. 
+2. Dinesh Rajput, “Mastering Spring Boot 2.0”, Packt Publishing, 2nd Edition, 2020. 
+ 
+ 
+Web Links: 
+1. Nptel Course: https://onlinecourses.nptel.ac.in/noc20_cs58/preview 
+2. Oracle links: https://docs.oracle.com/javase/tutorial/collections/; 
+https://docs.oracle.com/javase/tutorial/jdbc/ 
+3. Spring documentation: https://docs.spring.io/spring-boot/index.html 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Advanced Database Laboratory (DJS23DOE313L) 
+ 
+Course Objectives: 
+To provide practical exposure to advanced database technologies, enabling learners to apply distributed, 
+graph, and spatial databases in real-world scenarios. 
+ 
+Course Outcomes: On completion of the course, the learner will be able to: 
+1. Design and implement database solutions using advanced, object-oriented, and distributed 
+database systems. 
+2. Apply query optimization, security, and visualization techniques for efficient and secure data 
+handling. 
+3. Analyze emerging database technologies like vector and graph databases through practical use-
+cases and case studies. 
+ 
+Advanced Database Laboratory (DJS23DOE313L) 
+Unit Description Duration 
+ 
+1 
+Introduction to Modern Databases: 
+ Overview of emerging database paradigms (Document, Columnar, Graph, Object-
+oriented, Vector DBs). 
+ Use-case-based classification of databases. 
+ 
+04 
+ 
+ 
+ 
+2 
+Document-Oriented Databases – MongoDB: 
+ Overview of MongoDB as a Document-Oriented Database. 
+ Installing MongoDB. 
+ Introduction to MongoDB Compass (GUI) and Mongo Shell. 
+ Document-Oriented Data Handling. 
+ Work with JSON, XML. 
+ Query JSON/XML using inbuilt functions. 
+ 
+ 
+ 
+10 
+ 
+3 
+Distributed DB Design: 
+ Perform fragmentation (Range, List, Hash, Key). 
+ Simulate replication and allocation. 
+ 
+04 
+ 
+4 
+Document-Oriented Data Handling: 
+ Work with JSON, XML. 
+ Query JSON/XML using inbuilt functions. 
+ 
+04 
+ 
+5 
+Query Optimization & Processing: 
+ View Query Execution Plan. 
+ Optimize queries using heuristics. 
+ 
+04 
+ 
+6 
+Object-Oriented Database with DB4O 
+ Store Java objects. 
+ Retrieve objects and update DB. 
+ 
+05 
+7 Graph Databases 
+ Install Neo4j. 05 
+
+ 
+  Create nodes and relationships. 
+ Query using Cypher. 
+ 
+ 
+ 
+8 
+Vector DB 
+ Vector indexing. 
+ Similarity search example app. 
+ MongoDB Vector 
+ PG Vector 
+ 
+ 
+08 
+ 
+9 
+Ethical & Legal Issues in Modern Databases 
+ Explore Real-World Data Breaches. 
+ Policy Analysis Activity. 
+ Design a Privacy-Compliant Database Schema.. 
+ 
+04 
+ 
+10 
+Mini Project 
+ Explore an emerging databse technology such as a Graph or Vector database. 
+ Design a small use-case to demonstrate its core concept or application. 
+ Analyze its features, benefits, and limitations in comparison to traditional models. 
+ 
+08 
+ Total 56 
+*The Term Work will be calculated based on Laboratory Performance (15m), Mini Project (10m) and 
+Computer Based Assessment (25m). 
+ 
+Books Recommended: 
+Textbooks: 
+1. Avi Silberschatz, Henry F. Korth, Sudarshan, “Database System Concepts”, 7th Edition, Mc 
+Graw Hill, 2021. 
+2. Sveta Smirnova and Alkin Tezuysal, “My SQL Cookbook” 4th Edition, O’Reilly Publication, 
+2022. 
+3. Shannon Bradshaw, Eoin Brazil, “MongoDB: The Definitive Guide - Powerful and Scalable 
+Data Storage”, Third Edition, O’Reilly Publication, 2020. 
+4. Christos Tjortjis, “Graph Databases Applications on Social Media Analytics and Smart Cities” 
+1st Edition, CRC Press, 2023. 
+ 
+Reference Books: 
+1. Vinicius M. Grippa and Sergey Kuzmichev, “Learning MySQL” 2nd Edition, O’Reilly 
+Publication, 2021. 
+2. Tamer OEzsu, Patrick V, “Principles of Distributed Database System”, Springer Publication, 
+2020. 
+3. Jeff Carpenter, Eben Hewitt, “Cassandra: The Definitive Guide - Distributed Data at Web 
+Scale” 3rd Edition, O’Reilly Media, 2020. 
+4. Alex Petrov, “Database Internals: A Deep Dive into How Distributed Data Systems Work” 1st 
+Edition, O’Reilly Media, 2019. 
+ 
+Web Links: 
+
+ 
+1. MongoDB Developer Center: Advanced Tutorials https://www.mongodb.com/developer/expertise-
+levels/advanced/tutorials/ 
+2. Cassandra: DataStax Academy https://www.datastax.com/dev/academy 
+3. Neo4j GraphAcademy: Advanced Courses https://graphacademy.neo4j.com/categories/advanced/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VOCATIONAL AND SKILL 
+ENHANCEMENT COURSE 
+
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Innovative Product Development III (DJS23XSC301P) 
+ 
+Objectives: 
+1. To acquaint the students with the process of identifying the need (considering a societal 
+requirement) and ensuring that a solution is found out to address the same by designing and 
+developing an innovative product. 
+2. To familiarize the students with the process of designing and developing a product, while they work 
+as part of a team. 
+3. To acquaint the students with the process of applying basic engineering fundamentals, so as to 
+attempt at the design and development of a successful value-added product. 
+4. To inculcate the basic concepts of entrepreneurship and the process of self -learning and research 
+required to conceptualize and create a successful product. 
+ 
+Outcome: Learner will be able to: 
+1. Identify the requirement for a product based on societal/research needs. 
+2. Apply knowledge and skills required to solve a societal need by conceptualizing a product, 
+especially while working in a team. 
+3. Use standard norms of engineering concepts/practices in the design and development of an 
+innovative product. 
+4. Draw proper inferences through theoretical/ experimental/simulations and analyze the impact of 
+the proposed method of design and development of the product. 
+5. Develop interpersonal skills, while working as a member of the team or as the leader. 
+6. Demonstrate capabilities of self-learning as part of the team, leading to life-long learning, which 
+could eventually prepare themselves to be successful entrepreneurs. 
+7. Demonstrate product/project management principles during the design and development work and 
+also excel in written (Technical paper preparation) as well as oral communication. 
+ 
+Guidelines for the proposed product design and development: 
+1. Students shall form a team of 3 to 4 students (max allowed: 5-6 in extraordinary cases, subject to 
+the approval of the department review committee and the Head of the department). 
+2. Students should carry out a survey and identify the need, which shall be converted into 
+conceptualization of a product, in consultation with the faculty supervisor/head of 
+department/internal committee of faculty members. 
+3. Students in the team shall understand the effective need for product development and accordingly 
+select the best possible design in consultation with the faculty supervisor. 
+4. Students shall convert the best design solution into a working model, using various components 
+drawn from their domain as well as related interdisciplinary areas. 
+5. Faculty supervisor may provide inputs to students during th e entire span of the activity, spread 
+over 2 semesters, wherein the main focus shall be on self-learning. 
+6. A record in the form of an activity log-book is to be prepared by each team, wherein the team can 
+record weekly progress of work. The guide/supervisor should verify the recorded notes/comments 
+and approve the same on a weekly basis. 
+
+ 
+7. The design solution is to be validated with proper justification and the report is to be compiled in 
+a standard format and submitted to the department. Efforts are to be made by the students to try 
+and publish a technical paper, either in the institute journal, “Techno Focus: Journal for Budding 
+Engineers” or at a suitable publication, approved by the department research committee/ Head of 
+the department. 
+8. The focus should be on self -learning, capability to design and innovate new products as well as 
+on developing the ability to address societal problems. Advancement of entrepreneurial 
+capabilities and quality development of the students through the year long course should ensure 
+that the design and development of a product of appropriate level and quality is carried out, spread 
+over 4 semesters, i.e. during the semesters III to VI. 
+Guidelines for Assessment of the work: 
+1. The review/ progress monitoring committee shall be constituted by the Head of the Department. 
+The progress of design and development of the product is to be evaluated on a continuous basis, 
+holding a minimum of two reviews in each semester. 
+2. In the continuous assessment, focus shall also be on each individual student’s contribution to the 
+team activity, their understanding and involvement as well as responses to the questions being 
+raised at all points in time. 
+3. Distribution of marks individually for the both re views as well as for the first review during the 
+subsequent semester shall be as given below: 
+A. Marks awarded by the supervisor based on log-book 20 
+B. Marks awarded by review committee 20 
+C. Quality of the write-up 10 
+Review/progress monitoring committee may consider the following points during the assessment. 
+ 
+In the semester V, the entire design proposal shall be ready, including components/system 
+selection as well as the cost analysis. Two reviews will be conducted based on the presentation 
+given by the student’s team. 
+ First shall be for finalization of the product selected. 
+ Second shall be on finalization of the proposed design of the product. 
+The overall work done by the team shall be assessed based on the following criteria; 
+1. Quality of survey/ need identification of the product. 
+2. Clarity of Problem definition (design and development) based on need. 
+3. Innovativeness in the proposed design. 
+4. Feasibility of the proposed design and selection of the best solution. 
+5. Cost effectiveness of the product. 
+6. Societal impact of the product. 
+7. Functioning of the working model as per stated requirements. 
+8. Effective use of standard engineering norms. 
+9. Contribution of each individual as a member or the team leader. 
+10. Clarity on the write-up and the technical paper prepared. 
+The semester V reviews may be based on relevant points listed above, as applicable. 
+ 
+Guidelines for Assessment of Semester Reviews: 
+ The write-up should be prepared as per the guidelines given by the department. 
+
+ 
+The design and the development of the product shall be assessed through a presentation and 
+demonstration of the working model by the student team to a panel of Internal and External Examiners, 
+preferably from industry or any research organizations having an experience of more than five years, 
+approved by the Head of the Institution. The presence of the external examiner is desirable only for 
+the 2nd presentation in semester VI. Students are compulsorily required to present the outline of the 
+technical paper prepared by them during the final review in semester VI. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VALUE EDUCATION COURSE 
+
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: V 
+Course: Constitution of India (DJS23XHS331) 
+ 
+Course Objectives: 
+1. To provide basic information about Indian constitution. 
+2. To identify individual role and ethical responsibility towards society. 
+3. To understand human rights and its implications. 
+ 
+Course Outcomes: On completion of the course, the learner will be able to: 
+1. Have general knowledge and legal literacy and thereby to take up competitive examinations. 
+2. Understand state and central policies, fundamental duties. 
+3. Understand Electoral Process, special provisions. 
+4. Understand powers and functions of Municipalities, Panchayats and Co-operative Societies. 
+5. Understand Engineering ethics and responsibilities of Engineers. 
+6. Understand Engineering Integrity & Reliability. 
+ 
+Constitution of India (DJS23XHS331) 
+Unit Description Duration 
+ 
+ 
+1 
+Introduction to the Constitution of India 
+The Making of the Constitution and Salient features of the Constitution. 
+Preamble to the Indian Constitution. 
+Fundamental Rights & its limitations. 
+ 
+ 
+02 
+ 
+2 
+Directive Principles of State Policy: 
+Relevance of Directive Principles, State Policy, Fundamental Duties. 
+Union Executives – President, Prime Minister, Parliament, Supreme Court of India. 
+ 
+02 
+ 
+3 
+State Executives: 
+Governor, Chief Minister, State Legislature, High Court of State. 
+Electoral Process in India, Amendment Procedures, 42nd, 44th, 74th, 76th, 86th & 91st 
+Amendments. 
+ 
+03 
+ 
+4 
+Special Provisions: 
+For SC & ST, Special Provision for Women, Children & Backward Classes, 
+Emergency Provisions. 
+ 
+02 
+ 
+5 
+Human Rights: 
+Meaning and Definitions, Legislation Specific Themes in Human Rights, Working of 
+National Human Rights Commission in India, Powers and functions of 
+Municipalities, Panchayats and Co-Operative Societies. 
+ 
+03 
+ 
+ 
+6 
+Scope & Aims of Engineering Ethics: 
+Responsibility of Engineers and Impediments to Responsibility. 
+Risks, Safety and liability of Engineers. 
+Honesty, Integrity & Reliability in Engineering. 
+ 
+ 
+02 
+ Total 14 
+
+ 
+ 
+Books Recommended: 
+Text books: 
+1. Durga Das Basu, “Introduction to the Constitution on India”, (Students Edition) Prentice Hall EEE, 
+19th / 20th Edition, 2001. 
+2. Charles E. Haries, Michael S. Pritchard and Michael J. Robins, “Engineering Ethics”, Thompson 
+Asia, 2003. 
+ 
+Reference Books: 
+1. M. V. Pylee, “An Introduction to Constitution of India”, Vikas Publishing, 3rd Edition, 2003. 
+2. M. Govindarajan, S. Natarajan, V. S. Senthilkumar, “Engineering Ethics”, Prentice Hall of India 
+Pvt. Ltd. New Delhi, 2013. 
+3. Brij Kishore Sharma, “Introduction to the Constitution of India”, PHI Learning Pvt. Ltd., New 
+Delhi, 7th Edition 2015. 
+4. Latest Publications of Indian Institute of Human Rights, New Delhi 
+ 
+Website Resources: 
+1. www.nptel.ac.in 
+2. www.hnlu.ac.in 
+3. www.nspe.org 
+4. www.preservearticles.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 

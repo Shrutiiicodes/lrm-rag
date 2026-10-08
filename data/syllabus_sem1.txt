@@ -1,0 +1,1581 @@
+Note: First year is common to all programmes. Courses are split into Group A and Group B; a learner offered Group A in Sem I takes Group B in Sem II and vice versa. Each programme takes one Program Core (DJS23FPC15x) course in Sem II; for Computer Science and Engineering (Data Science) it is Fundamentals of Data Analysis (DJS23FPC155).
+Theory 
+(hrs.)
+Practical 
+(hrs.)
+Tut 
+(hrs.) Credits Duration 
+(hrs.) Theory Oral Pract. Oral & 
+Pract.
+ 
+SEE 
+Total 
+(A)
+Term 
+Test 1 
+(TT1)
+Term 
+Test 2 
+(TT2)
+Term 
+Test 3 
+(TT3)
+Total 
+(TT1, 
+TT2 & 
+TT3)
+Term 
+Work 
+Total
+CA 
+Total (B)
+DJS23FBS101 Mathematics - I 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23FBS101T Mathematics - I Tutorial -- -- 1 1 -- -- -- -- -- -- -- -- -- -- 25 25 25
+DJS23FES101 Structured Programming using C 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23FES101L Structured Programming using C Laboratory -- 2 -- 1 -- -- -- -- 25 25 -- -- -- -- 25 25 50
+Total 5 2 1 7 4 120 0 0 25 145 30 30 20 80 50 130 275 7
+DJS23FBS102 Physics 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23FBS102L Physics Laboratory and Tutorial -- 2 1 2 -- -- -- -- -- -- -- -- -- -- 50 50 50
+DJS23FES102 Computational Engineering Mechanics 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23FES102L Computational Engineering Mechanics Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25
+DJS23FES103 Basic Electrical Engineering and Digital Electronics 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23FES103T Basic Electrical Engineering and Digital Electronics Tutorial -- -- 1 1 -- -- -- -- -- -- -- -- -- -- 25 25 25
+4 DJS23FLL101T Health and Wellness -- -- 2 2 -- -- 25 -- -- 25 -- -- -- -- 25 25 50 2
+Total 6 4 4 12 6 180 25 0 0 205 45 45 30 120 125 245 450 12
+DJS23FBS103 Chemistry 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23FBS103L Chemistry Laboratory and Tutorial -- 2 1 2 -- -- -- -- -- -- -- -- -- -- 50 50 50
+DJS23FES104* Engineering Graphics 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23FES104L Engineering Graphics Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25
+DJS23FHS101 Effective Communication Skills 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100
+DJS23FHS101L Effective Communication Skills Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25
+4 DJS23FSC101L Ideation and Innovation Laboratory -- 4 -- 2 -- -- -- -- -- -- -- -- -- -- 50 50 50 2
+5 DJS23FHS102T Indian Knowledge System -- -- 2 2 -- -- 25 -- -- 25 -- -- -- -- 25 25 50 2
+Total 6 10 3 14 6 180 25 0 0 205 45 45 30 120 175 295 500 14
+Course Code Course Category Sem I Sem II Total
+DJS23FBS1xx Basic Science Courses 8 8 16
+DJS23FES1xx Engineering Science Courses 9 6 15
+DJS23FLL1xx Liberal Learning Courses 2 0 2
+DJS23FHS1xx Humanities Social Science and Management 0 5 5
+DJS23FSC1xx Vocational and Skill Enhancement Courses 0 2 2
+DJS23FPC1xx Program Core Courses 0 2 2 
+Total credits 42
+1 4
+Proposed scheme for First Year B.Tech Program (All Programs) : Semester I 
+(Academic Year 2025-2026)
+Sr.No. Course Code Course
+Teaching Scheme 
+Aggrega
+te (A+B)
+Credits 
+Earned
+Compulsory courses offered to all the Programs 
+Semester End Assessment (A) Continuous Assessment (B) 
+2 3
+Courses offered in Group A
+1 4
+2 3
+3 3
+* Computer based assessment in the college premises only.
+Courses offered in Group B 
+1 4
+2 3
+3 3
+Learners will be offered compulsory courses and courses in either Group A or Group B. 
+
+Course Code Course Category Sem I Sem II Total
+DJS23FBS1xx Basic Science Courses 8 8 16
+DJS23FES1xx Engineering Science Courses 9 6 15
+DJS23FLL1xx Liberal Learning Courses 2 0 2
+DJS23FHS1xx Humanities Social Science and Management 0 5 5
+DJS23FSC1xx Vocational and Skill Enhancement Courses 0 2 2
+DJS23FPC1xx Program Core Courses 0 2 2
+Total credits 42
+* Computer based assessment in the college premises only.
+Learners who were offered Group A in Sem I will be offered Group B in Sem II and vice versa.
+Program Course
+EXTC Electrical Networks
+IT Foundation of Information Technology
+Computer Foundation of Computing Technologies
+Mechanical Elements of Mechanical Engineering
+CSE(DS) Fundamentals of Data Analysis
+AI_ML Fundamentals of AI & ML
+AI_DS Fundamentals of AI & DS
+CSE(ICB) Fundamentals of Sensor and Secured Technologies 
+Continuous Assessment (B): 
+ 
+Course Assessment Tools Marks Time (mins) 
+Theory 
+a. Term Test 1 (based on 40 % syllabus) 15 45 
+b. Term Test 2 (on next 40 % syllabus) 15 45 
+c. Assignment / course project / group discussion / 
+presentation / quiz/ any other. 10 -- 
+Total marks (a + b + c) 40 -- 
+Audit 
+course 
+Performance in the assignments / quiz / power point 
+presentation / poster presentation / group project / any 
+other tool. 
+-- 
+As 
+applicable Laboratory Performance in the laboratory and documentation. 25 
+Tutorial Performance in each tutorial & / assignment. 25 
+Laboratory 
+&Tutorial Performance in the laboratory and tutorial. 50 
+ 
+The final certification and acceptance of term work will be subject to satisfactory performance upon fulfilling 
+minimum passing criteria in the term work / completion of audit course. 
+ 
+Semester End Assessment (A): 
+ 
+Course Assessment Tools Marks Time (hrs.) 
+Theory / 
+* Computer 
+based 
+Written paper based on the entire syllabus. 
+60 2 
+* Computer based assessment in the college premises. 
+Oral Questions based on the entire syllabus. 25 As applicable 
+Practical Performance of the practical assigned during the examination 
+and the output / results obtained. 25 2 
+Oral & 
+Practical 
+ 
+Project based courses - Performance of the practical assigned 
+during the examination and the output / results obtained. 
+Based on the practical performed during the examination and 
+on the entire syllabus. 
+As per the 
+scheme 2 
+ 
+ 
+ 
+ 
+ Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shri Vile Parle Kelavani Mandal’s 
+Dwarkadas J. Sanghvi College of Engineering 
+(Autonomous College Affiliated to the University of Mumbai) 
+ 
+ 
+ 
+ 
+ 
+Prepared by: - Board of Studies for FE 
+Recommended by: - Academic Council of D. J. Sanghvi College of Engineering 
+Approved by: - Governing Body of D. J. Sanghvi College of Engineering 
+Revision: 3 (DJS23) 
+With effect from the Academic Year: 2025-2026 
+ 
+ 
+ 
+ 
+Course Structure and Syllabus 
+of 
+First Year (Semester I) B. Tech. 
+(Common for all Programs) 
+ 
+Program: Common for all Programs F.Y. B. Tech Semester: I 
+Course: Mathematics - I (DJS23FBS101) 
+Course: Mathematics - I Tutorial (DJS23FBS101T) 
+ 
+Pre-requisite: -- Knowledge of 
+1. Inverse of a matrix, addition, multiplication and transpose of a matrix. 
+2. Algebra of Complex Numbers. Cartesian, polar and exponential form of complex numbers. 
+ 
+Objectives: 
+1. To develop the basic Mathematical skills of engineering students that are imperative for 
+effective understanding of engineering subjects. The topics introduced will serve as basic tools 
+for specialized studies in many fields of engineering and technology. 
+2. To provide hands on experience using SciLab software to handle real life problems. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Apply principles of basic operations of matrices to find rank and echelon form of matrices to 
+solve system of simultaneous equations. 
+2. Illustrate the basic concepts of Complex numbers and apply the knowledge of complex 
+numbers to solve problems in hyperbolic functions and logarithmic functions. 
+3. Illustrate the knowledge Expansion of functions. 
+4. Illustrate the basic principles of Partial differentiation and its application to find maxima and 
+minima. 
+5. Illustrate SciLab programming techniques to the solution of linear and simultaneous algebraic 
+equations. 
+ 
+Mathematics - I (DJS23FBS101) 
+Unit Description Duration 
+1 Matrices: 
+1.1. Types of Matrices: Symmetric, Skew‐ Symmetric, Hermitian, Skew-Hermitian, Unitary, 
+Orthogonal Matrices. Rank of a matrix using Echelon form. 
+1.2. System of homogeneous and non–homogeneous equations, their consistency and 
+solutions. Linear dependent and independent vectors. 
+07 
+2 Complex Numbers, Hyperbolic function and Logarithm of Complex Numbers: 
+2.1. Review statement of D’Moivre’s Theorem. 
+2.2. Application of D’Moivre’s Theorem: Find expansion of sinnθ, cosnθ in terms of sines 
+and cosines of multiples of θ, expansion of sin nθ, cos nθ in powers of sin θ, cos θ and to find 
+sum of the trigonometric series. 
+2.3. Roots of complex number. 
+2.4. Circular functions of complex number and Hyperbolic functions. Inverse Circular and 
+Inverse Hyperbolic functions. Separation of real and imaginary parts of all types of functions. 
+2.5. Logarithmic functions, Separation of real and Imaginary parts of Logarithmic functions. 
+11 
+3 Expansion of Function: 
+3.1. Taylor’s Theorem (Statement only), Taylor’s series and Maclaurin’s series (Statement 
+only). Expansion of standard functions. 
+04 
+ 
+4 Partial Differentiation: 
+4.1. Partial Differentiation: Function of several variables, Partial derivatives of first and 
+higher order, Differentiation of composite function, Total differentials and Implicit functions. 
+4.2. Euler’s Theorem on Homogeneous functions with two and three independent variables 
+(with proof). Deductions from Euler’s theorem. 
+09 
+5 Applications of Partial Differentiation: 
+5.1. Maxima and Minima of a function of two independent variables. 
+5.2. Jacobian’s of two and three independent variables. 
+04 
+ 
+ 
+6 Numerical Solutions of Transcendental Equations, System of Linear Algebraic 
+Equations, Curve fitting: 
+6.1. Solution of Algebraic and Transcendental Equations by: Newton Raphson Method 
+6.2. Solution of system of linear algebraic equations by Gauss Seidal Iteration Method. 
+6.3. Curve fitting: Fitting a straight line, Quadratic curve. 
+04 
+ Total 39 
+ 
+ 
+ 
+Mathematics - I Tutorial (DJS23FBS101T) 
+Tut. Suggested Tutorials (including SciLab programs) 
+1 Matrices. 
+2 Matrices (SciLab) 
+3 Complex Numbers. 
+4 Hyperbolic and Logarithm of complex no. 
+5 Expansion of Function. 
+6 Partial Differentiation. 
+7 Application of Partial Differentiation. 
+8 Solution of Transcendental Equations by Newton Raphson Method. 
+9 Solution of system of linear algebraic equations by Gauss Seidal Iteration Method. 
+10 Curve Fitting. 
+ 
+Minimum eight tutorials (including SciLab programs) from the above suggested list or any other 
+experiment based on syllabus will be included, which would help the learner to apply the concept learnt. 
+ 
+ 
+ 
+ 
+ 
+Books Recommended: 
+Text books: 
+1. Higher Engineering Mathematics, Dr. B. S. Grewal, Khanna Publication. 
+2. Advanced Engineering Mathematics, Dennis G. Zill, Warren S. Wright. 
+ 
+Reference Books: 
+1. Foundations of Complex Analysis, S. Ponnusamy, Narosa Publications. 
+2. Advanced Engineering Mathematics, Erwin Kreyszig, Wiley Eastern Limited, 9th Ed. 
+3. Advanced Engineering Mathematics by H. K. Dass, 28th edition, S. Chand 2010. 
+4. Introductory Methods of Numerical Analysis, S.S. Sastry, Eastern Economy Edition. 
+5. Numerical Methods, M. K. Jain, R. K. Jain, S. R. K. Iyengar, New Age International Publishers. 
+6. Matrices, Shanti Narayan, S. Chand publication. 
+7. Applied Numerical Methods with MATLAB for Engineers and Scientists by Steven Chapra, 
+McGraw Hill. 
+8. Elementary Linear Algebra with Application by Howard Anton and Christ Rorres, 6th edition, John 
+Wiley & Sons, INC. 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+Program: Common for all Programs F. Y B.Tech Semester: I 
+Course: Structured Programming using C (DJS23FES101) 
+Course: Structured Programming using C Laboratory (DJS23FES101L) 
+ 
+Pre-requisite: None 
+ 
+Objectives: 
+1. To familiarize with the logic of Computer Programming. 
+2. To provide exposure in developing algorithm, flowchart and thereby writing efficient 
+codes for user defined problem. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Implement the programs in C. 
+2. Debug the C programs 
+ 
+Structured Programming using C (DJS23FES101) 
+Unit Description Duration 
+1 Introduction to Computer, Algorithm and Flowchart: 
+1.1 The turing machine architecture, the von Neumann architecture, Number system 
+1.2 Introduction to operating sytsem components 
+1.3 System and application software 
+1.4 Algorithm & Flowchart: 
+Three constructs of Algorithm and flowchart: Sequence, Decision (Selection) and 
+Repetition, Compilation process: Syntax and semantic errors, 
+ 
+03 
+2 Fundamentals of C-Programming: 
+2.1 Character Set, Identifiers and keywords, Data types, Constants, Variables. 
+2.2 Operators-Arithmetic, Relational and logical, Assignment, Unary, Conditional, Bitwise, 
+Comma, and other operators. Expression, statements, Library Functions, Preprocessor. 
+2.3 Data Input and Output – getchar (), putchar (), scanf (), printf (), gets (), 
+puts (), Structure of C program. 
+ 
+ 
+ 
+04 
+3 Control Structures: 
+3.1 Decision making with Branching - If statement, If-else Statement, Switch case 
+statement 
+3.2 Looping – while, do-while, for 
+3.3 Nested control structure 
+3.4 Continue statement, Break statement, goto statement. 
+ 
+ 
+05 
+4 Functions and Parameter: 
+4.1 Function -Introduction of Function, defining a Function, accessing a Function, Function 
+Prototype, Passing Arguments to a Function, Designing Recursive function 
+4.2 Storage Classes –Auto, Extern, Static, Register 
+ 
+ 
+03 
+5 Arrays, String, Structure: 
+5.1 Array-Concepts, Declaration, Definition, accessing array element, One- dimensional 
+and Multidimensional array, Passing Arrays to Function 
+5.2 String- Basics of String, Functions in string.h, user defined function for string handling 
+5.3 Structure- Declaration, Initialization, structure within structure, Operation on structures, 
+Array of Structure, Structure padding. 
+ 
+ 
+ 
+07 
+ 
+6 Pointers: 
+6.1 Introduction, Definition and uses of Pointers, Address Operator, Pointer Variables 
+6.2 Pointer Arithmetic 
+6.3 Call by value, call by Reference 
+ 
+ 
+04 
+ Total 26 
+ 
+ 
+ 
+Structured Programming using C Laboratory (DJS23FES101L) 
+Exp. Suggested experiments 
+1 Write a program to swap two variables values with and without using third variables. Write algorithm 
+and draw flowchart for the same. 
+2 Write a program to check odd or even number: 
+(a) using modulus operator (b) using conditional operator. 
+3 Design and develop a C program to read a year as an input and find whether it is leap year or not. 
+Also consider the end of the centuries. Write algorithm and draw flowchart for the same. 
+4 Write a C program to find the sum of individual digits of a 3-digit number. 
+5 Design and develop a flowchart or an algorithm that takes three coefficients (a, b, and c) of a 
+Quadratic equation (ax2 +bx+c=0) as input and compute all possible roots. Implement a C program 
+for the developed flowchart/algorithm and execute the same to output the possible roots for a given 
+set of coefficients with appropriate messages. 
+6 Write a program to count the number of digits in a given integer. 
+7 Write a menu driven program to perform simple arithmetic operations based on the user's choice. The 
+user will indicate the operation to be performed using the signs e.g. + for addition, etc. Write an 
+algorithm and draw flowchart for same. 
+8 Write a program to read a number of more than one digit, reverse the number and display the sum of 
+digits of numbers. Write algorithm and draw flowchart for the same. 
+9 Write programs to display each of the following patterns. 
+A) 1 B) A 
+ 2 1 ABA 
+ 3 2 1 ABCBA 
+ 4 3 2 1 ABCDCBA 
+ 5 4 3 2 1 ABCDEDCBA 
+10 Write a C program to find maximum and minimum between two numbers using functions. Write 
+algorithm and draw flowchart for the same. 
+11 Write C program to find GCD of two integers by using recursive function. 
+12 Write a C program to find both the largest and smallest number in a list of integers. Write algorithm 
+and draw flowchart for the same. 
+13 Develop, implement and execute a C program that reads two matrices A (m x n) and B (p x q) and 
+Compute product of matrices A and B. Read matrix A and matrix B in row major order and in column 
+ 
+major order respectively. Print both the input matrices and resultant matrix with suitable headings and 
+output should be in matrix format only. 
+14 Write a Program for deletion of an element from the specified location from Array. 
+15 Write a C program using user defined functions to determine whether the given string is palindrome 
+or not. 
+16 Write C program to count the number of lines, words and characters in a given text. 
+17 Write a program to swap two numbers using a function. Pass the values to be swapped to this function 
+using the call-by-value method and call-by-reference method. 
+18 Write a C program to find the length of the string using Pointer. 
+19 Write a program to copy one array to another using pointer. 
+20 Write a program to compare two strings using pointers. 
+ 
+ 
+Books Recommended: 
+Books Recommended: 
+Textbooks: 
+1. MASTERING C” by K.R.Venugopal and Sudeep R.Prasad , Tata McGraw-Hill 
+Publications. 
+2. “A Computer Science –Structure Programming Approaches using C”, by Behrouz 
+Forouzan, Cengage Learning. 
+3. Schaum’s outlines “Programming with C”, by Byron S. Gottfried, Tata McGraw-Hill 
+Publications. 
+ 
+Reference Books: 
+1. “Basics of Computer Science”, by BehrouzForouzan , Cengage Learning. 
+2. “Programming Techniques through C”, by M. G. Venkateshmurthy, Pearson 
+Publication. 
+3. “Programming in ANSI C”, by E. Balaguruswamy, Tata McGraw-Hill Education. 
+4. “Programming in C”, by Pradeep Day and Manas Gosh, Oxford University Press. 
+5. “Let Us C”, by Yashwant Kanetkar, BPB Publication. 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+Program: Common for all Programs Group A F. Y B. Tech SEM I 
+Course: Physics (DJS23FBS102) 
+Course: Physics Laboratory and Tutorial (DJS23FBS102L) 
+ 
+Pre-requisite: 
+ Foundations of physics and mathematics till HSc or equivalent is necessary to comprehend 
+engineering physics curriculum effectively. 
+ 
+Objectives: 
+1. Identify and understand the fundamental physical principles underlying engineering 
+technologies—a prerequisite to become successful engineer. 
+2. To provide inclusive knowledge of fundamental physical principles encouraging 
+engineering students to venture in the research field. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+ 
+CO1. Relate the scope and foundation of quantum mechanics & quantum computing and its 
+role in development of modern technology. 
+CO2. Apply the foundations of Optics and Photonics in precision measurements indispensable 
+for the development of modern communication technology. 
+ 
+CO3. Assimilate the concepts of Electrodynamics, which are prerequisite in modern 
+developments for signal communications, Antenna Theory etc. 
+ 
+CO4. Explore basic sensing techniques for physical measurements in modern instrumentation. 
+ 
+Physics (DJS23FBS102) 
+Unit Description Duration 
+1 QUANTUM PHYSICS & COMPUTING 
+(Prerequisites: Origin of Quantum mechanics and its comparison with classical mechanics, Dual 
+nature of radiation, Photoelectric effect, Davisson-Germer experiment, single slit experiment) 
+• Introduction (Matter waves, De Broglie hypothesis, Wave Packet). 
+• Concept of Phase velocity and group velocity and relation with particle velocity. 
+• Heisenberg Uncertainty Principle. 
+• Wave function; Physical interpretation of wave function. 
+• Schrodinger’s time dependent wave equation; time independent wave equation; Particle trapped 
+in one dimensional infinite potential well. 
+• Fundamentals of Quantum Computing ( Difference between classical computing & quantum 
+computing, Qubits, Quantum Superposition theorem, Quantum Entanglement theorem) 
+ 
+5 hrs 
+ 
+2 OPTICS FOR ENGINEERS 
+(Prerequisites: Wavefront and Huygens’s principle, reflection , refraction, interference, Young’s 
+double slit experiment, diffraction) 
+• Thin Film Interference: Introduction (division of amplitude & Stoke’s relation) Interference in 
+thin film of constant thickness in reflected light, Formation of colors in thin film (point source & 
+extended source); Interference in Wedge shaped film in reflected light ; Formation of Newton’s 
+rings; Applications (Antireflecting & High reflecting films) 
+ 
+• Diffraction: Introduction (distinguish between interference & diffraction), Fresnel & Fraunhofer 
+diffraction, Fraunhofer diffraction at single slit & double slit (qu alitative), Diffraction Grating, 
+Absent spectra, Resolving power & Dispersive power of a grating (qualitative), Applications. 
+ 
+7 hrs 
+3 PHOTONICS & FIBRE OPTICS 
+(Prerequisites: Absorption, recombination, energy bands of p-n junction, refractive index of a material, 
+Snell’s law, Total internal reflection) 
+• Laser: Spontaneous emission and Stimulated emission; Einstein’s coefficients, Metastable state, 
+Resonant cavity, Population inversion, three & four level lasers, types of pumping, Helium Neon 
+laser; Nd:YAG laser, Applications. 
+ 
+• Fiber optics: Structure of an optical fib er, Types: Single mode & Multimode, Step index & 
+Graded index, Numerical Aperture for step index fib er, Modes of propagation, V number , 
+Attenuation, Applications (Optical fibre Transmission). 
+ 
+6 hrs 
+4 ELECTRODYNAMICS 
+(Prerequisites: Coulomb's law-force between two-point charges, electric field due to a point charge, 
+electric field due to a dipole, Gauss’s law for electrostatics & magneto statics , Faraday’s Law , 
+Ampere’s circuital law) 
+• Scalar and Vector fields, Physical significance of gradient, divergence, and curl in Cartesian co-
+ordinate system. 
+• Divergence theorem, Stokes theorem. 
+• Maxwell’s equations (Free space and time varying fields) & Significance. 
+ 
+4 hrs 
+5 PHYSICS OF SENSORS 
+(Prerequisites: Transducer concept, meaning of calibration, piezoelectric effect, IR waves) 
+• Ultrasonic sensors: Concept of inverse piezoelectricity, Ultrasonic transducer as distance meter, 
+Applications 
+• Light sensors: Photodiode & LDR (Principle, working & Applications) 
+• Hall sensor: (Principle of Hall effect, working & Applications) 
+• IR sensor: (Principle, working & Applications) 
+ 
+4 hrs 
+ Total 26 hrs 
+ 
+Physics Laboratory and Tutorial (DJS23FBS102L) 
+Exp. Suggested experiments 
+ 1 Determination of Planck’s constant using LED. 
+ 2 Determination of wavelength using Diffraction grating and Hg source. 
+3 Determination of wavelength using Diffraction grating and Na source. 
+4 Determination of width of a slit using single slit diffraction experiment (laser source). 
+5 Determination of width of a double slit using (laser source). 
+6 Study of I-V characteristics of Photo diode. 
+7 Study of ultrasonic distance meter/ interferometer. 
+8 Determination of radius of curvature of a lens using Newton’s ring set up. 
+9 Determination of grating element & no. of lines/cm using Ruler. 
+10 Simulation experiments on sensors. 
+11 Determination of grating element or wavelength using Diffraction grating (Laser source). 
+12 Study of divergence of laser beam. 
+13 Determination of diameter of wire/hair or thickness of paper using Wedge shape film method. 
+14 Determination of grating element & no. of lines/cm using CD. 
+15 Determination of Numerical Aperture of an optical fiber. 
+ 
+Minimum 8 experiments as laboratory work from the above suggested list or any other experiment based 
+on syllabus should be conducted batch wise to develop a rational temperament for scientific observations 
+which lead to constructive inferences essential for technology studies. 
+ 
+Tutorials: 
+ 
+A minimum of 8 tutorial sessions on topics covering the entire syllabus should be conducted batchwise 
+for effective interactive sessions focusing on better understanding of the subject. 
+ 
+Books Recommended: 
+ 
+Textbooks: 
+1. A textbook of Engineering Physics-Avadhanulu & Kshirsagar, S. Chand 
+2. Problems in Engineering Physics- Avadhanulu & Kshirsagar, S. Chand 
+3. A textbook of Engineering Physics, S. O. Pillai, New Age International Publishers. 
+4. A textbook of Optics - N. Subramanyam and Brijlal, S. Chand 
+5. Quantum Mechanics: Theory & Applications-Ajoy Ghotak & S. Lokanathan 
+6. Modern Engineering Physics – Vasudeva, S. Chand. 
+7. Engineering Physics- Wiley. 
+ 
+8. Engineering Physics – R K Gaur & S L Gupta, Dhanpat Rai Publications. 
+9. Engineering Physics – Shatendra Sharma & Jyotsna Sharma, Pearson publications. 
+10. Engineering Physics – D. K. Bhattacharya & Poonam Tandon, Oxford publications. 
+11. Engineering Physics – V Rajendran, McGraw Hill Educations. 
+12. Optics - Ajay Ghatak, Tata Mc Graw Hill. 
+13. Electronic Instrumentation –H.S. Kalsi, Tata Mc Graw-Hill Education. 
+ 
+Reference Books: 
+1. Introduction to Quantum Mechanics- David. J. Griffiths, Cambridge University Press. 
+2. An Introduction to Quantum Computing Phillip Kaye Oxford Press. 
+3. Quantum Computing for everyone Chris Bernhardt the MIT Press. 
+4. Fundamentals of optics by Jenkins and White, McGraw Hill. 
+5. Concepts of Modern Physics- Arther Beiser, Tata McGraw Hill. 
+6. Introduction to Electrodynamics- D. J. Griffiths, Pearson publication. 
+7. Instrumentation & Measurement Techniques by Albert D. Helfrick & William D. Cooper (PHI). 
+8. Handbook of Modern Sensors Physics design and application- Jacob Fraden, Springer, AIP press. 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+Program: Common for all Programs Group A F.Y B.Tech Semester: I 
+Course: Computational Engineering Mechanics (DJS23FES102) 
+Course: Computational Engineering Mechanics Laboratory (DJS23FES102L) 
+ 
+Pre-requisite: -- 
+1. Basics of Trigonometry and Matrices. 
+2. Newton’s Laws of motion. 
+Objectives: 
+1. To acquaint learners with the concept of equilibrium. 
+2. To familiarize learners to analyze the motion of moving objects/bodies. 
+Outcomes: On completion of the course, the learner will be able to: 
+1 Illustrate the effect of force and moment to determine the resultant of force system 
+2 Apply the concept of equilibrium systems with the help of free body diagram. 
+3 Correlate real life application to friction and estimate the Power transmitted by the belt. 
+4 Apply the concept of geometric transformations to find the transformed position of an 
+element/object. 
+5 Analyze general plane motion of rigid bodies. 
+ 
+Computational Engineering Mechanics (DJS23FES102) 
+Unit Description Duration 
+1 Computation and analysis of System of Forces (Co-planar): 
+Concept of force, Principle of transmissibility, Composition and resolution of forces. Moment 
+of force about a point, Varignon’s Theorem. Various systems of forces. Couples. Force couple 
+system, Resultant of coplanar force system. 
+**Introduction to programming software packages (Python/Matlab/Scilab or any other 
+suitable software), Application of software packages for determination of Resultant. 
+06 
+ 
+ 
+ 
+ 
+2 Computation and analysis of Equilibrium Systems: 
+Conditions of static equilibrium. Free body diagram. Various types of supports and 
+support reactions. Equilibrium of Connected Bodies. 
+Types of Beams and various types of loads. Determination of reactions at supports for 
+beams. 
+** Application of software packages for analysis of bodies in equilibrium. 
+06 
+ 
+ 
+ 
+3 Computation and analysis of Frictional force : 
+Concept of Static Friction and Dynamic/ Kinetic Friction, Laws of dry friction, Coefficient 
+of Friction, Angle of Friction, Concept of Cone of friction. Angle of Repose. 
+Belt friction, Power transmitted by flat belt drives. (Numericals on Block, Wedge and Ladder 
+friction excluded.) 
+** Application of software packages for analysis and computation of friction forces. 
+04 
+4 Robot Kinematics (Part-I): Geometric Transformations 
+2D transformations: Translation, Scaling, Rotation , Shear and Reflection ; Matrix 
+representation and Homogeneous Coordinates; Composite transformation. 
+Introduction to 3D Transformations: Translation, Rotation, Scaling and Reflection 
+(Numerical on 3D transformations excluded). 
+** Programming for transformations of basic geometric 2D elements/objects. 
+05 
+ 
+5 Robot Kinematics (part-II): 
+General Plane motion of Rigid body. The concept of i nstantaneous center of rotation 
+(ICR) for the velocity. Velocity analysis of rigid body using ICR. 
+Introduction to Forward Kinematics and Inverse Kinematics . Applications of 
+Mechanics in Robotics, Machine Learning and AI. 
+** Application of software packages for simulating Kinematics of Rigid Body. 
+ 05 
+ Total 26 
+ 
+ 
+Computational Engineering Mechanics (DJS23FES102L) 
+Exp. List of Lab experiments 
+1 Verification of Polygon law of coplanar forces. 
+2 Verification of law of Moment using Bell crank lever. 
+3 Determination of Support reaction for beam. 
+4 Determination of coefficient of friction using Inclined plane. 
+5 Verification of Lami’s theorem using Jib crane. 
+6 Resultant of non-concurrent non-parallel coplanar force system. 
+7 Determination of coefficient of restitution for Collision of elastic bodies (Law of conservation of 
+momentum). 
+ **List of Programming Exercises 
+8 Programming exercises on determination of Resultant of Coplanar Force System. 
+9 Programming exercises on determination of Support Reaction. 
+10 Programming exercises on Friction. 
+11 Plotting of Motion Curves. 
+12 Programming exercises on transformations of basic geometric 2D elements. 
+13 Simulating Kinematics of Rigid Body. 
+ 
+Laboratory work should contain total 8 experiments/exercises (Any five from 1 to 7 and any 
+three from 8 to 13). 
+ 
+Books Recommended: 
+ 
+Text books: 
+1. A. K. Tayal, Engineering Mechanics, 14th Edn., Umesh Publication, 2011. 
+2. S. Ramamrutham, Engineering Mechanics, Dhanpat Rai Publishing company, 2016. 
+ 
+Reference Books: 
+1. R. C. Hibbeler, Enginering Mechanics, Pearson education, 12th Edn., 2010. 
+2. Rajasekaran S and Sankarasubramanian G., “Engineering Mechanics St atics and Dynamics”, 3rd 
+Edn., Vikas Publishing House Pvt. Ltd., 2005. 
+3. Beer, F. P. & Johnston, E. R., Vector Mechanics for E ngineers - Statics and Dynamics, 3rd Edn., 
+Tata McGraw Hill Publishing Company, 2001. 
+4. Bhattacharya B., Engineering Mechanics, 3rd Edn., Oxford University press, 2008. 
+5. Ramkumar Agarwal, Engineering Mechanics, 1st Edn., Agarwal Education Centre: Self Publication, 
+2021. 
+6. Nelson and Mc Lean, Engineering Mechanics, 5th Edn., Tata McGraw Hill, 1997. 
+ 
+7. Harsh Bhasin, Python For Beginners, 1st Edn., New Age International Publishers, 2018. 
+8. M. Groover, CAD/CAM: Computer-Aided Design and Manufacturing, 1st Edn., Pearson Education 
+India, 2013. 
+9. Rudra Pratap, Getting Started with MATLAB: A Quick Introduction for Scientists & Engineers, 1st 
+Edn., Oxford University Press, 2010. 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+Program: Common for all Programs Group: A F.Y B.Tech. Semester: I 
+Course: Basic Electrical Engineering and Digital Electronics (DJS23FES103) 
+Course: Basic Electrical Engineering and Digital Electronics Tutorial (DJS23FES103T) 
+ 
+Pre-requisite: 
+1. Knowledge of basic physics. 
+2. Knowledge of basic mathematics. 
+ 
+Objectives: 
+1. To develop basic understanding of concepts of DC and AC circuits and analyse their operations 
+using various techniques. 
+2. To get an insight of digital electronics. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Apply the knowledge of theorems/laws to analyse the DC circuits. 
+2. Analyse single phase AC circuits. 
+3. Demonstrate knowledge of logic gates and sequential circuits. 
+ 
+Basic Electrical Engineering and Digital Electronics (DJS23FES103) 
+Unit Description Duration 
+1 DC Circuits 
+• Introduction to ideal and practical voltage and current sources 
+• Kirchhoff’s current and voltage laws 
+• Mesh and Nodal analysis 
+• Supernode and Supermesh analysis 
+ 05 
+2 DC Network Theorems 
+• Star – Delta Transformation 
+• Superposition Theorem 
+• Thevenin’s Theorem 
+• Maximum Power Transfer Theorem 
+ 05 
+3 AC Circuits 
+• Generation and representation of alternating voltage and currents 
+• RMS and Average value 
+• Phasor representation 
+• AC through resistance, inductance and capacitance 
+• R-L-C series, parallel circuits 
+• Calculation of power and power factor 
+ 
+10 
+4 Logic Gates 
+• Basic gates 
+• Universal gates 
+• Boolean algebra 
+• De Morgan’s Laws 
+03 
+ 
+5 Latches and Flip flops 
+• Introduction to Latches 
+• Flip-flops: RS, JK, T, D flip-flops 
+03 
+ Total 26 
+ 
+ 
+Basic Electrical Engineering and Digital Electronics Tutorial (DJS23FES103T) 
+ 
+Batchwise tutorial sessions are to be conducted on topics which would help the learner to 
+identify/analyze the problem and to apply problem solving techniques learnt. 
+ 
+Books Recommended: 
+ 
+Text Books: 
+1. B. R. Patil, “Basic Electrical Engineering”, Oxford Higher Education, 2016. 
+2. R. R. Singh, “Network Analysis and Synthesis”, McGraw Hill, 2nd Edition, 2019. 
+3. R. S. Sedha, “A textbook of Electronic Devices and Circuits”, S. Chand, 2002. 
+4. R. P. Jain, “Modern Digital Electronics”, McGraw Hill, 2011. 
+ 
+Reference Books: 
+1. D. P. Kothari and I. J. Nagrath, “Basic Electrical Engineering”, Tata McGraw Hill, 2010. 
+2. D. C. Kulshreshtha, “Basic Electrical Engineering”, McGraw Hill, 2009. 
+3. E. Hughes, “Electrical and Electronics Technology”, Pearson, 2010. 
+4. V. D. Toro, “Electrical Engineering Fundamentals”, Prentice Hall India, 1989. 
+5. M. Morris Mano, “Digital design”, Prentice Hall India. 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+Program: Common for all Programs Group A F. Y B. Tech Semester: I 
+Course: Health and Wellness (DJS23FLL101T) 
+ 
+Objectives: 
+1. To acquaint learners with the basic concept of Health and wellbeing. 
+2. To develop healthy lifestyle habits for good health. 
+3. To understand emotional & mental well-being. 
+4. To impart strategies to maintain Good Health. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Implement the knowledge of Health and wellness in daily lives. 
+2. Apply appropriate & innovative methods to avoid risks from harmful habits. 
+3. Employ personal development (both physical & emotional) strategies for better living. 
+4. Create a plan for good health through a positive mindset. 
+ 
+ 
+Health And Wellness (DJS23FLL101T) 
+Unit Suggested Description of Tutorial Activities No of 
+Assignments 
+1 Fundamentals of Good Health 
+1. Divide the students into small groups and assign each group a specific 
+lifestyle choice (Healthy or Unhealthy) to explore. 
+ 
+• Ask them to discuss the potential effects on health and present their 
+findings to the class. 
+ 
+1 
+2 The Basics of Health 
+1. Create a Personalized Health Goal Plan 
+2. Role-play techniques to promote awareness regarding health and disease 
+prevention. 
+Select a Relevant Topic : Choose a specific health -related topic such as hygiene practices, 
+vaccination, or mental health. 
+ 
+ Script Development : Develop a script that combines informative content with creative 
+elements. 
+Include key messages, facts, and practical tips related to the health issue. 
+Use humor, drama, and relatable scenarios to capture the audience's attention. 
+ 
+Characterization: Each character should have a distinct personality and contribute to the 
+overall message of the play. 
+ 
+2 
+3 Yoga for Mind and Body (Any 2) 
+1. Mindfulness and Meditation Session 
+2. Written assignment on the Role of Yoga in enhancing concentration. 
+3. Stress Awareness Discussion Group 
+2 
+ 
+• Create a safe and supportive space for students to discuss and share 
+their stressors. 
+• Organize a stress awareness discussion group where students can 
+openly express their concerns, challenges, and coping strategies. 
+• Facilitate meaningful conversations on stress management 
+techniques. 
+• Provide resources for support (such as counseling services) and 
+encourage peer support within the group. 
+ 
+4 1. Emotional Intelligence and Mind Management (Any 2) 
+1. Role-Play on Conflict Resolution: 
+a) Find a partner: Choose a friend who is willing to participate in this role-
+play activity with you. 
+b) Select a scenario: Together with your partner, select a conflict scenario to 
+role-play. It could be a common situation that often leads to conflicts, such 
+as a disagreement over how to divide household chores, a difference of 
+opinion on a project at work, or a conflict over limited resources. 
+c) Assign roles: Decide who will play each role in the conflict scenario. One 
+person will take on the role of one party involved in the conflict, and the 
+other person will take on the role of the other party. 
+d) Practice conflict resolution techniques: Use the conflict resolution 
+techniques you have learned, such as active listening, expressing feelings 
+using "I" statements, seeking common ground, and brainstorming solutions. 
+e) Reflect and switch roles: After the initial role-play, take a moment to 
+reflect on the experience. Discuss what worked well and areas that could be 
+improved. Then, switch roles and repeat the role-play, allowing each 
+participant to experience the situation from the perspective of the other 
+party involved in the conflict. 
+• Remember, the purpose of the activity is not to "win" the conflict but rather 
+to practice and develop the skills necessary for constructive conflict 
+resolution. 
+• Approach the role-play with an open mind, a willingness to learn, and a 
+commitment to respectful communication. 
+2. Self-Assessment and Reflection (Mood O Meter chart activity) 
+• Begin the tutorial by facilitating self-assessment activities that encourage 
+students to reflect on their emotions, thoughts, and behaviors. 
+• Provide questionnaires or reflective exercises that prompt students to 
+identify their strengths, areas for improvement, and triggers for stress or 
+negative emotions. 
+3. Case Study discussion based on Emotional Intelligence 
+2 
+5 Self-Reflection and Wellness Goal Setting 1 
+ 
+Gratitude journaling: Have students maintain a gratitude journal where they write down 
+three things, they are grateful for each day on the following indicators: 
+• How did it feel to write in the gratitude journal? 
+• Did you find it challenging or easy to identify things to be grateful for? 
+• What positive emotions or thoughts arose while writing the journal? 
+• Do you think maintaining a gratitude journal can have a positive impact on your 
+well-being as an engineering student? 
+ 
+ 
+Mini Project – Community Health and Wellness Initiative 
+1. Research and Assess Community Needs: 
+• Conduct surveys or interviews to assess the health and wellness needs of your community. 
+• Identify specific areas where improvements can be made, such as physical fitness, mental 
+health, social connections, or access to healthcare resources. 
+2. Fitness and Recreation Events: 
+• Arrange fitness events, such as community walks or runs, group exercise classes, yoga 
+sessions, or sports tournaments. 
+3. Health Education Campaigns: 
+• Launch health education campaigns to raise awareness about specific health issues relevant to 
+your community. 
+• This could include distributing informational pamphlets, organizing educational talks, or 
+Creating Social Media Campaigns to share important health messages. 
+• Develop a plan to sustain the project beyond its initial phase. 
+OR 
+Health and Wellness Advocacy Project 
+• Choose a health issue you are passionate about and design a health and wellness advocacy 
+project. 
+• Students can create a Persuasive Video, Infographic or Social Media Campaign to 
+raise awareness and mobilize support for their chosen cause. 
+ 
+Assessment Scheme for Proposed Course on “ Health and Wellness - Mind and Body 
+Management”, Course Code: DJS23FLL101T 
+ 
+ 
+Assessment Scheme- Total 50 Marks 
+Term Work 25 Marks 
+Mini Project 25 Marks 
+ 
+ 
+Term Work shall consist of a minimum of five tutorial assignments from the above-mentioned list. 
+Suggested Reference books 
+1. Physical Activity and Health by Claude Bouchard, Steven N. Blair, William L. Haskell. 
+2. Mental Health Workbook by Emily Attached & Marzia Fernandez, 2021. 
+3. Mental Health Workbook for Women: Exercises to Transform Negative Thoughts and 
+Improve Well-Being by Nashay Lorick, 2022 
+4. Lifestyle Diseases: Lifestyle Disease Management, by C. Nyambichu & Jeff Lumiri, 2018. 
+5. Physical Activity and Mental Health by Angela Clow & Sarah Edmunds, 2013 
+6. Yoga for Beginners: A Practical Guide" by Iyengar B.K.S ,Dorling Kindersley,2006 
+7. Emotional Intelligence: Why It Can Matter More Than IQ By Daniel Goleman,Bantam, 
+2006 
+8. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by 
+James Clear, Penguin,2018 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+Program: Common for all Programs Group B F.Y B.Tech Semester: I 
+Course: Chemistry (DJS23FBS103) 
+Course: Chemistry Laboratory and Tutorial (DJS23FBS103L) 
+ 
+Pre-requisite: -- 
+1. Properties of light and spectrum, wavelength and wave number. 
+2. Basic process of polymerization and its properties and types. 
+ 
+Objectives: 
+1. To obtain a strong hold on basic concepts of Chemistry that form fundamental principles of 
+technology. 
+2. To give exposure to recent material development in the field of engineering. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+ 
+1. Recognize new approaches of chemical analysis, which are more convenient, less hazardous 
+and sustainable to perform. 
+2. Describe applications based on nanomaterials and modern polymers in engineering techniques. 
+3. Analyze the quality of fuel for energy efficiency. 
+4. Recognize properties of materials and alloys with phase transformation. 
+5. Identify the parameters responsible for water pollution using suitable methods of water 
+treatment. 
+ 
+Chemistry (DJS23FBS103) 
+Unit Description Duration 
+1 Sustainable approach to Chemistry 
+ 
+(A) Spectroscopic Techniques and Applications: 
+• Introduction: Electromagnetic spectrum, its origin, properties and applications. 
+Numericals based on energy of photon. 
+• Spectroscopy: Principle, classification and types. 
+• Relation between electromagnetic spectrum, spectroscopy types and energy 
+changes. 
+• Flame Photometry: Principle, Instrumentation, working, applications, interferences, 
+advantages and disadvantages. 
+• Jablonski diagram, Introduction to florescence and phosphorescence. 
+• Applications of fluorescence. 
+(B) Green Chemistry 
+• Introduction: Definition, significance. 
+• Twelve Principles of green chemistry. 
+• Conventional and green synthesis of : 
+• (i) Carbaryl (ii) Indigo (iii) Adipic acid (iv) Acrylamide 
+• Percentage atom economy (Numericals). 
+• Green solvent: Supercritical CO2 
+ 
+ 
+8 
+ 
+2 Engineering Materials 
+ 
+(A) Nanomaterials: 
+ 
+• Introduction to nanomaterials. 
+• Fullerenes: Properties and applications. 
+• Carbon nanotubes: Types, Properties, Method of preparation (Laser, CVD), 
+Applications. 
+(B) Polymers 
+• Compounding of plastic, Fabrication of plastic by Compression, Injection, Transfer 
+and Extrusion moulding. 
+• Effect of heat on polymers (glass transition temperature), Viscoelasticity. 
+• Conducting Polymers and applications. 
+ 
+5 
+3 Fuels and Combustion 
+ 
+• Introduction: Definition, classification, characteristics of a good fuel. 
+• Calorific value: Definition, Units, Gross or Higher calorific value & Net or lower 
+calorific value, Dulong’s formula & numerical for calculations of Gross and Net 
+calorific values. 
+• Analysis of coal- Proximate and Ultimate Analysis (theory and numericals). 
+• Combustion: Calculations for requirement of oxygen and air (by weight and by 
+volume) for given fuels. 
+• Power alcohol. 
+• Green fuel: Biodiesel (Synthesis and advantages). 
+ 
+5 
+4 Phase Rule and Applications 
+• Phase Rule-Gibb’s Phase Rule, Terms involved with examples. 
+• One Component System (Water). 
+• General characteristics of two component system. 
+• Reduced Phase Rule. 
+• Two Component System (Pb- Ag). 
+• Eutectic system: Applications and Numericals. 
+• Advantages and Limitations of Phase Rule. 
+ 
+4 
+5 Water Technology 
+• Introduction - Impurities in water. 
+• Hardness of water- units, types and numericals. 
+• Determination of hardness of water by EDTA method and numericals. 
+• Softening of water by Ion Exchange process and numericals. 
+• BOD, COD- Definition, significance and numericals. 
+ 
+4 
+ Total 26 
+ 
+ 
+ 
+ 
+ 
+Chemistry Laboratory and Tutorial (DJS23FBS103L) 
+Exp. Suggested experiments 
+1 To determine Chloride content of water by Mohr’s Method. 
+2 To determine total, temporary, and permanent hardness of water sample by EDTA method. 
+3 To determine pH of different solutions using pH meter. 
+4 Determination of percent of Zn/Cu in brass. 
+5 Molecular weight determination of polymers by Oswald Viscometer. 
+6 Synthesis of UF, PF, Nylon 66. 
+7 Determination of COD. 
+8 Determination of surface Tension of a given liquid at room temperature using Stalgmometer 
+by drop number method. 
+9 Determination of percent of Fe in Plain carbon steel. 
+10 Determination of Moisture content of coal. 
+1 1 Determination of Ash content of coal. 
+12 Saponification value of oil. 
+13 Acid value of oil. 
+14 To estimate the emf of Cu-Zn system by Potentiometry. 
+15 To determine λmax of a given solution by using UV Spectrophotometer. 
+16 To validate Beer-Lambert law using UV Spectrophotometer/ colorimeter. 
+17 To determine metal ion concentration using colorimeter. 
+18 Determination of strength of a given solution (Acid/Base) by using conductometric titration. 
+19 Construction of concentration cell and determination of emf by potentiometry. 
+ 
+Minimum eight experiments from the above suggested list or any other experiment based on syllabus 
+will be included, which would help the learner to apply the concept learnt. 
+ 
+ 
+ 
+Tutorials: 
+Minimum eight tutorials based on syllabus will be conducted. Mini project relevant to the subject may 
+be included, which would help the learner to apply the concept learnt. 
+ 
+Books Recommended: 
+Text books: 
+1. Engineering Chemistry - Jain & Jain (DhanpatRai) 
+2. Engineering Chemistry – Dara &Dara (S Chand) 
+3. Elementary Organic Spectroscopy-Y.R. Sharma (S Chand) 
+4. An introductory text on green chemistry: for undergraduate students/Indu Tucker 
+Sidhwani, Rakesh Kumar Sharma (Wiley) 
+5. Nanomaterials/ A.K. Bandyopadhyay (New Age Publishers) 
+ 
+Reference Books: 
+1. Engineering Chemistry - Wiley India (ISBN – 9788126519880) 
+2. A Text Book of Engineering Chemistry – Shashi Chawla (DhanpatRai) 
+3. Concise Inorganic Chemistry – J D LEE 
+4. Essentials of Physical Chemistry—B S Bahl, Arun Bahl, G D Tuli. 
+5. Fundamentals of molecular spectroscopy- Colin N. Banwell (Tata McGraw-Hill Publications) 
+6. Green Chemistry-V.K. Ahluwalia (Narosa Publications) 
+7. Basic Atomic and Molecular Spectroscopy/J. Michael Hollas (Royal Society of 
+Chemistry) 
+8. Nanotechnology: An Introduction to Synthesis, Properties and Applications of 
+Nanomaterials/ Thomas Varghese & K.M. Balakrishna (Atlantic) 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+Program: Common for all Programs Group B F.Y B.Tech Semester: I 
+Course: Engineering Graphics (DJS23FES104*) 
+Course: Engineering Graphics Laboratory (DJS23FES104L) 
+Pre-requisite: -- 
+1. Basics of geometrical constructions 
+Objectives: 
+1. Students should be able to visualize the objects. 
+2. They should be able to understand and read drawing. 
+3. To impart and inculcate proper understanding of the theory of projection. 
+4. They should be able to present the same. 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Recognize the value of engineering graphics, as a language of engineers. 
+2. Construct orthographic views of basic shapes of solids. 
+3. Interpret and sketch orthographic and sectional orthographic views of various machine 
+components. 
+4. Visualize objects, and draw isometric views. 
+5. Build 2D sketches using Auto CAD. 
+Engineering Graphics (DJS23FES104*) 
+Unit Description Duration 
+1 Introduction to Engineering Drawing. Types of Lines, Dimensioning Systems as per IS 
+conventions, Types of Projections. 
+**Introduction to Auto CAD: - Basic Drawing and Editing Commands. Knowledge of 
+setting up layers, Dimensioning, Hatching, plotting and Printing 
+ 
+02 
+ 
+ 
+2 Orthographic projections:- 
+• Different views of simple machine parts as per the first angle projection method 
+recommended by I.S. 
+• Full Sectional views of Simple Machine parts. 
+**Drawing of orthographic projections using Auto CAD. 
+ 
+05 
+3 Sectional Orthographic projections:- 
+• Concept of sectioning and drawing section lines, 
+• Need for drawing sectional views 
+• Section of simple geometrical solids-cases involving different types of cutting 
+planes. 
+**Drawing of Sectional orthographic projections using Auto CAD. 
+ 
+ 
+05 
+4 Isometric Views:- Isometric Views/Drawings of blocks (plain and cylindrical, excluding 
+spheres). 
+**Drawing of Isometric Views using Auto CAD. 
+ 
+ 
+06 
+ 
+5 Projection of Solids: - (Prism, Pyramid, Cylinder & Cone only) 
+Projections of Solids with the axis inclined to HP and VP. (Exclude Spheres, Composite, 
+Hollow solids and frustum). Use change of position or Auxiliary plane method. 
+**Drawing of Projection of Solid using Auto CAD. 
+ 
+ 
+08 
+ Total 26 
+ 
+** Should be covered during Auto CAD Practical. 
+ 
+ 
+Engineering Graphics Laboratory (DJS23FES104L) 
+Exe. Suggested exercise 
+1 Orthographic Projections model 1 Using Auto CAD. 
+2 Orthographic Projections model 2 Using Auto CAD. 
+3 Sectional Orthographic Projections model 1 Using Auto CAD. 
+4 Sectional Orthographic Projections model 2 Using Auto CAD. 
+5 Sectional Orthographic Projections model 3 Using Auto CAD. 
+6 Isometric Views model 1 Using Auto CAD. 
+7 Isometric Views model 2 Using Auto CAD. 
+8 Isometric Views model 3 Using Auto CAD. 
+9 Projection of solids (Prism and Pyramid only) model 1 Using Auto CAD. 
+10 Projection of solids (Prism and Pyramid only) model 2 Using Auto CAD. 
+11 Layout Planning using AutoCAD for PCB. 
+Motherboard drawing using Auto CAD 12 Layout Planning using AutoCAD for Motherboard. 
+ 
+ 
+Minimum eight exercises from the above suggested list covering all the topics or any other experiment 
+based on syllabus will be included, which would help the learner to apply the concept learnt. 
+ 
+Books Recommended: 
+Text books: 
+1. N. D. Bhatt, ‘Engineering Drawing’, Charotar Publishing House. 
+2. M. B. Shah & B. C. Rana ‘Engineering Drawing’, Pearson Education. 
+3. Basant Agrawal, C M Agrawal, ‘Engineering Drawing’,Third Edidtion, Tata McGraw Hill Education 
+Private Limited. 
+Reference Books: 
+1. K. Venugopal (2007), ‘Engineering Drawing and Graphics + AutoCAD’, New Age International 
+Publishers. 
+2. M. L. Dabhade (2008), ‘Engineering Drawing’, Vision Publications. 
+3. Dhananjay A. Jolhe , ‘Engineering Drawing with an Introduction to AutoCAD’, Tata McGraw Hill 
+Education Private Limited. 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+Program: Common for all Programs Group B F.Y B.Tech Semester: I 
+Course: Effective Communication Skills (DJS23FHS101) 
+Course: Effective Communication Skills Laboratory (DJS23FHS101L) 
+ 
+Pre-requisite: 
+ Basic proficiency in English Language 
+ 
+Objectives: 
+1. To acquaint learners with the basics of communication with a focus on LSRW 
+2. To develop the learner’s proficiency in public speaking skills 
+3. To enable learners to use the principles of business writing for effective communication 
+4. To impart strategies for personal development 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Use skills related to the various aspects of communication to express ideas with greater clarity 
+2. Apply appropriate verbal/non-verbal cues in social and workplace situations and overcome the 
+barriers to communication 
+3. Employ personal development strategies for self-assessment, goal setting and maintaining a 
+professional persona online 
+ 
+ 
+Effective Communication Skills (DJS23FHS101) 
+Unit Description Duration 
+1 
+FUNDAMENTALS OF COMMUNICATION 
+1.1. Introduction to Theory of Communication 
+• Definition 
+• Objectives 
+• The Process of Communication 
+ 
+1.2. Methods of Communication 
+• Verbal Communication 
+• Non-verbal Communication 
+ 
+1.3. Barriers to Communication 
+• Physical/Environmental 
+• Mechanical 
+• Linguistic 
+• Psychological 
+• Socio-Cultural 
+ 
+1.4 Channels of communication in an organization 
+• Formal (Upward, Downward and Horizontal) 
+• Informal (Grapevine) 
+10 
+ 
+ 
+ 
+2 SPEAKING SKILLS 
+2.1. Developing Verbal Aptitude 
+• Meaning of Words in Context 
+• Synonyms & Antonyms 
+• Identifying Common Errors 
+• Subject - Verb Agreement 
+• One Word Substitution 
+• Pairs of Confused Words 
+• Articles 
+• Prepositions 
+ 
+ 2.2. Public Speaking 
+• Planning your speech 
+• Delivery of speech (Vocalics and Body Language) 
+• Dealing with stage fear 
+ 
+2 
+3 READING SKILLS 
+3.1 Mechanics of Reading 
+3.2 Undesirable Reading Habits 
+3.3 Types of Reading 
+3.4 Guidelines for Improving Reading Skills 
+3.5 Reading Comprehension 
+3.6 Summarization Techniques 
+3 
+4 LISTENING SKILLS 
+4.1 Purpose of Listening 
+4.2 Process of Listening 
+4.3 Barriers to Listening 
+4.4 Techniques for Improving Listening Skills 
+2 
+5 WRITING SKILLS 
+5.1. Professional Letter writing 
+• Seven Cs of Business Correspondence 
+• Parts of a Formal Letter 
+• Complete Block Format 
+• Types of Letters (Request, Grievance and Sales) 
+ 
+5.2. Email communication 
+• Popularity of Email 
+6 
+ 
+• Problems in Email Communication 
+• Techniques for Writing Effective Emails 
+• Email etiquette 
+ 
+6 PERSONAL DEVELOPMENT PLANNING 
+6.1 Self- Assessment strategies (SWOT Analysis) 
+6.2 Digital Footprints-Maintaining a Professional Persona 
+6.3 Goal Setting 
+ 
+ 
+3 
+ Total 26 
+ 
+ 
+ 
+Effective Communication Skills Laboratory (DJS23FHS101L) 
+ 
+Laboratory (conducted batch wise) will comprise of activities and assignments based on the syllabus 
+ 
+ 
+Books Recommended: 
+1. Hemphill, P. D., McCormick, D. W., & Hemphill, R. D. (2001). Business Communication with 
+Writing Improvement Exercises. Upper Saddle River, NJ: Prentice Hall. 
+2. Locker, Kitty O. Kaczmarek, Stephen Kyo. (2019). Business Communication: Building Critical 
+Skills. Place of publication not identified: Mcgraw-hill. 
+3. Murphy, H. (1999). Effective Business Communication . Place of publication not identified: 
+Mcgraw-Hill. 
+4. Raman, M., & Sharma, S. (2016). Technical Communication: Principles and Practice . New 
+Delhi: Oxford University Press. 
+5. Kaul, A. (2015). Effective Business Communication . Place of publication not identified: 
+Prentice-Hall of India. 
+6. Rizvi, A. M. (2010). Effective Technical Communication: A guide for scientists and engineers. 
+New Delhi: Tata McGraw Hill. 
+7. Lewis, N. (2014). Word Power Made Easy. Random House USA. 
+8. Sanjay Kumar & Pushp Lata (2018). Communication skills with CD . New Delhi: Oxford 
+University Press. 
+9. Mathew, Shirley (2022). Professional Communication and Ethics-I. Technical Publication. 
+10. Koneru, A. (2018). Professional Communication. McGraw Hill. 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ Program: Common for all Programs Group B F. Y. B. Tech Semester: I 
+Course: Ideation and Innovation Laboratory (DJS23FSC101L) 
+ 
+ 
+ 
+Objectives: 
+To provide for an experiential learning opportunity for first -year engineering students, 
+fostering innovation through hands-on activities in electronics, mechanical fabrication, and 
+prototyping. It is expected to encourage critical thinking, teamwork, and real -world 
+problem-solving by integrating design, ideation, and fabrication in a collaborative 
+environment. 
+ 
+Outcomes: Learners are expected to: 
+1. Demonstrate the ability to identify and use basic electronic 
+ instruments and mechanical tools safely and effectively for measurement and testing 
+ purposes. 
+2. Construct, solder, and house electronic circuits by interpreting schematics 
+ and applying fabrication skills for functional prototyping. 
+3. Design and assemble a wired two-wheeled robotic system with motor 
+ controls, demonstrating integration of mechanical and electronic components. 
+4. Simulate electronic circuits using software tools to analyse circuit behaviour 
+ and validate theoretical concepts through virtual experimentation. 
+5. Implement a basic IoT-based system integrated with an Android application 
+ to monitor and display real-time data, demonstrating applied problem-solving and 
+ programming skills. 
+ Ideation and Innovations Laboratory (DJS23FSC101L) 
+Unit Description Duration 
+1 Project-Based Learning Activity 1: Introduction to Tools, Equipment, and 
+Component Identification 
+• Objective: 
+To familiarize the learners with laboratory experimentation, design, 
+debugging, and micro-manufacturing tools & equipment through a 
+structured sequence of short instructional videos. 
+• Outcome: 
+Learners engage in a series of guided activities using concise 
+instructional videos to understand the functionality of various 
+instruments. They demonstrate their learning by performing tasks such 
+as recording observations, tabulating readings, and drawing 
+conclusions. The activity covers key instruments including: 
+o Cathode Ray Oscilloscope 
+o Function Generator 
+o Multimeter 
+o Power Supply 
+o Laser Cutter 
+o 3D Printer 
+08 
+ 
+2 Project-Based Learning Activity 2: Breadboarding, Soldering, and Circuit 
+Housing 
+• Objective: 
+To develop hands -on skills in component identification, circuit 
+schematic interpretation, breadboarding, soldering, and circuit housing 
+through a structured learning approach. 
+• Outcome: 
+1. Learners identify and differentiate resistor and capacitor values 
+and types, as well as recognize and utilize an LSI IC (e.g., IC 
+555). They assemble a 555 timer -based astable multivibrator 
+circuit on a breadboard with a known oscillation frequency. 
+2. Learners apply soldering techniques by mounting and soldering 
+the evaluated circuit onto a general -purpose PCB and verifying 
+its functionality. 
+3. A CAD file (.stl format) for the circuit housing is processed into 
+a .gcode file using slicer software, followed by 3D printing of 
+the housing. 
+4. The circuit is securely mounted within the housing using basic 
+workshop techniques, including cutting, smoothing with a flat 
+file, and fixing components with self-threading screws. 
+10 
+3 Project-Based Learning Activity 3: Wired Two-Wheeled Robot 
+• Objective: 
+To introduce learners to the design and operation of a two -wheeled 
+robotic vehicle with a caster wheel pivot, enabling motion control using 
+DC motors and a reversible mechanical switch. 
+• Outcome: 
+1. Learners assemble a two -wheeled robot using a metal chassis, 
+rubber-cushioned wheels, and a single caster wheel for stability. 
+2. Motion is initiated using geared DC motors, with directional 
+control implemented via a reversible mechanical joystick switch. 
+3. Learners understand and apply the principles of reversing a DC 
+motor for bidirectional movement. 
+4. Learners analyze the function of a DC motor speed -reduction 
+gearbox, evaluating its advantages and limitations. 
+08 
+4 Project-Based Learning Activity 4: Circuit Simulation 
+• Objective: 
+To introduce learners to circuit simulation techniques enabling them to 
+analyze and verify fundamental electrical circuit theorems. 
+• Outcome: 
+1. Learners explore and demonstrate proficiency in using a circuit 
+simulation tool. 
+2. They simulate and verify key electrical theorems, including 
+Kirchhoff’s V oltage Law (KVL) and Kirchhoff’s Current Law 
+(KCL). 
+3. Learners perform Mesh and Nodal Analysis using simulation-
+based circuit modeling. 
+06 
+ 
+4. They analyze and validate the Maximum Power Transfer 
+Theorem through simulated circuit behavior. 
+5 Project-Based Learning Activity 5: IoT and Android App Development 
+• Objective: 
+To introduce learners to the fundamentals of the Internet of Things 
+(IoT) and Android-based application development. 
+• Outcome: 
+1. Learners explore the IoT-enabled ESP32 module and 
+temperature sensor ( eg. IC LM35 / DHT22) by interfacing 
+them and interpreting the displayed results on a hyper terminal. 
+2. They develop an understanding of the open-source Android 
+development platform, MIT App Inventor, by creating a sample 
+app that displays and announces a given message. 
+3. Learners integrate both functionalities by designing an Android 
+application to display real-time temperature and/or humidity 
+readings on a mobile screen. 
+10 
+6. Project-Based Learning Activity 6: DIY (Do-It-Yourself) Project 
+• Objective: 
+To encourage learners to apply their acquired skills by independently 
+identifying and executing a hands-on project that demonstrates their 
+learning from previous activities. 
+• Outcome: 
+1. Learners conceptualize and select a project that integrates 
+multiple skills gained from prior activities. 
+2. They design, prototype, and implement the project using 
+appropriate tools, components, and techniques. 
+3. Learners document their process, including observations, 
+calculations, and inferences, to validate their design and 
+functionality. 
+4. The completed project is evaluated based on creativity, 
+functionality, and adherence to engineering principles. 
+10 
+ Total hours 52 
+ 
+ 
+ 
+ 
+Reference Books: 
+• Paul Horowitz and Winfield Hill, "The Art of Electronics" Cambridge University Press, 
+ 3rd Edition, 2015. 
+• Paul Scherz and Simon Monk, "Practical Electronics for Inventors" McGraw Hill 
+Education, 4th Edition, 2016. 
+• Charles K. Alexander and Matthew N. O. Sadiku, "Fundamentals of Electric Circuits" 
+McGraw Hill Education, 4th Edition, 2016. 
+ 
+Online Resources: 
+· https://www.thingiverse.com/ 
+· http://www.appinventor.org/book2 
+· https://www.espressif.com/ 
+· https://appinventor.mit.edu/ 
+· https://randomnerdtutorials.com/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+Program: Common for all Programs Group B F.Y B.Tech Semester: I 
+Course: Indian Knowledge System (DJS23FHS102T) 
+ 
+Pre-requisite: -- 
+1. NIL 
+Objectives: 
+1. To impart knowledge about basic principles of thought process, reasoning, and inferencing. 
+2. To make students aware of Indian Traditional knowledge Systems connecting society and 
+nature. 
+3. To acquaint students with holistic lifestyle of yogic science and wisdom in modern society 
+with rapid technological advancements and societal disruptions. 
+Outcomes: On completion of the course, the learner will be able to: 
+ 
+CO1 Understand the history of Indian education system. 
+CO2 Learn about Indian Scientists and their inventions. 
+CO3 Understand and appreciate the various art forms and architecture in India. 
+CO4 Illustrate the classic literature written in Indian languages. 
+CO5 Know the various religions followed in India and their philosophies. 
+ 
+ 
+Indian Knowledge System (DJS23FHS102T) 
+Unit Description Duration 
+1 Indian Education System 
+1.1. Gurukul system 
+1.2. Ancient Universities (Nalanda, Takshashila,Vikramshila,Vallabhi,Nagarjuna,etc.) 
+4 
+2 Indian Scientists and Their inventions 
+2.1. Patanjali, Aryabhatta, Bhaskaracharya, Charaka, Brahmagupta, Varahmitra, 
+Sushruta, Kanada, Baudhyana, etc. 
+6 
+3 Indian art and architecture 
+3.1 Mughal Paintings, Tanjore Paintings, Madhubani Paintings, Warli Paintings, etc. 
+3.2 Harrappa and Mohenjo-Daro Civilization 
+3.3 Temples and other religious places 
+3.4 Buddhist stupas 
+3.5 Forts and monuments 
+6 
+4 Indian Classic Literature 
+4.1. Puranas 
+4.2. Epics (Ramayana, Mahabharata, Shakuntala, Meghdoota, Arthashastra,Sangam 
+Literature, Malavikagnimitram etc.) 
+6 
+5 Religion and Philosophy 
+5.1. Vedas 
+5.2. Buddhism 
+5.3. Jainism and other religions 
+4 
+ Total 26 
+ 
+ 
+ 
+ 
+List of Tutorials/Assignments 
+1. Indian Education System 
+i. Group discussions/debates on various education systems. 
+2. Indian Scientists and Their inventions 
+i. Group presentations on various Indian scientists 
+ii. An assignment on different inventions by Indians and their impact on world. 
+3. Indian art and architecture 
+i. Group Poster project on different painting forms and Harappa and Mohenjo-Daro 
+civilization. 
+ii. Group presentation on different archaeological structures in India 
+4. Indian Classic Literature 
+i. An assignment on review of any one of the Indian classic literatures. 
+ii. Group discussion/Debate on the importance of the Indian classic literature in 
+spreading the awareness about the importance of Indian culture and traditions. 
+OR 
+iii. Dramatic Adaptations: 
+• Ask students to adapt a scene or act from Indian classical literature into a dramatic 
+performance. 
+• They can write scripts, create props and costumes, and rehearse their adaptations. 
+• Encourage creativity while staying true to the essence of the original work. 
+• Students can perform their adaptations for the class or in a larger setting. 
+5. Religion and Philosophy 
+i. A group discussion/debate on the various religions and their philosophies 
+Suggested Text/Reference Books 
+1. B. Mahadevan, V. R. Bhat, Nagendra Pavana, ‘ Introduction to Indian Knowledge Systems: 
+Concepts and Applications’, PHI Learning Publications, Delhi, 2022. 
+2. Satishchandra Chaterjee, Dheerendramohan Datta, An Introduction to Indian Philosophy , 
+Motilal Banarsidass Publishing House, New Delhi, 2016 
+3. V.Sivaramakrishnan (Ed.), ‘Cultural Heritage of India -course materia ’l, Bharatiya 
+Vidya Bhavan, Mumbai. 5
+th Edition,2014 
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluation Scheme 
+Tutorials (Term work) 
+Term work shall consist of 8 tutorials/assignments and a mini project presentation. 
+The distribution of marks for term work shall be as follows: 
+Tutorials/Assignments ……………………………………. (25) Marks 
+Mini project Report Presentation…………………………. (25) Marks 
+TOTAL: …………………………………………………... (50) Marks 
+The final certification and acceptance of term work will be subject to satisfactory performance of 
+tutorials/assignments and upon fulfilling minimum passing criteria in the term work. 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 

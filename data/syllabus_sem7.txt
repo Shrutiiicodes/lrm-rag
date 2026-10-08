@@ -1,0 +1,2260 @@
+ 
+ 
+Scheme and Detailed syllabus (DJS23) 
+Final Year B.Tech 
+in 
+Computer Science and 
+Engineering (Data Science) 
+(Semester VII) 
+ 
+ 
+ 
+Shri Vile Parle Kelavani Mandal’s 
+Dwarkadas J. Sanghvi College of Engineering 
+(Autonomous College Affiliated to the University of Mumbai) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DJS23DCPC701 Language and Reasoning Models 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DLPC701 Language and Reasoning Models 
+Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS23DCPC702 High Performance Computing 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DLPC702 High Performance Computing 
+Laboratory -- 2 -- 1 2 -- 25 -- -- 25 -- -- -- -- 25 50 50 1
+DJS23DCPE711 Geospatial Data Science 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DLPE711 Geospatial Data Science Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS23DCPE712 Computational Motion Planning 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DLPE712 Computational Motion Planning 
+Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS23DCPE713 Quantum Computing 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DLPE713 Quantum Computing Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS23DCPE714 Adversarial Machine Learning 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DLPE714 Adversarial Machine Learning 
+Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS23DCMD701 Data Ethics 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+DJS23DTMD701 Data Ethics Tutorial -- -- 1 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1
+5 DJS23ITELX12 Research Ecosystem -- -- 2 2 -- -- -- -- -- -- -- -- -- -- 50 50 50 2 2
+6 DJS23IPELX13 Major Project -- 8 -- 4 2 -- -- -- 50 50 -- -- -- -- 50 50 100 4 4
+7 DJS23DCSC701 Generative AI 1 -- -- 1 -- -- -- -- -- -- 15 15 10 40 -- 40 40 1 1
+8 DJS23ICHSX11 Disaster Management and 
+Preparedness 2 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+Total 15 14 3 23 12 240 25 -- 50 315 75 75 50 200 200 425 715 23 23
+Any one Programme Elective Course (PEC) from 3@
+Semester End Examination (SEE) - A 
+Term 
+Test 1 
+(TT1)
+Term 
+Test 2 
+(TT2)
+Continuous Assessment (CA) - B
+Term Test 
+Total
+(TT1 + 
+TT2+TT3)
+Oral Pract Oral & 
+Pract
+SEE 
+Total 
+(A)
+Total 
+CA (B)
+Duration 
+(Hrs) Theory
+3@
+2
+4
+1
+Scheme of Semester VII for Department of Computer Science and Engineering (Data Science) 
+Academic Year 2026-2027
+Sr Course Code Course
+Teaching Scheme
+Aggregate 
+(A+B)Theory 
+(Hrs.) 
+Practical 
+(Hrs.)
+Tutorial 
+(Hrs.) Credits
+Term 
+Test 3 
+(TT3)
+Term 
+Work
+4
+4
+4
+Credits Earned
+4
+4
+4
+4
+
+Continuous Assessment (A): 
+ 
+Course Assessment Tools Marks Time (hrs.) 
+ 
+ 
+ 
+ 
+Theory 
+a. Term Test 1 (based on 40 % syllabus) 15 45 
+b. Term Test 2 (on next 40 % syllabus) 15 45 
+c. Assignment / course project / group discussion / 
+presentation / quiz/ any other. 10 -- 
+ 
+Total marks (a + b + c) 
+ 
+40 -- 
+ 
+Audit course 
+Performance in the assignments / quiz / power point 
+presentation / poster presentation / group project / 
+any other tool. 
+ 
+-- 
+ 
+ 
+ 
+As 
+applicable Laboratory Performance in the laboratory and documentation. 25 
+Tutorial Performance in each tutorial & / assignment. 25 
+Laboratory 
+&Tutorial 
+Performance in the laboratory and tutorial. 50 
+ 
+The final certification and acceptance of term work will be subject to satisfactory performance upon 
+fulfilling minimum passing criteria in the term work / completion of audit course. 
+ 
+Semester End Assessment (B): 
+ 
+Course Assessment Tools Marks Time (hrs.) 
+Theory / 
+* Computer 
+based 
+Written paper based on the entire syllabus. 
+60 
+ 
+2 
+* Computer based assessment in the college premises. 
+Oral Questions based on the entire syllabus. 25 As applicable 
+Practical 
+Performance of the practical assigned during the examination 
+and the output / results obtained. 25 2 
+ 
+Oral & 
+Practical 
+Project based courses - Performance of the practical assigned 
+during the examination and the output / results obtained. 
+Based on the practical performed during the examination and 
+on the entire syllabus. 
+ 
+As per the 
+scheme 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM CORE COURSE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII 
+Course: Language and Reasoning Models (DJS23DCPC701) 
+ Language and Reasoning Models Laboratory (DJS23DLPC701) 
+ 
+Pre-requisite: Machine Learning and Natural Language Processing. 
+ 
+Objectives: To introduce the fundamentals of neural language models, pre-training, fine-tuning, and evaluation 
+techniques. The course aims to provide hands-on experience in developing and deploying large language models 
+(LLMs) while addressing ethical concerns and safety measures. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Apply the principles of Transformers, BERT, and GPT to develop Solution for natural language 
+processing tasks. 
+2. Apply pre -training and fine -tuning techniques to optimize language models for real -world 
+applications. 
+3. Analyze various evaluation metrics to assess the performance and reliability of language models. 
+ 
+Language and Reasoning Models (DJS23DCPC701) 
+Unit Description Duration 
+1 
+Natural Language Generation: 
+Limitations of RNNs & LSTMs in Language Modeling, Encoder -Decoder Models, 
+Attention Mechanism: Motivation & Evolution, Seq2Seq with Attention. 
+Transformers: 
+Self-Attention Mechanism: Query -Key-Value Representation ,Scaled Dot -Product 
+Attention , Multi -Head Attention, Positional Encoding, Transformer-based Encoder -
+Decoder Architectures. 
+ 06 
+ 
+2 
+ 
+Large Language Models Architectures: 
+Encoder Models: 
+BERT architecture and working, BERT variants: RoBERTa, ALBERT, DistilBERT, 
+Applications: Text Classification, Named Entity Recognition (NER) 
+Decoder Models (Autoregressive LLMs, GPT Family (GPT-3, GPT-4, GPT-4 Turbo). 
+Open-source models: LLaMA. 
+Limitations of LLMs: 
+Hallucination, Cost, Latency, Environmental Impact, Data Privacy Concerns. 
+Pre-training Strategies: 
+Self-Supervised Learning in LLMs, Next Token Prediction (Auto -regressive) vs. Masked 
+Language Models (Auto -encoding), Pre -training Methods: Causal LM, Prefix LM, 
+Sequence-to-Sequence Pre-training. 
+10 
+3 
+Small Language Models (SLMs) & Efficient AI: 
+Need for Small Language Models in Real -world Systems, Resource -constrained AI 
+Applications, Edge AI and On-device Inference. 
+Model Compression Techniques: 
+ Knowledge Distillation, Quantization, Pruning, Low -rank Adaptation (LoRA), Adapter 
+Layers. Performance vs Efficiency Trade-offs, Memory and Latency Optimization. 
+07 
+ 
+4 
+ 
+LLM/SLM Applications & Intelligent Systems: 
+Prompt Engineering Techniques: Zero-shot, One-shot, Few-shot Prompting, Chain -of-
+Thought Prompting, ReAct Prompting. Fine -tuning and Instruction Tuning, Transfer 
+Learning, Parameter-efficient Fine-tuning (PEFT). 
+07 
+ 
+Retrieval-Augmented Generation (RAG ), Vector Databases and Embeddings, 
+LangChain Framework. 
+Applications: Chatbots, AI Assistants, Document QA Systems, Legal and Medical NLP 
+Systems, Autonomous AI Agents. 
+ 
+ 
+5 
+ 
+ 
+ 
+Reinforcement Learning with Human Feedback (RLHF) & Safety: 
+RLHF Process in Modern LLMs: Reward Modelling for LLM Alignment, Reinforcement 
+Learning Techniques: Proximal Policy Optimization (PPO), Comparative Ranking & 
+Preference Learning, Group Relative Policy Optimization (GRPO). 
+RLAF: Reinforcement Learning through Agent Feedback (RLAF) ,How RLAF works , 
+Difference between RLAF and RLHF. 
+06 
+ 
+ 
+6 
+ 
+ 
+ 
+Deployment, Evaluation & Responsible AI: 
+Deployment Pipelines for LLMs and SLMs using APIs, Cloud, Local and Edge Devices. 
+Latency and Cost Optimization Strategies, GPU and Hardware Considerations. 
+Evaluation Metrics: BLEU, ROUGE, METEOR, BERTScore, MMLU, HELM, 
+TruthfulQA, Human Evaluation Methods. 
+Responsible AI: Bias, Fairness, Hallucination Mitigation, Adversarial Attacks, Safety 
+Alignment. 
+06 
+ Total 42 
+ 
+Language and Reasoning Models Laboratory (DJS23DLPC701) 
+Exp. Suggested Experiments 
+1 Implement Sequence-to-Sequence (Seq2Seq) and Attention-based Models for Language Translation. 
+2 Implement Self-Attention and Multi-Head Attention using Transformer Architecture. 
+3 Build Transformer-based NLP Applications for Text Classification or Summarization. 
+4 Perform Tokenization using BPE and WordPiece Techniques. 
+5 Use Pretrained LLMs (GPT/BERT Family) for Text Generation and Question Answering. 
+6 Fine-tune Pretrained Language Models using LoRA / PEFT Techniques. 
+7 Implement Prompt Engineering Techniques: Zero-shot, Few-shot, and Chain-of-Thought Prompting. 
+8 Develop Retrieval-Augmented Generation (RAG) System using LangChain and Vector Database. 
+9 Deploy Lightweight Language Models Locally and Compare Performance Metrics with Large 
+Language Models. 
+10 Apply Quantization and Pruning Techniques for Efficient Small Language Model (SLM) Deployment. 
+11 Build and Deploy a Chatbot / Document Question Answering System using LLM or SLM. 
+12 Mini Project. 
+13 Implement Sequence-to-Sequence (Seq2Seq) and Attention-based Models for Language Translation. 
+. 
+*The Term Work will be calculated based on Laboratory Performance. 
+ 
+ 
+ 
+ 
+ 
+Books Recommended: 
+Text Books: 
+1. Tanmoy Chakraborty “Introduction to Large Language Models” Wiley India 1st Edition,2025. 
+2. Jurafsky and Martin, “Speech and Language Processing”, Prentice Hall, 3rd Edition, 2020. 
+3. Uday Kamath, “Deep Learning for NLP and Speech Recognition”, 1st Edition, 2019. 
+Reference Books: 
+1. Jelinek, F., “Statistical Methods for Speech Recognition”, The MIT Press, 2022. 
+2. Yuli Vasiliev “Natural Language Processing with Python and spaCy - A Practical Introduction”, No 
+Starch Press, 2022. 
+3. Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana, “Practical Natural Language 
+Processing: A Comprehensive Guide to Building Real-World NLP Systems”, O'Reilly, 1st Edition, 
+2020. 
+ 
+Web Links: 
+1. NPTEL link: Introduction to Large Language Models (LLMs) - - Announcements 
+2. NPTEL Course: https://cse.iitm.ac.in/~miteshk/llm-course.html 
+3. NPTEL Course: https://onlinecourses.swayam2.ac.in/imb24_mg116/preview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+Program: B.Tech. in Computer Science and Engineering (Data Science) Semester: VII 
+Course: High Performance Computing (DJS23DCPC702) 
+High Performance Computing Laboratory (DJS23DLPC702) 
+ 
+Pre-requisite: Computer System Fundamentals 
+ 
+Objectives: This course in High-Performance Computing (HPC) for Data Science with an emphasis on 
+GPU parallel computing introduces students to the fundamental concepts and practical skills necessary 
+for harnessing the power of Graphics Processing Units (GPUs) in data -intensive computations. 
+Throughout the course, students will explore GPU architecture, CUDA programming, memory 
+optimization techniques, parallel programming patterns, and performance optimization strategies. They 
+will also delve into advanced topics like GPU -accelerated libraries and the integration of GPUs with 
+popular data science frameworks. By the end of this course, students will be equipped to leverage GPU 
+parallel computing to significantly enhance the efficiency and performance of data science applications. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Apply the principles of parallel computing, parallel programming models, performance metrics, 
+and the architectural features of multicore CPUs and GPUs. 
+2. Apply shared-memory programming techniques and the CUDA programming model to develop 
+parallel solutions for data- and task-parallel applications. 
+3. Analyze GPU performance metrics, including memory coalescing, thread scheduling, and control 
+divergence impacts. 
+4. Analyze GPU performance by evaluating memory access patterns, thread execution efficiency, 
+and optimization techniques to improve the scalability and performance of parallel applications. 
+ 
+High Performance Computing (DJS23DCPC702) 
+Unit Description Duration 
+1 
+Introduction to Parallel Computing and Programming Models 
+Introduction to Parallel Computing: Sequential vs Parallel Computing, Need and 
+Applications of Parallel Computing, Limitations of Single -Core CPUs, Multi -
+core CPU Architecture, Flynn’s Taxonomy, Shared Memory and Distributed 
+Memory Architectures. 
+Parallel Computing Architectures and Models: Shared Memory and 
+Distributed Memory Architectures, Data Parallel Model, Task Parallel Model 
+07 
+2 
+Parallel Programming Issues and Performance Analysis 
+Programmability Issues: Challenges in Parallel Programming, Communication 
+and Synchronization Overheads, Race Conditions and Critical Sections. 
+Data Dependency Analysis: Flow Dependency, Anti Dependency, Output 
+Dependency, Loop Dependency Basics. 
+Performance Metrics: Speedup, Efficiency, Scalability and Amdahl’s Law 
+07 
+ 
+ 
+3 
+Shared Memory and GPU Parallel Programming using CUDA 
+Shared Memory Programming: Shared Memory Concepts, Mutual Exclusion, Locks 
+and Mutex, Barriers and Synchronization. 
+Thread-based Implementation: Introduction to Threads, Thread Creation and 
+07 
+ 
+Execution, POSIX Threads/OpenMP Concepts. 
+CUDA Parallelism Model: Architecture of a Modern G PU, CUDA Programming 
+Model, CUDA C Program Structure, Kernel Functions and Threading, Vector Addition 
+Kernel, Device Global Memory and Data Transfer, CUDA Thread Organization, Thread 
+Scheduling and Latency Tolerance. 
+4 
+GPU Memory Architecture and Performance Analysis 
+Memory Access Performance: Global Memory Bandwidth, Memory Coalescing in 
+CUDA, Channels and Banks in Dram Systems, Techniques for Reducing Memory 
+Transfers Between CPU and GPU. 
+Memory and Data Locality: CUDA Memories, Tiled Parallel Algorithms, Tiled 
+Matrix Multiplication, Tiled Matrix Multiplication Kernel, Boundary Checks, Memory 
+as A Limiting Factor to Parallelism. 
+Thread Execution Efficiency: Warps and SIMD Hardware, Dynamic Partitioning 
+of Resources, Performance Impact of Control Divergence. 
+08 
+5 
+Parallel Computation Patterns 
+Convolution Patterns: 1d Parallel Convolution - A Basic Algorithm, Constant 
+Memory and Caching, Tiled 1d Convolution with Halo Cells, A Simpler Tiled 1d 
+Convolution - General Caching. 
+Histogram Patterns: Atomic Operations in CUDA, Atomic Operation Performance-
+Block versus Interleaved Partitioning, Latency versus Throughput of Atomic 
+Operations, Atomic Operation in Cache Memory, Privatization Technique for Improved 
+Throughput. 
+06 
+6 
+GPU Performance Tuning and Optimization 
+Efficient Host-Device Data Transfer: Pinned Host Memory, Task Parallelism in 
+CUDA, Overlapping Data Transfer with Computation, CUDA Unified Memory. 
+Techniques for optimizing GPU performance: Warp Divergence, Loop 
+Unrolling, Vectorization, Memory Bandwidth Optimization Techniques, Advanced 
+GPU Programming Concepts (Shared Memory Atomics, Warp Shuffling). 
+07 
+ Total 42 
+ 
+High Performance Computing Laboratory (DJS23DLPC702) 
+Exp. Suggested Experiments 
+1 Demonstrate dependency analysis on parallel loops/programs to identify data dependencies affecting 
+parallel execution. 
+2 Implement multithreading using POSIX Threads/OpenMP to understand thread creation and 
+synchronization. 
+3 Demonstrate mutual exclusion in shared memory programming using mutex/locks. 
+4 Set up the CUDA environment and implement vector addition using CUDA to understand parallelism, 
+thread management, and memory allocation. 
+5 Develop a CUDA program for matrix multiplication to understand parallelism and optimization 
+techniques in GPU computing. 
+6 Apply CUDA for image processing tasks, like blurring and edge detection, to learn how to process 
+images efficiently using GPU parallelism. 
+7 Implement parallel reduction operations (e.g., sum, min, max) to grasp the concept of efficient parallel 
+reduction. 
+ 
+8 Implement 1D convolution using CUDA to understand parallel convolution and shared memory 
+optimization. 
+9 Implement histogram computation using CUDA atomic operations and analyze synchronization 
+overheads. 
+10 Demonstrate the impact of warp divergence and memory coalescing on GPU performance using 
+CUDA kernels. 
+ *The Term Work will be calculated based on Laboratory Performance (15m) and Assignments (10m). 
+ 
+Books Recommended: 
+Text Books: 
+1. Georg Hager, Gerhard Wellein, “Introduction to High Performance computing for Scientist and 
+Engineers”, CRC press, 2019. 
+2. Duane Storti and Mete Yurtoglu, "CUDA for Engineers”, Addison-Wesley, 1st Edition, 2016. 
+3. M. Sasikumar, Dinesh Shikhare, P. Ravi Prakash, “Introduction to Parallel Processing”, Prentice-Hall of 
+India, 2005. 
+ 
+Reference Books: 
+1. David B. Kirk and Wen-mei W. Hwu, "Programming Massively Parallel Processors: A Hands-on 
+Approach", Morgan Kaufmann, 2nd Edition, 2012. 
+2. Charles Severance and Kevin Dowd, "High Performance Computing", O'Reilly Media, 2nd Edition, 1998. 
+3. Jason Sanders and Edward Kandrot, "CUDA by Example: An Introduction to General-Purpose GPU 
+Programming", Addison-Wesley, 2010. 
+4. NVIDIA Corporation, "GPU Gems", Addison-Wesley 
+5. Gerhard Hager and Markus Hadwiger, "Programming the GPU with CUDA", Springer 
+6. Brian Tuomanen and Daniel Kim, "Deep Learning with CUDA", O'Reilly Media 
+ 
+Web links: 
+1. HPC: https://archive.nptel.ac.in/courses/106/105/106105033/. 
+2. HPC Springer Journal: https://link.springer.com/book/10.1007/978-3-030-13325-2. 
+3. Programming Model: 
+https://homepage.physics.uiowa.edu/~ghowes/teach/phys5905/lect/NumLec11_IntroHPC.pdf. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM ELECTIVE COURSE 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII 
+Course: Geospatial Data Science (DJS23DCPE711) 
+ :Geospatial Data Science Laboratory (DJS23DLPE711) 
+ 
+ 
+Pre-requisite: Fundaments of Data Analysis and Machine Learning 
+ 
+ 
+Objectives: This course introduces geospatial data sources, satellite imagery, GPS, and open datasets. Students 
+will learn to work effectively with spatial data through pre-processing, cleaning, and geocoding techniques for 
+seamless integration. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Apply tools and techniques used to analyze and visualize geospatial data. 
+2. Applying data science methods to solve real-world problems with geospatial data. 
+3. Analyze geospatial large data models and ethical issues. 
+ 
+Geospatial Data Science (DJS23DCPE711) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+1 
+Introduction to Geospatial Data: Introduction to Geographic Information 
+Systems (GIS), Data Collection and Sources, Remote sensing and satellite 
+imagery, GPS data and tracking, Coordinate systems and projections, Overview 
+of geospatial data: Coordinates, attributes, temporal information; static and 
+dynamic data, Spatial Data Types: vector and raster data, network data and Spatial 
+Data Formats: shape files, geodatabases, Spatial data structures: Geometric objects 
+(Points, lines and polygon), qualitative binary relation between geometrics and 
+GSD applications. 
+ 
+ 
+ 
+ 
+06 
+ 
+ 
+ 
+ 
+2 
+Geospatial Data Modeling: 
+Feature based approach: point, curve, surface, geometry collection; Algebra and 
+calculi of qualitative spatial relations , topological relations, RCC -8, cardinal 
+directions, Field based approach. Spatial regression, clustering, and optimization, 
+Geo statistics and spatial modeling, Predictive modeling with geospatial data, 
+Case study: Predicting property values, Spatial Analysis, Buffer analysis, spatial 
+joins, spatial econometrics a n d geographically weighted regression (GWR). 
+ 
+ 
+ 
+ 
+08 
+ 
+ 
+3 
+Linked Geospatial Data: 
+Visualizing Linked Geospatial Data, Querying Geospatial Data Expressed in 
+RDF, Transforming Geospatial Data into RDF, Introduction to SPARQL: Query 
+structure and its Components , Geospatial queries using SPARQL , Interlinking 
+Geospatial Data Sources, Inc omplete Geospatial Information, Geospatial RDF 
+stores, Geospatial Knowledge Graphs, Question Answering Engines for 
+Geospatial Knowledge Graphs, choropleth mapping. 
+ 
+ 
+09 
+ 
+ 
+ 
+4 
+Geospatial Visualization: 
+Introduction to data visualization libraries (e.g., Matplotlib, Folium, Plotly), 
+Creating basic maps and charts, customizing geospatial visualizations, creating 
+maps and charts, Python toolkits f o r Geospatial Visualization. Spatial Data, 
+GIS, Geospatial Data, Geospatial Analysis, Data Visualization 
+ 
+ 
+ 
+06 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Data Ingestion & Big Data : web scraping and APIs, distributed computing 
+frameworks (e.g., Google Earth Engine, Hadoop GIS, GeoSpark, and Dask for 
+geospatial data), and Google BigQuery GIS for scalable processing; Streaming 
+Geospatial Data: IoT devices, GPS tracking, weather statio ns, and 
+OpenStreetMap live updates. 
+Spatial Analysis: Role in decision-making and pattern discovery,Spatial queries 
+and operations; Spatial Query optimization using Spatial Data Indexing: 
+Quadtrees, R-trees, and Hilbert Curves to optimize geospatial querie s. Spatial 
+Relationships & Topology: topological consistency (e.g., via OGC Simple 
+Features Specification). Spatial Statistics: spatial autocorrelation (Moran’s I, 
+Geary’s C), and spatial interpolation techniques (Kriging,IDW). 
+ 
+ 
+ 
+ 
+ 
+08 
+ 
+ 
+6 
+GIS Softwares 
+Introduction to web mapping tools (e.g., Leaflet), Exploring GIS software (e.g., 
+QGIS, ArcGIS), Introduction to geospatial libraries (e.g., Geopandas, Fiona, 
+Shapely), Building interactive web maps, Geospatial big data and distributed 
+computing, Machine learning for geospatial data, Geo Spatial Data Ethics, 
+Ethical considerations in geospatial data analysis. 
+ 
+ 
+05 
+ Total 42 
+ 
+Geospatial Data Science Laboratory (DJS23DLPE711) 
+Exp. Suggested Experiments 
+1 
+Apply cyberGIS techniques to analyze and visualize big geospatial data in Python 
+using advanced cyberinfrastructure and high-performance computing. 
+ 
+2 
+Apply Python tools for developing high-performance geospatial computing 
+solutions. Optimize and speed up geospatial computation using Python libraries like Numba, 
+Cython and Dask, Ray, or PySpark for large-scale geospatial processing. 
+3 
+Implement open source mapping and large -scale geospatial visualization libraries such as 
+Leaflet, D3, Plotly Kepler.gl, Deck.gl and Cesium.js for 3D geospatial applications and mash 
+up these libraries to create interactive and dynamic 
+visualization tools and GIS applications. 
+4 
+Apply tools to investigate and identify patterns, clusters, classes, and anomalies based on 
+various types of geospatial data and apply these techniques to a variety of 
+geospatial applications. 
+5 
+Apply advanced techniques of spatial analysis, including spatial autocorrelation, trend surface 
+analysis, grouping and regionalization procedures, and point pattern analysis to solve geospatial 
+problems. spatial clustering methods (e.g., DBSCAN, K- Means with spatial constraints, 
+HDBSCAN) and spatial econometrics modeling (spatial lag and spatial error models). 
+6 Solve given geospatial problem using ESRI ArcGIS solutions stack. 
+7 
+Identify right tool to interlink dataset to transform unlinked geospatial data into linked data using 
+geospatial semantic technologies (geospatial ontologies, stRDF, stSPARQL, GeoSPARQL, 
+OBDA mappings techniques. thing (e.g., a dataset containing information about roads in Crete 
+can be interlinked with a dataset containing land cover information about Crete). 
+8 Analyze and visualize the data with the help of appropriate linked data tools using a 
+sequence of GeoSPARQL queries. 
+9 Geospatial science in forestry and watershed management. 
+Geospatial science in urban planning and resource management. 
+10 
+Use geospatial libraries for Geospatial Data Analysis with Python (e.g., Geopandas, Fiona, 
+Shapely for Analyzing and visualizing geospatial data in Python. 
+ 
+11 Demonstrate the use of Apache, Jena and Stardog for managing large-scale 
+geospatial knowledge graphs. 
+*The Term Work will be calculated based on Laboratory Performance. 
+ 
+Books Recommended: 
+ 
+Text Books 
+1. Geospatial Data Science: A Hands-on Approach for Building Geospatial Applications Using 
+Linked Data Technologies June 2023. 
+2. Applied Geospatial Data Science with Python, David S. Jordan, Feb 2023. 
+ 
+Reference Books 
+1. Geoprocessing with Python, Chris Garrard, Manning Publisher, 2016. 
+2. Geospatial Analysis: A Comprehensive Guide, Michael J. de Smith, Michael F. Goodchild, and Paul A. 
+Longley, Winchelsea Press, 2018. 
+3. The Ultimate Guide to Geospatial Data Science, Geospatial Data Science Explained: A Full Guide - Aya 
+Data 
+4. Geospatial data analysis on AWS, ACM Publisher, Janahan Gnanachandran, 2023. 
+5. Geospatial Data Science Techniques and Applications, Paul A. Zandbergen, 2020. 
+6. Introduction to Geographic Information Systems, Kang-Tsung Chang, McGraw-Hill Education, 
+2019. 
+ 
+Web Links 
+1. The Ultimate Guide to Geospatial Data Science, Geospatial Data Science Explained: A Full 
+Guide - Aya Data https://www.ayadata.ai/the-ultimate-guide-to-geospatial-data-science/ 
+2. https://www.safegraph.com/guides/geospatial-data 
+3. https://geographicdata.science/book/intro.html#geographic-data-science-with-python 
+4. https://www.spatialanalysisonline.com/HTML/index.html?geospatial_analysis_and_model_.htm 
+5. https://docs.qgis.org/3.44/en/docs/gentle_gis_introduction/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII 
+Course: Computational Motion Planning (DJS23DCPE712) 
+Computational Motion Planning Laboratory (DJS23DLPE712) 
+ 
+ 
+Pre-requisite: Linear Algebra, Data Structures and Artificial Intelligence. 
+Course Objectives: To equip students with the ability to model, analyze, and implement computational 
+algorithms for efficient and collision-free motion planning in robotic and autonomous systems. 
+Outcomes: On completion of the course, learner will be able to: 
+1. Analyze motion planning techniques in robotics 
+2. Apply efficient path planning algorithms for real-world scenarios. 
+3. Apply sampling-based and optimization-based planning methods 
+4. Evaluate planning strategies under uncertainty and constraints 
+ 
+Computational Motion Planning (DJS23DCPE712) 
+Unit Description Duration 
+ 
+1 
+Introduction to Motion Planning: 
+Robotics overview, Motion planning problem, Configuration Space (C-space), 
+Degrees of Freedom (DoF), Workspace vs C -space, Obstacles and free space, 
+Problem formulation (start, goal, constraints), Complexity of motion planning 
+ 
+07 
+ 
+2 
+Geometric Motion Planning: 
+Exact Cell Decomposition, Approximate Cell Decomposition, Vertical 
+decomposition, Roadmap methods: Visibility graphs, Voronoi diagrams, 
+Minkowski sum, Obstacle expansion, Shortest path in polygonal environments. 
+ 
+07 
+ 
+ 
+3 
+Advanced Search and Replanning Techniques: 
+Limitations of classical search in motion planning, Heuristic design for robotics, 
+State lattices and motion primitives, Incremental search algorithms: D*, D* Lite, 
+Anytime algorithms: ARA*, Anytime RRT, Real -time replanning in dynamic 
+environments. 
+ 
+ 
+07 
+ 
+ 
+ 
+4 
+Sampling-Based Motion Planning: 
+Limitations of exact planning in high dimensions, Overview of sampling -based 
+planning (PRM, RRT), Advanced methods: RRT*, Informed RRT*, BIT*, 
+Optimization-based planning (CHOMP, STOMP), Learning -based motion 
+planning, Sampling strategies, Nearest neighbor search, Probabilistic 
+completeness, Comparison of PRM and RRT. 
+ 
+ 
+ 
+08 
+ 
+5 
+Kinodynamic and Constrained Planning: 
+Forward and Inverse Kinematics, Non -holonomic constraints, Differential 
+constraints, Trajectory planning, Time -parameterized planning, Path smoothing, 
+Introduction to optimal control. 
+ 
+07 
+ 
+ 
+ 
+ 
+6 
+Planning Under Uncertainty and Applications: 
+Motion planning under uncertainty, Basics of SLAM, Belief space planning 
+(intro), Markov Decision Process (overview), Multi-robot motion planning, Task 
+and Motion Planning (TAMP), Applications: autonomous vehicles, drones, 
+robotic manipulation. 
+ 
+ 
+06 
+ Total 42 
+ 
+Computational Motion Planning Laboratory (DJS23DLPE712) 
+Exp. Suggested Experiments 
+ 
+1 
+Dynamic Replanning – D Lite* 
+ Implement D* Lite algorithm 
+ Analyze performance in dynamic environments. 
+ 
+2 
+Heuristic Analysis in Dynamic Planning 
+ Study role of heuristics in D* Lite 
+ Compare performance under different heuristic choices. 
+ 
+3 
+Geometric Planning – Visibility Graph Construction 
+ Construct visibility graph for polygonal obstacles 
+ Represent nodes and edges. 
+ 
+4 
+Geometric Planning – Shortest Path Computation 
+ Compute shortest path using visibility graph 
+ Analyze optimality and efficiency 
+ 
+5 
+Sampling-Based Planning – PRM (Roadmap Generation) 
+ Implement PRM 
+ Generate roadmap using random sampling 
+ 
+6 
+Sampling-Based Planning – PRM (Query Phase) 
+ Perform path query using PRM 
+ Analyze connectivity 
+ 
+7 
+Sampling-Based Planning – RRT 
+ Implement Rapidly-exploring Random Tree 
+ Study exploration behavior 
+8 Comparative Study – PRM vs RRT 
+ Compare: Path quality, Computation time, Success rate 
+ 
+9 
+Kinodynamic Planning 
+ Generate trajectories under motion constraints 
+ Apply path smoothing techniques. 
+ 
+10 
+Mini Project: Autonomous Robot Navigation 
+ Implement complete motion planning pipeline 
+ Use ROS/Python for simulation 
+*The Term Work will be calculated based on Laboratory Performance (15m). 
+ 
+Books Recommended: 
+Textbooks 
+1. Planning Algorithms, Cambridge University Press, 2006. 
+2. Principles of Robot Motion, MIT Press, 2005. 
+ 
+ 
+Reference Books 
+1. Kevin M. Lynch and Frank C. Park, Modern Robotics: Mechanics, Planning, and Control, 
+Cambridge University Press, 2017. 
+2. Steven M. LaValle, Virtual Reality, Cambridge University Press, 2017. 
+3. Roland Siegwart, Illah Reza Nourbakhsh, Davide Scaramuzza, Introduction to Autonomous 
+Mobile Robots, MIT Press, 2nd Edition, 2011. 
+4. Sebastian Thrun, Wolfram Burgard, Dieter Fox, Probabilistic Robotics, MIT Press, 2005. 
+ 
+ 
+Weblinks: 
+1. NPTEL Course in Computational Geometry https://nptel.ac.in/courses/106102011 
+2. Foundations of Robotics, Cornell University 
+https://www.cs.cornell.edu/courses/cs5750/2025fa/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII 
+Course: Quantum Computing (DJS23DCPE713) 
+ Quantum Computing Laboratory (DJS23DLPE713) 
+ 
+Pre-requisite: Computer System Fundamentals and Machine Learning. 
+ 
+Objectives: This course introduces the basics of Quantum Computing, Quantum state transformation, and 
+classical computation versions. Students will also learn advanced Quantum Computation Algorithms and 
+the basics of Quantum Machine Learning. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Analyze the fundamental principles of quantum computing, including qubits, superposition, and 
+entanglement, to interpret their impact on computational models. 
+2. Evaluate quantum algorithms such as Shor’s and Grover’s algorithms in terms of efficiency and 
+applicability compared to classical approaches. 
+3. Apply Quantum Machine Learning (QML) and Quantum Deep Learning (QDL) techniques to 
+solve data-driven problems and compare their performance with classical approaches. 
+ 
+ Quantum Computing (DJS23DCPE713) 
+Unit Description Duration 
+1 
+Basics of Linear Algebra: Complex Numbers, Complex Conjugation and 
+Norm, Vector Space, Basic set, Dirac Notation, Ket and Bra, Inner Product, 
+Linearly Dependent and Independent Vectors, Dual Vector Space, Outer 
+Product, Spin. 
+07 
+2 
+Quantum Computing vs. Classical Computing: History of quantum 
+computation and quantum information, Quantum State, Bloch sphere, Dense 
+coding, Physical quantum phenomena: Spin, Quantum superposition, 
+Interference and Entanglement. 
+Logic Gates and Circuits: Boolean Algebra, Functional Completeness, Gates, 
+Circuits, Universal Gates, Gates and Computation 
+Quantum Gates and Circuits: Qubits, Single -qubit gates (Pauli -X, Y, Z, 
+Hadamard), Multi -qubit gates (CNOT, Toffoli, SWAP), Quantum Gate, 
+Analyzing Pauli gates, Analyzing Cascade of gates, Analyzing Two-qubit gates, 
+Tensor Product, Quantum Gates Acting on one Qubit, No Cloning Theorem, 
+Quantum Computation, Multiple qubit gates, Qubit copying circuit, Example: 
+Bell states, quantum teleportation. 
+07 
+3 
+Quantum Computing algorithms: Classical computations on a quantum 
+computer, Quantum parallelism, Quantum key distribution, Superdense coding, 
+quantum te leportation, applications of teleportation, probabilistic versus 
+quantum algorithms, phase kick -back, Deutsch -Jozsa Algorithm, Grover’s 
+Search Algorithm, Shor’s Factoring Algorithm, Quantum Fourier Transform 
+(QFT). 
+06 
+ 
+ 
+ 
+ 
+ 
+4 
+Quantum Cryptography algorithm: Cryptography using principles of 
+quantum computing, No-cloning theorem, Quantum key distribution Algorithm, 
+Quantum secret sharing Algorithm, Quantum one time pad, Quantum public key 
+encryption, Quantum fully homomorphic encryption 
+06 
+5 
+Quantum Machine L earning Basic (QML): Variational Quantum Circuits, 
+Parameterized quantum circuits, Parameterized quantum circuit properties, 
+entangling capability, Parameterized quantum circuits for machine learning Data 
+encoding Methods, Basis encoding, Amplitude encodin g, Angle encoding, 
+Arbitrary encoding, Supervised learning, Quantum variational classification, 
+Quantum kernel estimation, Variational training, Quantum Support Vector 
+Machine (QSVM). 
+08 
+6 
+Quantum Deep Learning (QDL): Basics of Quantum Neural Networks, Finite 
+difference gradients, Analytic gradients, Natural gradients, Simultaneous 
+Perturbation Stochastic Approximation, Training in practice, exponentially 
+vanishing gradients (barren plateaus), Quantum Convolutional Neural Network, 
+Quantum Generative Adversarial Networks 
+08 
+ Total 42 
+ 
+Quantum Computing Laboratory (DJS23DLPE713) 
+Exp. Suggested Experiments 
+1 Implementing Quantum Programs with the Qiskit SDK. 
+2 Implementing logic of Quantum Gates and Universal Gates with Qiskit. 
+3 Implementing a Quantum Random Number Generator with Qiskit. 
+4 Implementation of Quantum Key Distribution Using the BB84 Protocol with Qiskit. 
+5 Experimentation with Quantum Teleportation Protocols. 
+6 Implementation and Analysis of Shor's Algorithm Using Qiskit SDK. 
+7 Implementation of Quantum key distribution Algorithm. 
+8 Implementation of Grover's Search Algorithm with Qiskit. 
+9 Implementation and Exploration of Quantum Machine Learning Techniques: Parameterized 
+Circuits, Data Encoding Methods, and Training Strategies in Qiskit. 
+10 Implementation of Supervised Strategies in Quantum Machine Learning: Exploring Quantum 
+variational classification. SVM. 
+11 Implementation of Quantum key distribution Algorithm. 
+*The Term Work will be calculated based on Laboratory Performance. 
+ 
+Books Recommended: 
+Textbooks: 
+1. Parag K. Lala, 'Quantum Computing', McGraw Hill, 1st Edition, 2020. 
+2. Chris Bernhardt, 'Quantum Computing for Everyone', MIT Press, 1st Edition, 2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference Books: 
+1. Jack D. Hidary, 'Quantum Computing: An Applied Approach', Springer, 2nd Edition, 2021. 
+2. Johan Vos, 'Quantum Computing in Action', Manning Publications, 1st Edition, 2022. 
+ 
+ Web links: 
+1. https://qiskit.org/leam 
+2. https://eleam.nptel.ac.in/shop/iit-workshops/completed/quantum-computing/ 
+3. https://omscs.gatech.edu/sites/default/files/documents/2023/Syllabi-
+CS%208803%20O13%202023-3.pdf 
+4. https://www.cse.iitd.ac.in/~suban/quantum/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Prepared by Checked by Head of the Department Principal 
+ 
+ 
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII 
+Course: Adversarial Machine Learning (DJS23DCPE714) 
+ Adversarial Machine Learning Lab (DJS23DLPE714) 
+ 
+Pre-requisite: Machine Learning 
+ 
+Objectives: This course introduces the fundamentals of adversarial machine learning (AML), including 
+vulnerabilities in supervised, unsupervised, and reinforcement learning models, and the nature of 
+causative and evasion attacks. Students will analyze and implement de fense mechanisms and secure 
+learning frameworks to enhance the robustness of machine learning models against adversarial threats. 
+The course also explores practical applications and advanced techniques in AML, such as model 
+programming, adversarial data au gmentation, and applications in cybersecurity, computer vision, and 
+natural language processing. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Apply fundamental ML/DL techniques in adversarial settings, including supervised, 
+unsupervised, and reinforcement learning, to identify vulnerabilities and threat models. 
+2. Categorize adversarial attacks such as causative (data poisoning) and evasion attacks, and their 
+impact on machine learning models in security-critical domains. 
+3. Apply robust defense strategies against adversarial attacks, including adversarial training, 
+detection techniques, and secure learning frameworks. 
+4. Design secure and resilient machine learning solutions for applications in cybersecurity, 
+medical imaging, and NLP under adversarial conditions. 
+ 
+Adversarial Machine Learning (DJS23DCPE714) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+1 
+Foundations of Adversarial Machine Learning 
+Machine Learning Preliminaries Supervised Learning, Supervised 
+Learning in Adversarial Settings, Unsupervised Learning, Unsupervised 
+Learning in Adversarial Settings, Reinforcement Learning in Adversarial 
+Settings, Categories of Attacks on Machine Learning. 
+Threat Models: White-box, Black-box, Gray-box 
+Introduction to Adversarial Machine Learning : Adversarial Machine 
+Learning Taxonomy and History, Statistical Machine Learning, 
+A Framework for Secure Learning: Analyzing the Phases of Learning, 
+Framework, Security Analysis, Exploratory Attacks vs Causative Attacks. 
+ 
+ 
+ 
+ 
+07 
+ 
+ 
+ 
+ 
+2 
+Causative Attacks and Data Integrity: 
+Causative (Data Poisoning) Attacks in ML, Availability vs Integrity Attacks, 
+Availability Attack Case Study: SpamBayes, The SpamBayes Spam Filter, 
+Threat Model for Spam Bayes, The Reject on Negative Impact 
+(RONI) Defense, Causative Attacks on Machine Learning: Integrity 
+Attack. 
+Label Manipulation and Dataset Bias Attacks, Robust Training Techniques. 
+ 
+ 
+ 
+ 
+07 
+ 
+ 
+ 
+ 
+3 
+Evasion Attacks and Robustness: Evasion Attacks Overview, 
+White-box Attacks: Fast gradient sign method (FGSM) attack. Projected 
+gradient descent (PGD) attack. 
+Black-box Attacks: Query based attacks, Transferability Attacks, Attacks 
+on Real Models. 
+Defenses Against Evasion Attacks: Adversarial Training, Detection 
+Techniques, Gradient Masking (limitations), Robust Optimization, Model 
+Evaluation under Adversarial Conditions, Accuracy vs Robustness Trade -
+off. 
+ 
+ 
+09 
+ 
+ 
+ 
+ 
+ 
+4 
+Adversarial Machine Learning in Cyber Security: Taxonomy of AML 
+Attacks in Cyber Systems. 
+Malware Detection and Classification: Machine Learning in 
+cybersecurity, Malware detection and classification, Adversarial attacks on 
+ML-based malware classifiers. 
+Network Intrusion Detection Systems: ML-based anomaly detection, 
+Adversarial attacks on NIDS, Datasets for network intrusion detection, 
+Anomaly detection with Machine Learning. 
+Security in Medical Imaging Systems (PACS/DICOM vulnerabilities) 
+Data Integrity and Privacy Risks in Healthcare ML, Adversarial Threats 
+in Cloud-based ML Systems. 
+ 
+ 
+ 
+ 
+07 
+ 
+ 
+ 
+ 
+5 
+Adversarial Machine Learning in NLP: NLP Funda mentals in 
+Adversarial Settings. 
+Text-based Adversarial Attacks: Synonym substitution attacks, 
+Text perturbation attacks, Prompt-based adversarial attacks. 
+Attacks on NLP Models: Sentiment Analysis, Spam Detection, Chatbots / 
+LLM vulnerabilities. 
+Defenses in NLP: Robust embeddings, Adversarial training for NLP, 
+Input sanitization, Security risks in LLMs and Generative AI, Bias and 
+fairness issues in NLP models. 
+ 
+ 
+ 
+ 
+06 
+ 
+ 
+ 
+ 
+6 
+Practical Applications and Challenges: Adversarial Machine Learning in 
+Computer Vision, Adversarial Machine Learning in Autonomous Systems. 
+Applications beyond attack and defense: Model Programming, 
+Contrastive explanations, model watermarking and fingerprinting, Data 
+augmentation for unsupervised Learning. 
+Challenges and Open Problems: Adversarial Game Theory Basics, 
+Limitations of current defenses, Explainable AI under adversarial 
+settings Ethical and Regulatory Issues in healthcare and AI Security. 
+ 
+ 
+ 
+ 
+06 
+ Total 42 
+ 
+ 
+Adversarial Machine Learning Laboratory (DJS23DLPE714) 
+Exp. Suggested Experiments 
+1 
+Implement non-targeted white-box evasion attacks using FGSM and PGD on a 
+deep learning image classification model and compare their impact on model 
+accuracy. 
+2 
+Implement a targeted white-box evasion attack using PGD to force input 
+images into a predefined target class and measure the targeted attack success 
+rate. 
+3 Apply a PGD attack on a ResNet50 model and evaluate the transferability of 
+generated adversarial examples on logistic regression and SVM classifiers. 
+4 Implement a non-targeted PGD attack on a logistic regression model on images 
+and analyze the change in prediction probabilities. 
+5 
+Implement adversarial training and input preprocessing defenses against 
+FGSM and PGD attacks on a CNN model and evaluate robustness 
+improvement. 
+6 Analyze and compare the effectiveness of FGSM, PGD, and targeted attacks 
+across image and cybersecurity datasets using accuracy and robustness metrics. 
+7 
+Apply adversarial evasion attacks on a machine learning-based Network 
+Intrusion Detection System using NSL-KDD dataset and evaluate changes in 
+intrusion detection rate. 
+8 
+Implement adversarial perturbations on malware feature vectors and 
+evaluate the misclassification rate of a machine learning-based malware 
+detection model. 
+9 Implement a spam filtering model and apply adversarial text modifications to 
+evaluate degradation in classification performance. 
+10 
+Mini Project: Integrate adversarial attack methods (FGSM, PGD) and defense 
+strategies into a unified pipeline and evaluate robustness on real-world 
+datasets. 
+*The Term Work will be calculated based on Laboratory Performance. 
+ 
+Books Recommended: 
+Text Books 
+1. Anthony D. Joseph, Blaine Nelson, “A dversarial Machine Learning”, Cambridge University Press 2019, 
+ISBN: 978-1-107-04346-6. 
+2. Soma Halder, “Hands -On Machine Learning for Cybersec urity: Safeguard your system by making your 
+machines intelligent using the Python ecosystem”, Packt Publishing ltd. 
+3. Zhang, Z. Lipton, and A. Smola, “Dive into Deep Learning”, 2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference Books: 
+1. Yevgeniy Vorobeychik and Murat Kantarcioglu, “Adversarial Machine Learning”, Morgan & Claypool, 
+2018. 
+2. Pin-Yu Chen and Cho-Jui Hsieh, “Adversarial Robusteness for MAchine Learning”, Academic Press an 
+imprint of Elsevier, 1st Edition, 2022. 
+3. Shuhe Wang, Kuan-Chieh Wang, “Adversarial Machine Learning”, Springer, 2014. 
+ 
+Web Links: 
+1. Goodfellow (2014) Explaining and Harnessing Adversarial Examples) 
+2. Carlini (2017) Towards Evaluating the Robustness of Neural Networks 
+3. Brendel (2017) Decision-Based Adversarial Attacks: Reliable Attacks Against Black -Box Machine 
+Learning Models 
+4. Bhagoji (2017) Exploring the Space of Black-box Attacks on Deep Neural Networks 
+5. Xu (2019) Adversarial Attacks and Defenses in Images, Graphs and Text: A Review 
+6. Tramer (2018) Ensemble Adversarial Training: Attacks and Defenses 
+7. Rosenberg (2021) Adversarial Machine Learning Attacks and Defense Methods in the Cyber Security 
+Domain 
+8. Severi (2021) Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers 
+9. Kuleshov (2018) Adversarial Examples for Natural Language Classification Problems (pdf) 
+10. Erba (2019) Constrained Concealment Attacks against Reconstruction -based Anomaly Detectors 
+in Industrial Control Systems (pdf) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MULTIDISCIPLINARY MINOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: B.Tech. in Computer Science and Engineering (Data Science) Semester: VII 
+Course: Data Ethics (DJS23DCMD701) 
+ Data Ethics Tutorial (DJS23DTMD701) 
+ 
+Pre-requisite: Fundaments of Data Analysis, Intelligent Systems and Machine Learning 
+ 
+Objectives: 
+To equip learners with the knowledge and skills to apply ethical principles in AI and data science, 
+focusing on privacy, fairness, transparency, and responsible governance for developing trustworthy 
+and socially responsible systems. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Apply ethical principles, privacy-preserving practices, and relevant regulatory frameworks to design 
+responsible AI and data-driven systems. 
+2. Analyze, identify, and mitigate bias in machine learning systems while enhancing transparency and 
+trust through Explainable AI techniques. 
+3. Analyze AI systems from governance, societal, sustainability, and policy perspectives to ensure 
+accountable and responsible deployment. 
+ 
+Data Ethics (DJS23DCMD701) 
+Unit Description Duration 
+1 
+Foundations of Data Ethics and Responsible AI: 
+What is data ethics and why it matters in data science, Historical and 
+philosophical background (autonomy, beneficence, justice, non -maleficence), 
+Ethical theories (consequentialism, deontology, virtue ethics), Responsible AI 
+and the data lifecycle , AI -driven decision systems, Human -in-the-loop AI, 
+Value-sensitive design. 
+Case study: Cambridge Analytica and Facebook 
+8 
+2 
+Data Privacy and Security: 
+Data privacy concepts and challenges in centralized systems, Informed consent, 
+anonymization, and user data rights, Global privacy laws: GDPR, HIPAA, 
+CCPA, DPDP, Data breach response. 
+Introduction to Federated Learning (FL): 
+Decentralized training and its privacy advantages, Ethical issues in FL: data 
+leakage, model inversion, ownership, Differential Privacy, Secure Multi -party 
+Computation. 
+Case study: Google’s Federated Learning for mobile devices 
+10 
+3 
+Fairness, Bias, and Accountability in Machine Learning: 
+Types and sources of bias (sampling, labeling, algorithmic), Fairness metrics in 
+AI (demographic parity, equal opportunity), Detecting and mitigating bias in 
+datasets and models, Algorithmic accountability and auditability. 
+8 
+ 
+ 
+Case study: Bias in the COMPAS recidivism prediction system 
+4 
+Transparency, Explainable AI (XAI), and Ethical Model Interpretability: 
+Importance of transparency and trust in AI systems, Explainable AI (XAI): 
+concepts, tools, and methods (LIME, SHAP, Grad-CAM), Ethical challenges in 
+black-box AI models, Balancing accuracy vs. explainability, Regulatory 
+importance of explainability (EU AI Act, IEEE Standards). 
+Case study: Explainability in medical AI diagnosis 
+9 
+5 
+Governance, Emerging Issues, and Future Directions: 
+Ethical data governance and stewardship, AI ethics frameworks (OECD, EU, 
+UNESCO, IEEE), Societal and environmental impact of AI (energy use, carbon 
+footprint), Digital divide, inclusion, and global data justice, Emer ging ethical 
+issues: generative AI, misinformation, deepfakes, Green AI. 
+Student capstone: Develop an ethical policy for a data science project 
+7 
+ Total 42 
+ 
+Data Ethics Tutorial (DJS23DTMD701): 
+Any 10 tutorials from the given list through Group Activities/Debate/Discussions/Research 
+Paper Reviews/ Presentations/Hands-on Exercise. 
+Tut. Suggested Tutorials 
+1 Introduction to Data Ethics through Case Analysis 
+2 Ethical Frameworks and Decision-Making Models 
+3 Privacy and Data Protection in Practice 
+4 Federated Learning and Ethical Implications 
+5 Identifying Bias in Datasets 
+6 Fairness and Accountability in AI Systems 
+7 Introduction to Explainable AI (XAI) 
+8 XAI in High-Stakes Domains 
+9 Trade-offs in Explainability and Ethics 
+10 Ethical Governance and Policy Frameworks 
+11 Emerging Ethical Challenges (Deepfakes, Generative AI) 
+12 Capstone Project Presentation and Ethical Review 
+ The Term Work will be calculated based on Tutorial Performance. 
+ 
+Books Recommended: 
+Textbooks: 
+1. Christoph Stückelberger, Pavan Duggal, Data Ethics: Building Trust: How Digital 
+Technologies Can Serve Humanity, Globethics Publications, 1st Ediiton, 2023. 
+2. Explainable AI: Foundations and Practical Techniques - Paresh Patil, Sushant Gaikwad, Akash Hatkangane 
+(Walnut Publication, 2024) 
+ 
+ 
+3. Federated Learning: Decentralized Machine Learning for Privacy and Security by Lavanya Arora, Kindle 
+Edition. 
+ 
+Reference Books: 
+1. Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, Julia Lane, Big Data and Soc ial Science: Data 
+Science Methods and Tools for Research and Practice, Chapman and Hall/CRC, 2nd Edition, 2020. 
+2. Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Data Governance: The Definitive Guide - People, 
+Processes, and Tools to Operationalize Data Trustworthiness, Shroff/O'Reilly, 1st Edition, 2021. 
+3. Bonawitz et al., Federated Learning: Collaborative Machine Learning without Centralized Training Data, 
+Google AI Blog. 
+ 
+Web Links: 
+1. Ethics in Data Science: https://www.analyticsvidhya.com/blog/2022/02/ethics-in-data-science- and-
+proper-privacy-and-usage-of-data/ 
+2. Business Insights Harvard: https://online.hbs.edu/blog/post/data-ethics 
+3. Data Science Professionals: https://emeritus.org/blog/data-science-and-analytics-data-science- 
+course-curriculum/ 
+4. Federated Learning in Practice: Google AI Blog : https://research.google/blog/federated-learning-with-
+formal-differential-privacy-guarantees/ 
+5. Explainable AI Principles: IBM Research Blog : https://research.ibm.com/blog/ai-explainability-360 
+6. Green AI Papers: https://arxiv.org/abs/1907.10597 
+Frameworks and Guidelines 
+1. EU AI Act (2024 draft) - Requirements for transparency and accountability. 
+2. OECD AI Principles (2019) - Human-centered values and fairness. 
+3. IEEE (2022). Ethically Aligned Design, Version 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESEARCH METHODOLOGY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: All programs (Final Year B. Tech.) Semester: VII 
+Course: Research Ecosystem (DJS23ITELX12) 
+ 
+Pre-requisites: 
+1. Basic understanding of Engineering concepts and problem-solving techniques. 
+2. Fundamental knowledge of project-based learning, data analysis, and domain-specific tools. 
+3. Basic exposure to project development, technical report writing, and emerging technologies. 
+ 
+Objectives: 
+1. To understand and identify complex engineering, societal, and industrial problems suitable for 
+research through structured analysis of literature, patents, and real-world needs. 
+2. To learn and apply advanced research methodologies —including experimental, simulation -
+based, and data-driven approaches—for designing and validating engineering solutions. 
+3. To gain proficiency in selecting and using appropriate tools, software, and platforms (AI/ML, 
+simulation, CAD, IoT, etc.) for experiment design, data acquisition, and performance evaluation. 
+4. To transform research insights into innovative prototypes, products, or startup concepts by 
+engaging with innovation ecosystems, TRLs, and funding mechanisms. 
+5. To analyze socio -technical systems, ethics, and sustainability implications of engineering 
+solutions, ensuring responsible and impactful outcomes. 
+6. To integrate systems thinking, multidisciplinary perspectives, policy awareness, future 
+technology trends, and technical docum entation skills to develop comprehensive research 
+proposals and outputs (papers, patents, reports). 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Analyze complex engineering and societal problems to evaluate literature and patents and 
+formulate clear research gaps. 
+2. Design and apply advanced research methods and tools to acquire data and evaluate solution 
+performance. 
+3. Transform research insights into prototypes or startup concepts using innovation frameworks and 
+Technology Readiness Levels. 
+4. Evaluate ethical, socio -technical, and sustainability issues and create responsible engineering 
+solutions. 
+5. Synthesize multidisciplinary knowledge to create research proposals and scalable, future -ready 
+solutions. 
+ 
+ 
+Research Ecosystem (DJS23ITELX12) 
+Unit Description Duration 
+1 
+Research Gap Identification & Problem Formulation 
+ Identifying high-impact problems from: 
+ Industry and Society 
+ Emerging technologies (AI, IoT, Blockchain, EV, etc.) 
+ Research gap identification techniques: 
+ Systematic Literature Review (SLR) 
+ Patent analysis 
+5 
+ 
+ 
+ 
+ 
+ Defining objectives, scope, constraints, and feasibility of the identified 
+problem 
+ Writing problem statement for: 
+ Research paper 
+ Product/Startup idea 
+Activities: 
+ Convert Industry/ Societal problem into research problem. 
+ Analyze research articles and extract research gaps. 
+2 
+Experimental Design, Tools & Validation Techniques 
+ Advanced research methodologies: 
+ Experimental, simulation, data-driven, design thinking 
+ Tool selection: 
+ Computational tools and software , simulation and analysis 
+platforms, system prototyping and testing platforms 
+ Data acquisition: 
+ Data collection interfaces , Principles of data cleaning and 
+organization (primary / secondary data) 
+ Validation techniques: 
+ Accuracy and performance metrics 
+ Benchmarking with existing solutions 
+ Result interpretation & visualization 
+Activities: 
+ Selection of Research Design for final year project. 
+ Apply evaluation metrics (e.g., ML model accuracy, system efficiency). 
+6 
+3 
+Research to Innovation, Product & Startup Ecosystem 
+ Research → Prototype → Product → Startup lifecycle 
+ Intellectual Property Rights (IPR), patents, copyrights 
+ Technology readiness levels (TRL) 
+ Case studies: 
+ AI startups, EV ecosystem, Smart Cities 
+ Industry-academia collaboration models 
+ Funding opportunities (grants, incubation, government schemes - 
+Anusandhan National Research Foundation (ANRF)) 
+Activities: 
+ Convert project into startup idea or product pitch. 
+Analyze failure of a technology/product. 
+5 
+4 
+Socio-Technical Systems, Ethics & Sustainability 
+ Socio-technical systems: Interaction of people, technology and 
+environment 
+ Ethical issues: 
+ Plagiarism, AI bias, data privacy 
+ Sustainability in Engineering: 
+ Green practices, resource optimization and lifecycle 
+considerations 
+ Impact assessment: 
+ Social, economic, environmental 
+ Policies and governance (data protection laws, standards and compliance 
+requirements) 
+Activities: 
+ Case study: Facial recognition ethics, smart surveillance. 
+ Impact analysis of student’s own project. 
+6 
+ 
+ 
+ 
+ 
+5 
+Integrated Research, Proposals and Future Engineering Challenges 
+ Systems thinking and holistic analysis 
+ Multidisciplinary problem solving: 
+ Healthcare tech., climate tech., smart mobility 
+ Writing research proposals: 
+ Problem → Methodology → Expected outcomes 
+ Future trends: 
+ AI ethics, Quantum computing, Industry 5.0 / 6.0 
+ Scaling solutions from lab to society 
+Activities: 
+ Capstone Task: 
+ Identify real-world problem. 
+ Apply research methodology. 
+ Propose: 
+o Technical solution 
+o Societal impact 
+o Possible commercialization 
+6 
+ Total 28 
+ 
+Term Work Guidelines: 
+The Term Work (TW) shall consist of continuous assessment based on tutorials activities and a final 
+group presentation. 
+a) Part A (25 Marks): 
+Each student shall complete a minimum of five tutorials based on the syllabus topics during the 
+semester. The tutorials may include activities such as research gap identification, literature 
+survey, case study analysis, tool -based experimentation, impact analysis, tech nical report 
+writing, and innovation-oriented problem solving. 
+b) Part B (25 Marks): 
+Students shall work in groups and select a project/research topic based on emerging 
+engineering, industrial, or societal challenges. The group presentation shall include: 
+i. Identification of a real-world problem 
+ii. Application of appropriate research methodology 
+iii. Proposed technical solution 
+iv. Analysis of societal impact 
+v. Possible commercialization/startup opportunities 
+ 
+Books Recommended: 
+Reference Books: 
+ Kothari, C. R., Resear ch Methodology: Methods and Techniques, New Age International 
+Publishers, New Delhi, 2023. 
+ Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T., The Craft of 
+Research, University of Chicago Press, Chicago, 2024. 
+ Montgomery, D. C., Design and Analysis of Experiments, Wiley, New York, 2020. 
+ Singh, Pooja, Katiyar, Aman, Rawat, Shalini, Dhuri, Archana, Research Methodology and IPR, 
+RK Publications, India, 2025. 
+ Blok, Vincent (Ed.), Putting Responsible Research and Innovation into Practi ce: A Multi -
+Stakeholder Approach, Springer Cham, Switzerland, 2022. 
+ 
+ 
+ 
+ 
+ 
+Web References: 
+ Research Methodology: Quantitative Methods and Computer Application 
+(https://onlinecourses.swayam2.ac.in/e-learning/preview/ini26_ma02) 
+ Research Methodology and IPR 
+(https://onlinecourses.swayam2.ac.in/e-learning/preview/ntr26_ed28) 
+ Research and Publication Ethics 
+(https://onlinecourses.swayam2.ac.in/e-learning/preview/nou26_ge46) 
+ Research Ethics and Plagiarism 
+(https://onlinecourses.swayam2.ac.in/e-learning/preview/nou26_ge26) 
+ Quantitative and Mixed Methods Research for Management 
+(https://onlinecourses.swayam2.ac.in/e-learning/preview/imb26_mg21) 
+ Doing Qualitative Research 
+(https://onlinecourses.swayam2.ac.in/e-learning/preview/nou26_ge61) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: B. Tech. (Common to all Programmes) Semester: VII 
+Course: Major Project (DJS23IPELX13) 
+ 
+Objectives 
+The primary purpose of the Major Project is to enable students to apply the knowledge and 
+skills acquired across the programme to conceive, design, implement, and evaluate a 
+comprehensive solution to a real -world problem. The project strengthens technical 
+competence, communication, and teamwork by integrating design, development, technical 
+writing, presentation, and collaborative work. It emphasises professional engineering practice 
+and addresses a range of non -technical considerations such as economic factors, safety, 
+reliability, ethics, sustainability, and environmental and societal impact. 
+ 
+Course Outcomes (CO) 
+On successful completion of the Major Project, the student will be able to: 
+CO1: Apply technical knowledge gained from previous courses to identify real-life, industry, 
+or societal problems and design appropriate solutions. 
+CO2: Demonstrate the technical skills required to design, develop, build, and test engineering 
+systems, products, software, or hardware using modern engineering and IT tools. 
+CO3: Apply project-management skills — scheduling work, procuring resources/components, 
+budgeting, documenting techn ical and non -technical details, and working within defined 
+deadlines as an effective team. 
+CO4: Develop and demonstrate the ability to test, validate, debug, and troubleshoot 
+engineering systems (including software, hardware, and process components) and a nalyse the 
+results. 
+CO5: Create technical reports and research papers in the prescribed format and effectively 
+communicate and present the work to evaluators. 
+ 
+Scope and Nature of the Project Work 
+Final-year students have already undertaken project assignments in their pre-final year through 
+Innovative Product Design / Mini Project work. In the final year, a group of a maximum of 
+four students completes a comprehensive project based on the courses studied. The project 
+work may be internally assigned or ext ernally assigned by research institutes, industry, or 
+similar organisations. Each group is assigned one faculty member as supervisor. The final-year 
+project may be an extension of the Mini Project carried out in the pre-final year. 
+The main intention of the project work is to enable students to apply the knowledge and skills 
+learnt across the programme to solve or implement a well-defined practical problem. The work 
+may go beyond the scope of the curriculum or build upon courses studied, but the thrust should 
+be on: 
+• Learning additional skills relevant to the chosen domain; 
+ 
+ 
+• Developing the ability to define, design, analyse, and implement a problem and carry it 
+through to completion with proper planning; 
+• Learning behavioural science and professional ethics by working effectively in a group; 
+• Selecting a project area aligned with the student’s intended higher education, employment, 
+or self-employment goals; 
+• Choosing a topic that differs from, or meaningfully advances, the Mini Project topic; 
+• Using the opportunity to learn modern computational techniques, tools, and model 
+development through an appropriate choice of project. 
+ 
+Continuous Assessment and Term Work 
+The department maintains a proper record of the progress of each project throughout the 
+semester. At the end of the semester, the work is assessed for the award of Term Work (TW) 
+marks by an approved internal faculty member appointed by the Head of the Institute, on the 
+basis of: 
+• Scope and objectives of the project work; 
+• Extent and quality of the literature survey; 
+• Progress of the work (continuous assessment across reviews); 
+• Design, implementation, and analysis of the project work; 
+• Results, conclusions, and future scope; 
+• Report prepared in the prescribed University / institutional format. 
+Oral / Practical Exam ination: An approved external examiner together with an internal 
+examiner appointed by the Head of the Institute assesses the project during the oral 
+examination. The oral examination consists of a presentation by the group along with a 
+demonstration of the work done. Each student is assessed individually for their contribution, 
+understanding, and the knowledge gained. 
+ 
+Project Guide / Topic Allocation Policy 
+The project guide and topic -allocation policy is explained to students during the Orientation 
+held in Semester VI. Each faculty member is allocated a minimum of one and a maximum of 
+four project groups. As per the timeline in the academic calendar, the list of project topics and 
+areas offered by each faculty member — three topics per faculty member — is displayed on 
+the notice board. Allocation is carried out over successive rounds, and in each round students 
+submit their preferences against the available topics and guides. 
+If a topic is preferred by only one group, that group is allocated to the corresponding guide and 
+topic. If a topic is preferred by more than one group, the concerned faculty member reviews 
+the applications and selects one group; the remaining groups carry forward to the next round. 
+After each round, the list of groups and guides allotted so far is displayed, along with the topics 
+and guides that remain available. Unallotted groups then submit fresh preferences from the 
+available list. This process continues over successive rounds until every group has been allotted 
+a guide, ensuring a uniform distribution of project groups among the faculty members. 
+ 
+ 
+ 
+Assessment Scheme 
+The Major Project carries a total of 100 marks — Term Work (50) assessed internally through 
+continuous evaluation, and Oral / Practical Examination (50) assessed jointly by internal and 
+external examiners. Each criterion is scored against three performance levels — Excellent, 
+Satisfactory, and Below Expectation — as detailed below. 
+Rubric for Term Work (50 Marks) 
+Assessment Criteria (mapped CO) Max Excellent Satisfactory Below 
+Exp. 
+Problem Definition, Objectives & Literature 
+Survey (CO1) 10 8–10 5–7 0–4 
+Design, Methodology & Implementation 
+Progress – Continuous Assessment (CO2) 10 8–10 5–7 0–4 
+Project Management & Teamwork (CO3) 10 8–10 5–7 0–4 
+Report / Thesis Writing – Written 
+Communication (CO5) 10 8–10 5–7 0–4 
+Research Paper Writing / IPR – Patent or 
+Copyright (CO5) 10 8–10 5–7 0–4 
+TOTAL 50 
+ 
+Rubric for Oral / Practical / Presentation / Demonstration (50 Marks) 
+Assessment Criteria (mapped CO) Max Excellent Satisfactory Below 
+Exp. 
+Concept & Problem Definition (CO1) 5 4–5 3 0–2 
+Design, Methodology & Implementation 
+(CO2) 15 12–15 7–11 0–6 
+Project Management Skills (CO3) 5 4–5 3 0–2 
+Demonstration, Testing & Result Analysis 
+(CO4) 15 12–15 7–11 0–6 
+Presentation & Oral Communication (CO5) 10 8–10 5–7 0–4 
+TOTAL 50 
+ 
+Descriptive Assessment Rubric (Performance-Level Descriptors) 
+The following descriptors define each performance level and are applied consistently across 
+all programmes. Examiners map a student’s performance to the most appropriate level for 
+each criterion before awarding the corresponding marks from the tables above. 
+ 
+ 
+Criteria Excellent Satisfactory Below Expectation 
+Concept & Problem 
+Definition 
+All major and minor 
+objectives are identified 
+and correctly 
+prioritised. The 
+problem statement is 
+precise, relevant and 
+well-scoped. All 
+relevant information is 
+gathered from valid 
+sources and the 
+proposed solution is 
+well justified. 
+Major objectives 
+identified but one or 
+two minor ones missing 
+or priorities not fully 
+set. Problem statement 
+mostly clear. Sufficient 
+information from 
+largely valid sources; 
+solution mostly 
+justified. 
+Several major 
+objectives not 
+identified. Problem 
+statement vague or too 
+broad. Insufficient 
+information and/or 
+invalid sources; 
+proposed solution not 
+justified. 
+Literature Survey Comprehensive, current 
+and well-organised 
+survey of journals, 
+standards, patents and 
+existing 
+products/systems. 
+Research gap / novelty 
+clearly identified and 
+the chosen approach is 
+well justified. 
+Adequate survey 
+covering most key 
+sources. Gap / novelty 
+identified but only 
+partially justified. 
+Sparse or outdated 
+survey. Little or no 
+identification of the 
+gap; chosen approach 
+not justified. 
+Design, 
+Methodology & 
+Implementation 
+Design is based on 
+stated criteria, sound 
+analysis and realistic 
+constraints. 
+Methodology is 
+appropriate and well 
+justified. 
+Implementation is 
+complete and robust 
+and makes effective use 
+of modern engineering / 
+software tools. 
+Design is reasonable 
+and methodology 
+mostly appropriate. 
+Implementation is 
+largely complete; 
+deeper analysis of 
+alternatives or 
+constraints could 
+improve the outcome. 
+Only one solution 
+considered or 
+alternatives ignored. 
+Weak methodology and 
+incomplete 
+implementation. Many 
+constraints and criteria 
+ignored. 
+Project 
+Management & 
+Teamwork 
+Responsibilities 
+delegated fairly and 
+every member 
+contributes valuably. 
+All members attend 
+meetings and meet 
+deliverable deadlines. 
+Schedule, resources and 
+budget are well 
+managed. 
+Minor inequities in 
+delegation; some 
+members contribute 
+more than others but all 
+meet their 
+responsibilities. 
+Meetings mostly 
+attended and deadlines 
+mostly met. 
+Major inequities in 
+delegation, with free-
+riders or dominating 
+members. Meetings and 
+deadlines frequently 
+missed; poor planning 
+of schedule and 
+resources. 
+ 
+ 
+Criteria Excellent Satisfactory Below Expectation 
+Demonstration, 
+Testing & Result 
+Analysis 
+Develops and follows 
+logical testing / 
+validation / 
+experimental 
+procedures. Selects 
+appropriate tools, 
+equipment, platforms or 
+datasets and operates 
+them confidently. 
+Aware of errors / 
+limitations, accounts 
+for them, and interprets 
+and relates the results 
+to the objectives and 
+underlying theory. 
+Procedures mostly 
+followed with 
+occasional oversight. 
+Needs some guidance 
+in selecting tools / 
+equipment and is 
+tentative in operating 
+them. Aware of errors 
+but accounts for them 
+only minimally. 
+Does not follow a 
+proper procedure. 
+Cannot select 
+appropriate tools / 
+equipment or operates 
+them incorrectly, 
+needing frequent 
+supervision. Makes no 
+attempt to relate results 
+to objectives. 
+Report / Thesis 
+Writing (Written 
+Communication) 
+Report is well 
+organised and clearly 
+written; the logic is 
+easy to follow. 
+Wording is precise; 
+figures, tables and 
+analyses enhance 
+understanding. 
+Grammatically correct, 
+free of spelling errors, 
+properly cited and free 
+of plagiarism. 
+Report is mostly 
+organised and clear; a 
+few sections are harder 
+to follow. Wording is 
+good with minor 
+exceptions; figures are 
+consistent. Few 
+grammatical / spelling 
+errors that do not 
+hinder the reader; some 
+sources not fully cited. 
+Report lacks 
+organisation and the 
+logic is hard to follow. 
+Figures absent or 
+inconsistent. 
+Grammatical and 
+spelling errors hinder 
+reading. Evidence of 
+plagiarism or 
+inadequate citation. 
+Research Paper 
+Writing / IPR 
+(Patent or 
+Copyright) 
+A research / technical 
+paper is drafted to 
+publication standard in 
+the required format, or 
+a patent / copyright 
+application is prepared 
+and filed. Novelty and 
+contribution are clearly 
+articulated, claims and 
+results are well 
+supported, and the 
+work is original with 
+proper citations and no 
+plagiarism. 
+A paper draft or IPR 
+document is prepared 
+and largely follows the 
+required format. 
+Novelty and 
+contribution are stated 
+but only partially 
+developed, with minor 
+gaps in supporting 
+evidence or formatting. 
+No paper / IPR 
+document, or a weak 
+draft that does not 
+follow the required 
+format. Novelty or 
+contribution is unclear 
+or unsupported, with 
+evidence of plagiarism 
+or inadequate citation. 
+Presentation & Oral 
+Communication 
+Slides are error-free 
+and logically present 
+the work and findings; 
+they are readable and 
+the graphics support the 
+main ideas. Speakers 
+Slides are error-free 
+and logical and mostly 
+readable. Speakers are 
+mostly fluent with 
+minimal reliance on 
+notes and answer most 
+Slides contain errors 
+and lack logical flow; 
+key aspects are absent 
+and graphics confuse 
+the audience. Speakers 
+are inaudible or 
+ 
+ 
+Criteria Excellent Satisfactory Below Expectation 
+are audible and fluent, 
+do not rely on notes and 
+answer questions 
+accurately. Confident 
+body language and eye 
+contact convey strong 
+engagement. 
+questions well. Slight 
+discomfort or 
+occasional distracting 
+gestures. 
+hesitant and rely 
+heavily on notes, with 
+difficulty answering 
+questions. Body 
+language conveys 
+discomfort. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABILITY ENHANCEMENT 
+COURSE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program: B. Tech in Computer Science and Engineering (Data Science) Semester: VII 
+ 
+Course: Disaster Management and Preparedness (DJS23ICHSX11) 
+ 
+Objectives: 
+1. To provide basic understanding of hazards, disasters and various types and categories of disaster occurring 
+around the world. 
+2. To identify extent and damaging capacity of a disaster. 
+3. To study and understand the means of losses and methods to overcome /minimize it. 
+4. To understand roles and responsibilities of individual and various organizations during and after disaster. 
+5. To appreciate the significance of GIS, GPS in the field of disaster management. 
+6. To understand the emergency government response structures before, during and after disaster. 
+ 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Apply disaster management principles & guidelines. 
+2. Conduct risk assessments. 
+3. Develop community awareness & participation. 
+4. Utilize Science & Technology tools (GIS, GPS). 
+5. Prepare disaster management plans. 
+ 
+Disaster Management and Preparedness (DJS23ICHSX11) 
+Unit Description Duration 
+1 
+Understanding Disasters & Hazards 
+Definition and types of disasters: Natural, Man-made and hybrid disasters, Study 
+of Natural disasters : Flood, drought, cloud burst, Earthquake, Landslides, 
+Avalanches, Volcanic eruptions, Mudflow, Cyclone, Storm, Storm Surge, climate 
+change, global warming, sea level rise, ozone depletion etc. Study of 
+Human/Technology Induced Disasters : Chemical, Industr ial and Nuclear 
+disasters, internally displaced persons, road and train accidents Fire Hazards, 
+terrorism, militancy, 
+Hazard & Vulnerability profiles of India (seismic zones, flood-prone areas). 
+India’s vulnerability to disasters, and the impact of disast ers on National 
+development. 
+06 
+2 
+Disaster Risk Reduction (DRR) & Mitigation 
+Disaster Management Cycle : Prevention, Mitigation, Preparedness, Response, 
+Recovery. Need for disaster prevention and mitigation, mitigation guiding 
+principles, challenging areas, structural and non-structural measures for disaster risk 
+reduction. 
+Risk Assessment & Vulnerability Analysis. 
+Science & Technology: Use of information management, Geo informatics like RS, 
+GIS, GPS and remote sensing mitigation measure. 
+06 
+3 
+Disaster Preparedness & Response 
+ Preparedness Planning, Early Warning Systems (EWS), & Communication. 
+ Emergency Response: Search & Rescue, Logistics, Medical Aid. 
+ Psychological Response & Management (Trauma, Stress). 
+ Role of IT, Media, Govt., NGOs, & Community. 
+04 
+ 
+ 
+4 
+Recovery, Rehabilitation & Reconstruction 
+Post-disaster damage assessment. 
+Rehabilitation, Reconstruction, & Livelihood Restoration. 
+Sanitation, Hygiene, & Waste Management. 
+04 
+5 
+Policy, Governance & Capacity Building 
+ National Disaster Management Authority (NDMA) & Legislation. 
+ Institutional Mechanisms & Community Mobilization. Non -Structural Mitigation: 
+Community based disaster preparedness, capacity development and training, 
+awareness and education, contingency plans. 
+Case studies on disaster (National /International) 
+Case study discussion of National Disasters: Tsunami (2004), Bhopal gas tragedy, 
+Kerala and Uttarakhand flood disaster, 26th July 2005 Mumbai flood 
+Case study discussion of International Disasters: Hiroshima – Nagasaki (Japan), 
+Cyclone Phailin (2013), Fukushima, Daiichi nuclear disaster (2011), Chernobyl 
+meltdown 
+08 
+ Total 28 
+ 
+ 
+ Books Recommended: 
+ Reference Books and Reports: 
+1. Disaster Management, by Harsh K. Gupta, Universities Press Publications (2003). 
+2. Disaster Management: An Appraisal of Institutional Mechanisms in India, by O. S. Dagur, published by 
+Centre for land warfare studies, New Delhi, 2011. 
+3. Introduction to International Disaster Management, by Damon Copolla, Butterworth Heinemann Elsevier 
+Publications (2015). 
+4. Disaster Management Handbook, by Jack Pinkowski, CRC Press, Taylor and Francis group (2008). 
+5. Disaster management & rehabilitation, by Rajdeep Dasgupta, Mittal Publications, New Delhi (2007). 
+6. Natural Hazards and Disaster Management, Vulnerability and Mitigation, by R B Singh, Rawat 
+Publications (2006). 
+7. Concepts and Techniques of GIS, by C. P. Lo Albert, K.W. Yonng, Prentice Hall (India) Publications 
+(2006). 
+8. Risk management of natural disasters, by Claudia G. Flores Gonzales, KIT Scientific Publishing (2010). 
+9. Disaster Management – a disaster manger’s handbook, by W. Nick Carter, Asian Development Bank 
+(2008). 
+10. Disaster Management in India, by R. K. Srivastava, Ministry of Home Affairs, GoI, New Delhi (2011) 
+11. The Chernobyl Disaster: Legacy and Impact on the Future of Nuclear Energy, by Wil Mara, Marshall 
+Cavendish Corporation, New York, 2011. 
+12. The Fukushima 2011 Disaster, by Ronald Eisler, Taylor & Francis, Florida, 2013. 
+ (Learners are expected to refer reports published at national and international level and updated 
+information available on authentic web sites.) 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 

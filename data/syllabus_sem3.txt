@@ -1,0 +1,2973 @@
+ 
+ 
+Scheme and Detailed syllabus (DJS23) 
+Final Year B.Tech 
+in 
+Computer Science and 
+Engineering (Data Science) 
+(Semester III) 
+ 
+ 
+Shri Vile Parle Kelavani Mandal’s 
+Dwarkadas J. Sanghvi College of Engineering 
+(Autonomous College Affiliated to the University of Mumbai) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Scheme of Semester - III for Department of Computer Science and Engineering (Data Science) 
+Academic Year (2026 - 2027) 
+ 
+ 
+ 
+ 
+Sr. 
+No. 
+ 
+ 
+ 
+Course Code 
+ 
+ 
+ 
+Course 
+Teaching Scheme Semester End Examination (SEE) - A Continuous Assessment (CA) - B 
+ 
+ 
+Aggregate 
+(A+B) 
+ 
+ 
+ 
+Total Credits 
+ 
+ 
+Theory 
+(Hrs.) 
+ 
+ 
+Practical 
+(Hrs.) 
+ 
+ 
+Tutorial 
+(Hrs.) 
+ 
+ 
+Credits 
+ 
+ 
+Duration( 
+Hrs) 
+ 
+ 
+Theory 
+ 
+ 
+Oral 
+ 
+ 
+Pract 
+ 
+ 
+Oral & 
+Pract 
+ 
+ 
+SEE 
+Total(A) 
+ 
+Term 
+Test 1 
+(TT1) 
+ 
+Term 
+Test 2 
+(TT2) 
+ 
+Term 
+Test 3 
+(TT3) 
+ 
+Term Test 
+Total 
+(TT1 + TT2 
++ TT3) 
+ 
+ 
+Term 
+work 
+ 
+CA 
+Total 
+(B) 
+ 
+1 
+DJS23DPC201 Computer System Fundamentals 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 
+4 
+DJS23DPC201L Computer System Fundamentals Laboratory -- 2 -- 1 2 -- -- -- 25 25 -- -- -- -- 25 25 50 1 
+ 
+2 
+DJS23DPC202 Database Systems 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 
+4 
+DJS23DPC202L Database Systems Laboratory -- 2 -- 1 2 -- -- -- 25 25 -- -- -- -- 25 25 50 1 
+3 DJS23DPC203L Data Science Laboratory (Python) 1 2 -- 2 2 -- -- -- 50 50 -- -- -- -- 50 50 100 2 2 
+4 DJS23DMD201 Mathematics for Intelligent Systems 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3 3 
+ 
+ 
+ 
+ 
+ 
+ 
+5# 
+DJS23XOE211 Product Lifecycle Management 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+-- 
+ 
+ 
+ 
+ 
+ 
+ 
+-- 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+-- 
+ 
+ 
+ 
+ 
+ 
+ 
+-- 
+ 
+ 
+ 
+ 
+ 
+ 
+-- 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+-- 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+100 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+DJS23XOE212 Management Information System 
+DJS23XOE213 Operations Research 
+DJS23XOE214 Personal Finance Management 
+DJS23XOE215 Public Systems and Policies 
+DJS23XOE216 Fundamentals of Biomedical Instruments 
+DJS23XOE217 IPR and Patenting 
+DJS23XOE218 Entrepreneurship and Startup Ecosystem 
+6 DJS23XHS231L Design Thinking Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 
+ 
+1 
+ 
+7 
+DJS23XHS232 Universal Human Values 2 -- -- 2 2 60 -- -- -- 60 15 15 10 40 -- 40 100 2 
+3 
+DJS23XHS232T Universal Human Values Tutorial -- -- 1 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 
+8 DJS23XEL201L Community Engagement Service -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 1 
+9 DJS23XSC201P Innovative Product Development I -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1 1 
+10 DJS23DSC201 Python for AI Engineering 1 -- -- 1 -- -- -- -- -- -- 15 15 10 40 -- 40 40 1 1 
+ Total 16 12 1 23 16 300 -- -- 100 400 90 90 60 240 200 440 840 23 23 
+#Any 1 Open Elective Course 
+ 
+ 
+ 
+Prepared by Checked by Head of Department Vice Principal Principal 
+
+ 
+Continuous Assessment (A): 
+ 
+Course Assessment Tools Marks Time (hrs.) 
+ 
+ 
+ 
+ 
+Theory 
+a. Term Test 1 (based on 40 % syllabus) 15 45 
+b. Term Test 2 (on next 40 % syllabus) 15 45 
+c. Assignment / course project / group discussion / 
+presentation / quiz/ any other. 10 -- 
+ 
+Total marks (a + b + c) 
+ 
+40 
+ 
+-- 
+ 
+Audit course 
+Performance in the assignments / quiz / power point 
+presentation / poster presentation / group project / 
+any other tool. 
+ 
+-- 
+ 
+ 
+ 
+As 
+applicable Laboratory Performance in the laboratory and documentation. 25 
+Tutorial Performance in each tutorial & / assignment. 25 
+Laboratory 
+&Tutorial 
+Performance in the laboratory and tutorial. 50 
+ 
+The final certification and acceptance of term work will be subject to satisfactory performance upon 
+fulfilling minimum passing criteria in the term work / completion of audit course. 
+ 
+Semester End Assessment (B): 
+ 
+Course Assessment Tools Marks Time (hrs.) 
+Theory / 
+* Computer 
+based 
+Written paper based on the entire syllabus. 
+60 
+ 
+2 
+* Computer based assessment in the college premises. 
+Oral Questions based on the entire syllabus. 25 As applicable 
+Practical 
+Performance of the practical assigned during the examination 
+and the output / results obtained. 25 2 
+ 
+Oral & 
+Practical 
+Project based courses - Performance of the practical assigned 
+during the examination and the output / results obtained. 
+Based on the practical performed during the examination and 
+on the entire syllabus. 
+ 
+As per the 
+scheme 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRAM CORE COURSE 
+
+ 
+ 
+Program: Computer Science and Engineering (Data Science) S.Y B.Tech Semester: III 
+Course: Computer System Fundamentals (DJS23DPC201) 
+Course: Computer System Fundamentals Laboratory (DJS23DPC201L) 
+ 
+ 
+Pre-requisite: Basic Mathematics 
+ 
+Course Objectives: To understand the structure, functions and characteristics of computer system and 
+operating systems. 
+ 
+Outcomes: On competition of the course, the learner will be able to: 
+1. Describe the fundamental organization of a computer system. 
+2. Apply appropriate memory mapping, process scheduling and disk scheduling methods. 
+3. Identify the need of concurrency and apply appropriate method to solve the concurrency or 
+deadlock problem. 
+4. Differentiate between various processor architecture. 
+ 
+Computer System Fundamentals (DJS23DPC201) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+1 
+Introduction to System Fundamentals: Realization of half adder and full adder 
+using Logic Gates, Von Neumann model, Fixed point representation, Register 
+Transfer and Micro -operations: Floating point representation, Arithmetic Micro -
+Operations, Arithmetic logical shift unit. Addition and subtraction, Multiplication 
+Algorithms (Booth Multiplication Algorithm), Division Algorithms, Floating Point 
+Arithmetic operations, Instruction Cycle with interrupt and DMA. 
+Operating System Architecture: Basic functions and services, System calls, 
+Types of Operating Systems: Batch, multiprogramming. Multitasking, time sharing, 
+parallel, distributed & real -time O.S. 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+2 
+Central Processing Unit: Introduction, General Register Organization, Stack 
+Organization, Instruction format, Addressing Modes, data transfer and 
+manipulation, Program Control, Reduced Instruction Set Computer (RISC). 
+Process Management: Process Concept, Process states, Process control Block, 
+Threads, Uni -processor Scheduling: Types of scheduling: Pre -emptive, non -pre-
+emptive, Scheduling algorithms: FCFS, SJF, RR, Priority. Comparative study of 
+process management in Windows, Linux and Android OS. 
+ 
+ 
+ 
+06 
+ 
+ 
+3 
+Memory Organization: Memory Hierarchy, Main Memory, Cache Memory, 
+Memory Mapping, cache coherence, Pentium IV cache organization, ARM cache 
+organization. 
+Memory Management: Memory partitioning: Fixed and Variable Partitioning, 
+Memory Allocation: Allocation Strategies (First Fit, Best Fit, and Worst Fit), 
+Fragmentation, Swapping, Virtual Memory, Paging. Segmentation, Demand paging 
+ 
+ 
+08 
+
+ 
+ and Page replacement policies. Comparative study of memory management in 
+Windows, Linux and Android OS. 
+ 
+ 
+ 
+ 
+4 
+Concurrency control: 
+Concurrency: Principles of Concurrency, Mutual Exclusion: S/W approaches, 
+H/W Support, Semaphores, Monitors, Classical Problems of Synchronization: 
+Readers-Writers and Producer Consumer problems and solutions. 
+Deadlock: Principles of deadlock, Deadlock Prevention, Deadlock Avoidance, 
+Deadlock Detection, Dining Philosopher problem. Comparative study of 
+concurrency control in Windows, Linux and Android OS. 
+ 
+ 
+ 
+09 
+ 
+5 
+File and I/O management: File access methods, I/O Devices, Organization of I/O 
+functions, Operating System Design issues, I/O Buffering, Disk Scheduling (FCFS, 
+SCAN, C-SCAN, SSTF), RAID, Disk Cache, Arbitration methods, Comparative 
+study of file and I/O management in Windows, Linux and Android OS. 
+ 
+04 
+ 
+6 
+Advance Computer Architecture: Characteristics of Multiprocessors, Flynn's 
+taxonomy, Parallel processing architectures and challenges, Hardware 
+multithreading, Multicore and shared memory multiprocessors, Introduction to 
+Graphics Processing Units, Introduction to Multiprocessor network topologies. 
+ 
+03 
+ Total 42 
+ 
+Computer System Fundamentals Laboratory (DJS23DPC201L) 
+Exp. Suggested Experiments 
+1 Implement Booth’s multiplication algorithm. 
+2 Implement CPU Non-Preemptive scheduling algorithms like FCFS, SJF, Priority etc. 
+3 Implement CPU Preemptive scheduling algorithms like SRTF, Round Robin, 
+Preemptive priority etc. 
+4 Explore the internal commands of Linux. 
+5 Write shell scripts handling File, Directory, Networking and security aspects. 
+6 Implement Best Fit, First Fit and Worst Fit Memory allocation policy. 
+7 Implement Fully associative and set associative cache memory mapping. 
+8 Implement various cache/page replacement policies. 
+9 Implement order scheduling in supply chain using Banker’s Algorithm. 
+10 Implement Disk Scheduling Algorithms. 
+ Study Experiments 
+11 Implement Restoring and Non-Restoring division algorithm. 
+12 Implement Solution to Producer Consumer Problem of Process Synchronization. 
+13 Implement Solution to Reader Writer Problem of Process Synchronization. 
+14 Implement Solution to Dinning Philosopher Problem of Process Synchronization. 
+15 Implementation of Multithreading using parent process and child process using 
+UNIX calls like fork, exec and wait. 
+Batch wise laboratory work of minimum eight experiment or mini project from the above suggested list or 
+
+ 
+any other experiment based on syllabus will be included, which would help the learner to apply the concept 
+learnt. 
+*The term work will be calculated based on Laboratory Performance (15m) and Assignment (10m). 
+Books Recommended: 
+Text Books: 
+1. William Stallings, “Computer Organisation and Architecture”, Pearson publication, 11th Edition, 
+2018. 
+2. Greg Gagne, Abraham Silberschatz, John Wiley & Sons, Inc. “Operating System Concepts”, 10th 
+Edition, 2018. 
+ 
+Reference Books: 
+1. John Hayes, “Computer Architecture and Organization”, McGrawHill, 3rd Edition, 2017. 
+2. M. Morris Mano, “Computer System Architecture”, Pearson, 2017. 
+3. Andrew S. Tanenbaum and Todd Austin, “Structured Computer Organization”, 6th Edition, PHI, 
+2016. 
+4. M. Murdocca & V. Heuring, “Computer Architecture & Organization”, WILEY, 2017. 
+5. By Andrew S. Tanenbaum, “Modern Operating Systems”, PHI, 2009. 
+6. G. Meike, Lawrence Schiefer, “Inside the Android OS: Building, Customizing, Managing and 
+Operating Android System Services (Android Deep Dive)”, 2021. 
+ 
+Web Links: 
+1. Operating System – Neso Academy 
+https://www.nesoacademy.org/ 
+2. Linux Journey (Interactive Linux & Operating System Concepts) – LabEx 
+https://labex.io/linuxjourney 
+3. Shell Scripting Tutorial – WebMingal 
+https://webminal.org/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+Program: Computer Science and Engineering (Data Science) S.Y B.Tech. Semester: III 
+Course: Database Systems (DJS23DPC202) 
+Course: Database Systems Laboratory (DJS23DPC202L) 
+ 
+Pre-requisite: 
+1. Computer Basics 
+ 
+Course Objectives: To introduce the students to the management of database systems, with an emphasis on 
+how to design, organize, maintain and retrieve information efficiently and effectively from a database. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Understand different types of database systems. 
+2. Construct SQL queries to perform operations on the database. 
+3. Apply suitable data management techniques for efficient data retrieval. 
+ 
+Database Systems (DJS23DPC202) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+1 
+Introduction Database Management System: Data Independence, DBMS system 
+architecture, Database Administrator. 
+Entity Relationship Modeling: The Entity-Relationship (ER) Model: Entity types: 
+Weak and strong entity sets, Entity sets, Types of Attributes, Keys, Relationship 
+constraints: Cardinality and Participation, Extended Entity-Relationship (EER) Model: 
+Generalization, Specialization and Aggregation. 
+Relational Model and Algebra: Introduction, relational schema and concept of keys, 
+Mapping the ER and EER Model to the Relational Model. Relational Algebra: Unary 
+and Set operations, Relational Algebra Queries. 
+ 
+ 
+ 
+ 
+08 
+ 
+ 
+2 
+Structured Query Language (SQL): Overview of SQL, Data Definition Commands, 
+Data Manipulation commands, Integrity constraints - key constraints, Domain 
+Constraints, Referential integrity, check constraints, Data Control commands, 
+Transaction Control Commands, Set and String operations, aggregate function - group 
+by, having, Views in SQL, joins, Nested and complex queries, Triggers, Security and 
+authorization in SQL. 
+ 
+ 
+ 
+08 
+ 
+ 
+3 
+Relational–Database Design: Pitfalls in Relational-Database designs, Concept of 
+normalization, Function Dependencies, Normal Forms- 1NF, 2NF, 3NF, BCNF. 
+Transaction Management and Recovery: ACID properties, Transaction States, 
+Concurrent Executions, Serializability, Concurrency Control Protocols: Lock-based, 
+Timestamp based, Validation Based. 
+ 
+ 
+06 
+4 Indexing Mechanism: Hashing techniques, Types of Indexes: Single Level Ordered 
+Indexes, Multilevel Indexes, Overview of B-Trees and B+ Trees. 06 
+5 Data Warehouse and ETL: Principles of Dimensional Modeling: The STAR Schema, 
+STAR Schema Keys, Advantages of the STAR Schema, The Snowflake Schema, 
+ 
+
+ 
+ Dimension Tables, Fact Tables, ETL (Extract, Transform, Load) processes, Data Cube, 
+Data Cube Computation Methods, Data Lake, OLAP, OLAP Characteristics, Major 
+Features and Functions, OLAP Models. 
+08 
+ 
+6 
+NoSQL Data Stores: BASE Properties, Comparison of BASE and ACID, Types of 
+NoSQL, Overview of Key-Value, Document, Wide-Column, Graph databases, 
+Concept of Polyglot persistence, Case Study on different NoSQL. 
+ 
+06 
+ Total 42 
+ 
+Database Systems Laboratory (DJS23DPC202L) 
+Exp. Suggested Experiments 
+1 To draw an ER diagram for a problem statement. 
+2 Map the ER/EER to a relational schema. 
+3 To implement DDL and DML commands with integrity constraints. 
+4 To access & modify Data using basic SQL. 
+5 To implement Joins and Views. 
+6 To Examine the consistency of database using concurrency control technique (Locks). 
+7 To implement an ETL Pipeline with SQL Server Integration Services (SSIS) tool. 
+8 To build a Data Cube with PivotTables and perform OLAP operations. 
+9 To Perform CRUD Operations using NoSQL. 
+10 To Create a Basic Data Lake using Open-Source Technologies. 
+A Minimum eight experiments from the above suggested list or any other experiment or mini project based 
+on syllabus will be included, which would help the learner to apply the concept learnt. 
+*The Term Work will be calculated based on Laboratory Performance(15m) and Computer Based 
+Assessment (10m). 
+Books Recommended: 
+Text books: 
+1. Korth, Silberschatz, Sudarshan, “Database System Concepts”, McGraw – Hill, 7th Edition, 2019. 
+2. Elmasri and Navathe, “Fundamentals of Database Systems”, Pearson Education, 7th Edition, 2021. 
+3. Alejandro Vaisman, Esteban Zimányi,“Data Warehouse Systems: Design and Implementation”, 
+Springer, 2nd Edition, 2022. 
+4. Andreas Meier, Michael Kaufmann, “SQL & NoSQL Databases”, Springer, 2019. 
+ 
+Reference Books: 
+1. Raghu Ram Krishnan and Johannes Gehrke, “Database Management Systems”, TMH, 2nd Edition, 
+2003. 
+2. Dr.P.S. Deshpande,“SQL and PL/SQLforOracle10g”, Black Book, Dreamtech Press, 2006. 
+3. Patrick Dalton, “Microsoft SQL Server Black Book”, Coriolis Group, U.S., 1997. 
+4. Paulraj Ponniah, “Data Warehousing Fundamentals a Comprehensive Guide for It Professionals”, John 
+Wiley & Sons, Inc., 2004. 
+5. Jiawei Han, Micheline Kamber and Jian Pei, “Data Mining. Concepts and Techniques”, Elsevier Inc., 
+2012. 
+
+ 
+Web Links: 
+1. NPTEL Course 
+https://nptel.ac.in/courses/106106220 
+2. Oracle Education – Oracle's official platform for technology training and certification 
+programs. 
+https://education.oracle.com/ 
+3. MongoDB Learn – MongoDB's official online learning platform offering free courses, 
+tutorials, and certifications for MongoDB. 
+https://learn.mongodb.com/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+Program: Computer Science and Engineering (Data Science) S.Y B.Tech. Semester: III 
+Course: Data Science Laboratory (Python) (DJS23DPC203L) 
+ 
+Pre-requisite: 
+1. Programming Fundamentals 
+2. Fundamentals of Data Analysis 
+Objectives: 
+1. To learn the basic and OOP concepts of Python. 
+2. To learn basic of Data manipulation and Analysis. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Implement python programs to solve real world problems. 
+2. Perform Data Manipulation and Analysis. 
+ 
+Data Science Laboratory (Python) (DJS23DPC203L) 
+Unit Description Duration 
+ 
+1 
+Python basics 
+Operators, Input and Output, Control statements, Arrays, String and 
+Character. 
+ 
+01 
+ 
+ 
+2 
+Functions and Collections in python 
+Functions in python, Calling a Function, Arguments, Arbitrary Arguments, 
+*args, Keyword Arguments, Arbitrary Keyword Arguments, **kwargs, 
+The pass Statement, Recursion, Collections in Python, List, Tuples and 
+Dictionaries. 
+ 
+02 
+ 
+3 
+Introduction to OOP 
+Classes, Objects, and Constructor, Methods, Abstraction, Inheritance, 
+Magic Methods, Exception handling. 
+ 
+02 
+ 
+4 
+Advanced Python Concepts 
+Modules, Packages, Python Collections Module, Opening and Reading 
+Files and Folders, Python OS Module, Python Date Time Module, Python 
+Math and Random Modules, Text Processing & Regular expression. 
+ 
+02 
+ 
+5 
+Python Numpy Module 
+Construct Numpy arrays, Printing arrays, Arithmetic Operations on 
+matrix’s using Numpy Module, numpy zeros (). 
+ 
+01 
+ 
+6 
+Exploratory Data Analysis (EDA) 
+Descriptive Statistics, Correlation Analysis, Handling Missing Data, 
+Outlier Detection. 
+ 
+02 
+ 
+7 
+Data Preprocessing 
+Introduction to Pandas Library, Working with Series and Data Frames, 
+Data Cleaning and Preprocessing, Data Transformation and Aggregation, 
+Indexing and Slicing Data, Combining and Merging DataFrames. 
+ 
+02 
+8 Data Visualization 
+Matplotlib module, Seaborn module, Plotly, Heatmaps. 02 
+ Total 14 
+
+ 
+Data Science Laboratory (Python) (DJS23DPC203L) 
+Exp. Suggested experiments 
+1 Implement python program to demonstrate different decision-making statements 
+2 Implement python program on Arrays. 
+3 Implement python program on String. 
+4 Implement python program on Collections (List, Tuples and Dictionaries). 
+5 Implement python program on function, recursion. 
+6 Implement python program on Text Processing & Regular expression. 
+7 Implement python program to construct numpy arrays, printing arrays, arithmetic operations on 
+matrix’s using Numpy Module, numpy zeros (). 
+8 Implement python program to perform Descriptive Statistics, Correlation Analysis. 
+9 Implement python program to Handling Missing Data, outlier detection. 
+10 Implement python program to perform data cleaning and data preprocessing. 
+11 Implement python program for working with series and data Frames. 
+12 Implement python program to perform to perform data transformation and aggregation. 
+13 Implement Python program to perform data visualization. 
+A minimum of 10 experiments or any other experiment based on syllabus will be included, which would 
+help the learner to apply the concept learnt. 
+*The Term Work will be calculated based on Laboratory Performance (25m), and Computer based 
+Assessment (25m). 
+ 
+Books Recommended 
+Text books: 
+1. Zed Shaw, “Learn Python the Hard Way”, Addison-Wesley, 5th Edition, 2024. 
+2. Jake VanderPlas, “Python Data Science Handbook”, Reilly, 2nd Edition,2022. 
+ 
+Reference books: 
+1. Wes McKinney, “Python for Data Analysis”, O'Reilly Media, Inc., 3rd Edition, 2022. 
+2. Just Into Data,” Python for Data Analysis: Step-By-Step with Projects”, Packt Publishing, 2021. 
+3. John Paul Mueller, Luca Massaron, “Python for Data Science for Dummies”, Wiley, 3rd Edition, 2023. 
+Digital resources: 
+1. The Python Tutorial: http://docs.python.org/release/3.0.1/tutorial/ 
+2. Free and Open Source IITB Lab: http://spoken-tutorial.org 
+3. www.staredusolutions.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MULTIDISCIPLINARY MINOR 
+
+ 
+ 
+Program: Computer Science and Engineering (Data Science) S.Y B.Tech. Semester: III 
+Course: Mathematics for Intelligent Systems (DJS23DMD201) 
+ 
+Pre-requisite: 
+1. Basic Matrices 
+2. Partial Differentiation 
+3. Basic Probability 
+ 
+Objectives: To build a strong mathematical foundation in learners needed for building concepts of machine 
+learning. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Analyze probability of random variable and probability distributions. 
+2. Demonstrate knowledge of linear algebra. 
+3. Apply concepts of matrix theory. 
+4. Demonstrate concepts of calculus. 
+5. Analyze different optimization techniques. 
+ 
+Mathematics for Intelligent Systems (DJS23DMD201) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Probability 
+ Conditional probability. 
+ Bayes’ theorem. 
+ 
+02 
+Random variables 
+ Discrete random variable, probability mass function, discrete distribution 
+function. 
+ Continuous random variable, probability density function, continuous 
+distribution function. 
+ Mathematical expectation. 
+ Moment generating function. 
+ Two-dimensional random variable and its joint probability mass and density 
+function, marginal distribution function, conditional distribution functions, 
+covariance, joint moments. 
+ 
+ 
+ 
+ 
+ 
+04 
+Probability Distributions 
+ Discrete: Binomial distribution, Poisson distribution, Hypergeometric 
+distribution. 
+ Continuous: Uniform distribution, Exponential distribution, Normal 
+distribution, Beta distribution, Gamma distribution. 
+ 
+ 
+04 
+ 
+2 
+Linear Algebra 
+ Vectors in n-dimensional vector space, properties, dot product, cross product, 
+norm, and distance. 
+ 
+07 
+
+ 
+  Vector spaces over real field, properties of vector spaces over real field, 
+subspaces. 
+ Linear independence and dependence of vectors, span of vectors. 
+ Basis and dimension of a vector space. 
+ Cauchy Schwarz inequality. 
+ Linear transformation. 
+ 
+Gram-Schmidt orthogonalization process 03 
+ 
+ 
+ 
+ 
+3 
+Matrix Theory 
+ Characteristic equation. 
+ Eigen values and Eigen vectors and their properties. 
+ Cayley-Hamilton theorem (verification and application). 
+ Similarity and diagonalization of matrices. 
+ Functions of square matrix. 
+ Derogatory and nonderogatory matrices. 
+ Matrix Factorization. 
+ 
+ 
+ 
+ 
+08 
+ 
+ 
+4 
+Calculus 
+ Gradient. 
+ Directional derivatives. 
+ Jacobian and hessian matrices. 
+ Convex, concave functions and their properties. 
+ 
+ 
+04 
+ 
+ 
+ 
+5 
+Optimization 
+ Unconstrained optimization techniques: newton’s method, quasi newton 
+method. 
+ Constrained optimization techniques: gradient descent, Lagrange’s multiplier 
+method with 2 or 3 variables and one equality constraint, Karush–Kuhn–Tucker 
+method with 2 variables and 1 or 2 constraints, Simplex method, Penalty and 
+Duality, Dual Simplex method. 
+ 
+ 
+ 
+10 
+ Total 42 
+*The Term Work will be calculated based on an Assignment / Quiz on each module for 10 marks each scaled 
+to 25 marks. 
+Books Recommended: 
+ 
+Textbooks: 
+1. Dr. B. S. Grewal, Higher Engineering Mathematics, Khanna Publication, 44th Edition, 1965. 
+2. Kanti B. Datta, Mathematical Methods in Science and Engineering, Cengage Learning India, 1st Edition, 
+2011. 
+3. Hamdy A. Taha, Operations Research - An Introduction, Pearson, 10th Edition, Publication Year 2010. 
+4. P. K. Gupta, Mohan Man, Operations Research, Kanti Swarup, S Chand Publication, 1st Edition, 2005. 
+ 
+Reference Books: 
+1. W. Cheney, Analysis for Applied Mathematics, New York: Springer Science Business Media, 1st Edition, 
+2001. 
+2. S. Axler, Linear Algebra Done Right, Springer International Publishing, 3rd Edition, 2015. 
+3. J. Nocedal and S. J. Wright, Numerical Optimization, New York: Springer Science Business Media, 2nd 
+Edition, 2006. 
+
+ 
+4. J. S. Rosenthal, A First Look at Rigorous Probability Theory, Singapore: World Scientific Publishing, 
+2nd Edition, 2006. 
+5. Seymour Lipschutz and Marc Lipson, Linear Algebra Schaum’s outline series, Mc-Graw Hill Publication, 
+4th Edition, 2009. 
+6. Erwin Kreysizg, Advanced Engineering Mathematics, John Wiley & Sons Inc, 10th Edition, 2000. 
+ 
+ 
+Web Links 
+1. Probability, Random Variables, Distributions 
+NPTEL: Probability and Random Processes (IIT Kharagpur, Prof. M. Chakraborty) 
+https://archive.nptel.ac.in/courses/117/105/117105085/ 
+2. Linear Algebra (vector spaces, basis, linear transformation, Cauchy-Schwarz) 
+NPTEL: Applied Linear Algebra ): 
+https://onlinecourses.nptel.ac.in/noc22_ee02/preview 
+3. Matrix Theory (eigenvalues, Cayley-Hamilton, diagonalization, factorization) 
+NPTEL: Matrix Theory (IIT, Prof. Vittal Rao) 
+https://archive.nptel.ac.in/courses/111/108/111108157/ 
+4. Calculus (gradient, directional derivatives, Jacobian/Hessian, convexity) 
+Coursera: Mathematics for Machine Learning: Multivariate Calculus (Imperial College London) 
+https://www.coursera.org/learn/multivariate-calculus-machine-learning 
+5. Optimization (Newton, quasi-Newton, gradient descent, Lagrange, KKT, Simplex, penalty/duality) 
+NPTEL: Optimization Algorithms: Theory and Software Implementation : 
+https://www.classcentral.com/course/swayam-optimization-algorithms-theory-and-software-
+implementation-379913 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPEN ELECTIVE 
+
+ 
+ 
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: III 
+Course: Product Life Cycle Management (DJS23XOE211) 
+ 
+Pre-requisite: 
+1. Basic Management knowledge 
+ 
+Objectives: 
+1. To familiarize the students with the need, benefits and components of PLM. 
+2. To acquaint students with Product Data Management & PLM strategies. 
+3. To give insights into new product development program and guidelines for designing and 
+developing a product. 
+4. To familiarize the students with Virtual Product Development. 
+5. To acquaint students with the need of Environmental aspects in PLM & its implementation. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Gain knowledge about phases of PLM, PLM strategies and methodology for PLM feasibility study 
+and PDM implementation. 
+2. Illustrate various approaches and techniques for designing and developing products. 
+3. Acquire knowledge in applying virtual product development tools. 
+4. Acquire knowledge in implementation of Environmental aspects in PLM. 
+ 
+Product Life Cycle Management (DJS23XOE211) 
+Unit Description Duration 
+1 Introduction to Product Lifecycle Management (PLM): 
+Product Lifecycle management (PLM), Need for PLM, Product Lifecycle 
+Phases, Opportunities of Globalization, Pre -PLM Environment, PLM 
+Paradigm, Importance & Benefits of PLM, Widespread Impact of PLM, 
+Focus and Application, A PLM Project, Starting the PLM In itiative, PLM 
+Applications. 
+PLM Strategies: Industrial strategies, Strategy elements, its identification, 
+selection and implementation, Developing PLM Vision and PLM Strategy, 
+Change management for PLM. 
+08 
+2 Product Design and Development: 
+Product Design and Development Process, Engineering Design, 
+Organization and Decomposition in Product Design, Typologies of Design 
+Process Models, Reference Model, Product Design in the Context of the 
+Product Development Process, Relation with the Development Process 
+Planning Phase, Relation with the Post design Planning Phase. 
+08 
+3. Methodological Evolution of Product Design: 
+Concurrent Engineering, Characteristic Features of Concurrent Engineering, 
+Concurrent Engineering, Life Cycle Approach, Characteristic Features of 
+Life Cycle Approach. 
+10 
+
+ 
+ The Design for X System, Objective Properties and Design for X Tools, 
+Choice of Design for X Tools and Their Use in the Design Process. 
+New Product Development (NPD) and Strategies, Product Configuration and 
+Variant Management. 
+Integration of Environmental Aspects in Product Design: 
+Sustainable Development Design for Environment, Need for Life Cycle 
+Environmental Strategies, Useful Life Extension Strategies, End -of-Life 
+Strategies, Introduction of Environmental Strategies into the Design Process, 
+Life Cycle Environmental Strategies and Considerations for Product Design, 
+Tools and techniques for integrated design, Implementation of international 
+standards. 
+ 
+4 Product Data Management (PDM): 
+Product and Product Data, PDM systems and importance, Components of 
+PDM, Reason for implementing a PDM system, financial justification of 
+PDM, barriers to PDM implementation. 
+Virtual Product Development Tools: 
+For components, machines, and manufacturing plants, 3D CAD systems and 
+realistic rendering techniques, Digital mock -up, Model building, Model 
+analysis, Modelling and simulations in Product Design, Examples/Case 
+studies. 
+08 
+5 Engineering Methods for product Duration design & evaluation: 
+Durability of Products and Components, Design for Fatigue, Infinite Life 
+Approach, Design for Finite Life. 
+Product Recovery Planning & Analysis: 
+Approach to the Recovery Problem, Method for Recovery Cycles Planning, 
+Calculation Models for Recovery Cycles Planning, Basic procedure, 
+Determinant Factors for Recovery, Effective Component Reusability, 
+Recovery Fractions, Extension of Useful Life. 
+08 
+ Total 42 
+ 
+Books Recommended: 
+ 
+Textbooks: 
+1. John Stark, — Product Lifecycle Management: Paradigm for 21st Century Product Realisation‖, 
+Springer-Verlag, 2004. ISBN: 1852338105 
+2. Fabio Giudice, Guido La Rosa, Antonino Risitano, — Product Design for the environment-A life cycle 
+approach‖, Taylor & Francis 2006, ISBN: 0849327229 
+
+ 
+Reference Books: 
+1. Saaksvuori Antti, Immonen Anselmie, — Product Life Cycle Management‖, Springer, Dreamtech, 
+ISBN: 3540257314 
+2. Michael Grieve, — Product Lifecycle Management: Driving the next generation of lean thinking‖, Tata 
+McGraw Hill, 2006, ISBN: 0070636265 
+3. François Villeneuve, Luc Mathieu, Max Giordano —Product Life-Cycle Management: Geometric 
+Variations. (2010). United Kingdom: Wiley. 
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks. 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks. 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks 
+Total summing up to 40 marks. 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but with internal 
+choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ Program: Open Elective for all Programs S.Y B.Tech. Semester: III 
+Course: Management Information System (DJS23XOE212) 
+ 
+Pre-requisite: 
+Nil 
+Objectives: 
+1. The course is blend of management and technical field. 
+2. Discuss the roles played by information technology in today’s business and define various 
+technology architectures on which information systems are built. 
+3. Define and analyze typical functional information systems and identify how they meet the needs of 
+the firm to deliver efficiency and competitive advantage. 
+4. Identify the basic steps in systems development. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Explain the fundamental concepts of the management information systems used in 
+business. 
+2. Describe IT infrastructure and its components and its current trends. 
+3. Use the tools and technologies for accessing information from databases to improve 
+business performance and decision making 
+4. Identify and explain the security and ethical challenges in MIS along with the measures to 
+be taken 
+5. Select a suitable social computing platform for the given requirements that integrates AI 
+and IoT. 
+6. Explain the processes involved in the information system within the organization 
+includes information acquisition and enterprise and global management technologies. 
+ 
+Management Information Systems (DJS23XOE212) 
+Unit Description Duration 
+1 Foundation Concepts 
+ Definition and scope of Management Information Systems 
+(MIS) in business, 
+ Functional area information system, 
+ The components of information systems, 
+ Impact of IT on organizations and society, 
+ Business Process – BPR and BPI. 
+ Business Pressure, Organizational responses. 
+ Competitive Advantage and Strategic IS’s. 
+04 
+2 Information Technology Infrastructure 
+ Overview of IT infrastructure, 
+ Hardware and software, 
+ Computer systems: End user and enterprise, 
+ Computing computer peripherals: Input, output, and storage 
+technologies, 
+ Application software: End user applications, 
+ System software: Computer system management, 
+07 
+
+ 
+  Data resource management: Technical foundations of database 
+management, Managing data resources, Big data, Data 
+warehouse and data marts, Knowledge management, 
+ Networks: The networked enterprise (wired and wireless), 
+Pervasive computing, Cloud computing models, 
+ 
+3 MIS Tools and applications for Decision making 
+ ERP and ERP support of business 
+ Business intelligence (BI): Managers and Decision Making. 
+ Decision Support System (DSS): types, components, Data 
+mining. 
+ Executive information system. 
+ Role of AI in decision making. 
+ Role of predictive analytics and data visualization in business 
+10 
+4 Security and Ethical Challenges 
+ Information security fundamentals 
+ Key principles of information security 
+ Common threats and vulnerabilities in MIS 
+ Security measures and controls 
+ Access control mechanisms: authentication, authorization, and 
+accounting (AAA) 
+ Encryption techniques and cryptographic protocols 
+ Ethical, and societal challenges of IT 
+ Legal and regulatory framework 
+ Privacy Policies 
+08 
+5 Social Computing (SC) 
+ Web 2.0 and 3.0: static and dynamic platform, integration with 
+AI and IoT 
+ SC in business-shopping: leveraging social media platforms, 
+Social listening and sentiment analysis 
+ Social computing in Customer Relationship Management 
+(CRM) 
+ Marketing, operational and analytic CRM 
+ E-business and E-commerce – B2B B2C, E-commerce 
+platforms and payment gateways 
+ Mobile commerce: growth trends, mobile wallets, contactless 
+payments, shopping apps and platforms 
+07 
+6 Information System within Organization 
+ Acquiring Information Systems and Applications: Various 
+System development life cycle models 
+ Enterprise and Global Management of Information 
+Technology: Managing Information Technology, Managing 
+Global IT 
+ Business processes and information systems 
+06 
+ Total 42 
+
+ 
+Books Recommended: 
+Textbooks: 
+1. A. K. Gupta, “Management Information System”, S. Chand Limited, 2010. 
+2. K. K. Ghosh, Saini Das, and S. Mukherjee, “Management Information System”, 
+Management, IIT, Kharagpur, 2021. 
+ 
+Reference Books: 
+1. J. A. O’Brien, G. Marakas, “Management Information Systems”, McGraw-Hill Companies, 
+Incorporated, 2006. 
+2. K. Rainer, B. Prince, “Management Information Systems”, Wiley, 2016. 
+ 
+Web References 
+ Management Information System 
+(https://nptel.ac.in/courses/110105148) 
+ Management Information System (https://archive.nptel.ac.in/courses/110/105/110105148/) 
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks Total summing 
+up to 40 marks 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but with internal 
+choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ Program: Open Elective for all Programs S.Y B. Tech. Semester: III 
+Course: Operations Research (DJS23XOE213) 
+ 
+Pre-requisite: Knowledge of 
+1. Mathematics. 
+2. Probability 
+ 
+Objectives: 
+1. Formulate a real-world problem as a linear programming problem and able to solve. 
+2. Understand the optimisation tools that are needed to solve linear programming problems. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Formulate the real-world optimisation problem into a Linear Programming Problem (LPP) and 
+analyse the solution obtained using LPP optimisation models. 
+2. Solve Linear Programming Problems using transportation and assignment models. 
+3. Apply Decision Theory to determine the optimal course of action when a number of alternatives are 
+available, and their consequences cannot be forecast with certainty and uncertainty. 
+4. Apply Game Theory for decision making under conflicting situations where there are one or more 
+opponents (players). 
+5. To breaking down a large problem into smaller sub problems and solved recursively or iteratively 
+using Dynamic Programming models. 
+ 
+Operation Research (DJS23XOE213) 
+Unit Description Duration 
+1 Introduction to Operations Research: 
+Introduction, Structure of the Mathematical Model, Limitations of 
+Operations Research. 
+ 
+Linear Programming: 
+Introduction, Linear Programming Problem, Requirements of LPP, 
+Mathematical Formulation of LPP, Graphical method, Simplex 
+Method, Penalty Cost Method or Big M-method, Two Phase Method. 
+12 
+2 Transportation Problem: 
+Formulation, solution, unbalanced Transportation problem. Finding 
+basic feasible solutions – Northwest corner rule, least cost method and 
+Vogel’s approximation method. Optimality test: MODI method. 
+ 
+Assignment Problem: 
+Introduction, Mathematical Formulation of the Problem, Hungarian 
+Method Algorithm, Processing of n Jobs Through Two Machines and 
+m Machines, Graphical Method of Two Jobs m Machines Problem 
+Routing Problem 
+10 
+3 Decision Theory: 07 
+
+ 
+ Steps in Decision Theory approach, Decision -making Environment, 
+Decision making under condition of certainty, Decision making under 
+condition of uncertainty, Decision making under condition of risk, 
+Maximum likelihood criterion. 
+ 
+4 Game Theory: 
+Competitive games, rectangular game, saddle point, 
+minimax/maximin method of optimal strategies, value of the game. 
+Solution of games with saddle points, dominance principle. 
+Rectangular games without saddle point – mixed strategy for 2 X 2 
+games. 
+07 
+5 Dynamic programming: 
+Characteristics of dynamic programming. Dynamic programming 
+approach for Priority Management employment smoothening, capital 
+budgeting, Stagecoach/Shortest Path, cargo loading and Reliability 
+problems. 
+06 
+ Total 42 
+ 
+Books Recommended: 
+ 
+Textbooks: 
+1. Operations Research - An Introduction: Taha, H. A., Pearson Education, 2022. 
+2. Operations Research, Gupta, P. K. and Hira, D. S., S. Chand Publications, 2014. 
+ 
+ 
+Reference Books: 
+1. Operations Research: Introduction to Models and Methods, Boucherie, R. J., Tijms, H. and 
+Braaksma, A., 2021. 
+2. Introduction to Operations Research: Hiller, F. S. and Liebermann, G. J., McGraw-Hill Higher 
+Education, 2010. 
+3. Operations Research: Principles and Practice: Ravindran, A., Phillips, D. T. and Solberg, J. J., Wiley 
+India Pvt. Limited, 2009. 
+
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks 
+Total summing up to 40 marks. 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but with internal 
+choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: III 
+Course: Personal Finance Management (DJS23XOE214) 
+ 
+Pre-requisite: 
+1. Nil 
+ 
+Objectives: 
+1. To create awareness and educate consumers on access to financial services. 
+2. To make the students understand the basic concepts, definitions and terms related to direct taxation. 
+3. To help the students compute the Goods and Service Tax (GST) payable by a supplier after 
+considering the eligible input tax credit. 
+4. To familiarize the students with microfinance for accelerating the expansion of local 
+microbusinesses. 
+ 
+Outcomes: On completion of the course, learner will be able to: 
+1. Understand the Indian financial system. 
+2. Use a framework for financial planning to understand the overall role finances play in his/her 
+personal life. 
+3. Compute income from salaries, house property, business/profession, capital gains and income from 
+other sources. 
+4. Compute the amount of CGST, SGST and IGST payable after considering the eligible input tax 
+credit. 
+5. Understand how Microfinance can help in financial inclusion. 
+ 
+Personal Finance Management (DJS23XOE214) 
+Unit Description Duration 
+1 Overview of Indian Financial System: Characteristics, 
+Components and Functions of Financial System. Financial 
+Instruments and Financial Markets, Financial inclusion. 
+Introduction to Personal Finance 
+Personal Financial Planning in Action, Money Management Skills, 
+Taxes in Your Financial Plan, Savings and Payment Services. 
+Consumer Credit: Advantages, Disadvantages, Sources and Costs. 
+08 
+2 Personal Financial Management 
+Loans: Home, Car, Education, Personal, Loan against property and 
+Jewel loan. 
+Insurance: Types of Insurance – ULIP and Term; Health and 
+Disability Income 
+Insurance, Life Insurance. 
+Investment: Investing Basics and Evaluating Bonds, Investing in 
+Stocks and Investing in Mutual Funds, Planning. 
+08 
+3 Income Tax 
+Income Tax Act Basics- Introduction to Income Tax Act, 1961 
+09 
+
+ 
+ 
+ Heads of Income and Computation of Total Income and Tax 
+Liability- Heads of Income and Computation of Total Income under 
+various heads, Clubbing Provisions, Set off and carry forward of 
+Losses, Deductions, Assessment of Income and tax 
+liability of different persons. 
+Tax Management, Administrative Procedures and ICDS - TDS, 
+TCS and Advance Tax Administrative Procedures, ICDS. 
+4 Goods and Services Tax 09 
+ GST Constitutional framework of Indirect Taxes before GST 
+ (Taxation Powers of Union & State Government); Concept of VAT: 
+ Meaning, Variants and Methods; Major Defects in the structure of 
+ Indirect Taxes prior to GST; Rationale for GST; Structure of GST 
+ (SGST, CGST, UTGST & IGST); GST Council, GST Network, State 
+ Compensation Mechanism, Registration. 
+ Levy and Collection of GST 
+ Taxable event- "Supply" of Goods and Services; Place of Supply: 
+ Within state, Interstate, Import and Export; Time of supply: 
+ Valuation for GST- Valuation rules, taxability of reimbursement of 
+ expenses; Exemption from GST: Small supplies and Composition 
+ Scheme: Classification of Goods and Services 
+5 Introduction to Micro – finance 08 
+ Micro-Finance: Definitions, Scope & Assumptions, Types of 
+ Microfinances, Customers of Micro-finance, Credit Delivery 
+ Methodologies, SHG concept, origin, Formation & Operation of 
+ Self-Help Groups (SHGs). 
+ Models in Microfinance - Joint Liability Groups (JLG), SHG Bank 
+ Linkage Model and GRAMEEN Model: Achievements & 
+ Challenges. 
+ Institutional Mechanism 
+ Current Challenges for Microfinance, Microfinance Institutions 
+ (MFIs): Constraints & Governance Issues, Institutional Structure of 
+ Microfinance in India: NGO-MFIs, NBFC-MFIs, Co-operatives, 
+ Banks, Microfinance Networks and Associations; Demand & Supply 
+ of Microfinance Services in India, Impact assessment and social 
+ assessments of MFIs 
+ Total 42 
+
+ 
+Books Recommended: 
+ 
+Textbooks: 
+1. Banking and Financial Sector Reforms in India, by Asha Singh, M.S. Gupta, Serials Publication. 
+2. Indian Banking Sector: Essays and Issues (1st) , by M.S. Gupta & J.B. Singh, Serials Publication. 
+3. Basics Of Banking & Finance, by K.M. Bhattacharya O.P. Agarwal, Himalaya Publishing House. 
+4. Agricultural Finance and Management, by S. Subba Reddy, P. Raghu Ram. 
+5. The Indian Financial System and Development, by Dr.Vasant Desai, Himalaya Publishing House; 
+Fourth Edition. 
+6. Income Tax Management, Simple Way of Tax Management, Tax Planning and Tax Saving, By 
+Sanjay Kumar Satapathy. 
+7. Direct Tax System Income Tax by Dr. R. K. Jain, SBPD Publications. 
+8. Simplified Approach to GST Goods and Services Tax, By S K Mishra, Educreation Publishing. 
+9. Introduction To Microfinance, By Todd A Watkins, World Scientific Publishing Company 
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Will consist of following three components: 
+1) Term Test 1 (based on 40 % syllabus) – 15 marks 
+2) Term Test 2 (on next 40 % syllabus) – 15 marks 
+3) Assignment / course project / group discussion / presentation / quiz – 10 marks 
+Total summing up to 40 marks. 
+Semester End Examination (B): 
+Theory: 
+Question paper based on the entire syllabus will comprise of 4 questions (All compulsory, but with internal 
+choice as appropriate), each carrying 15 marks, total summing up to 60 marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ Program: Open Elective for all Programs S.Y B.Tech. Semester: III 
+Course: Public Systems and Policies (DJS23XOE215) 
+ 
+Pre-requisite: 
+Basic Knowledge of Social science and Current affairs 
+ 
+Objectives: 
+1. To explain public policy and its operations with special focus on policy relating to Government 
+finance. 
+2. To analyze and evaluate the impact of public policy on firms and the economy at large. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Understand the importance of public systems in a fast-changing environment in the global context. 
+2. Analyse the transformations in public systems with emphasis on current initiatives and emerging 
+challenges in the field. 
+3. Explain public policy and its operations with special focus on policy relating to Government finance. 
+4. Make policies and know about the happenings in the world, in the nation and those in their locality. 
+5. Analyze and evaluate the impact of public policy on firms and the economy at large and work under 
+various fields as policymakers. 
+ 
+Public Systems and Policies (DJS23XOE215) 
+Unit Description Duration 
+1 Introduction and Overview of Public Systems: 
+Ideology of Public Systems; Mechanistic and Organic view of Society and 
+Individuals, The Legal Framework; Federal Government; State and Local 
+Governments, Government growth; The size of Government. 
+10 
+2 Public Sector in the Economics Accounts: 
+Public Sector in the circular flow; Public Sector in the National Income Accounts. 
+07 
+3 Public Choice and Fiscal Politics: 
+Direct Democracy; Representative Democracy; The Allocation Function; The 
+Distribution Function; The Stabilization Function; Coordination of Budget 
+Functions; The Leviathan Hypothesis. 
+08 
+4 Introduction and Overview of Public Policy: 
+Markets and Government; Social goods and Market failure, public expenditure 
+and its evaluation; Cost Benefit Analysis, Public policy and Externalities, 
+Taxation Policy and its impact, Income distribution, redistribution and social 
+Security issues Fiscal & Budgetary Policy, Fiscal Federalism in India. 
+10 
+5 Case Studies in Expenditure Policy: Public Services 
+A) National Defense B) Highways C) Outdoor Recreation D) Education 
+07 
+ Total 42 
+
+ 
+Books Recommended: 
+ 
+Reference Books: 
+1. Charles J, Wheelan, “Introduction to Public Policy”, W.W. Norton & Company, New York, 2011. 
+2. Thomas R, Dye, “Understanding Public Policy”, Prentice Hall, 2008. 
+3. Anderson, James E, “Public Policy-Making: An Introduction”, Boston, 2011. 
+4. Avasthi & Maheshwari, “Public Administration”, Lakshmi Narain Agarwal, 2008. 
+5. Mohit Bhattacharya, “New Horizons of Public Administration”, Jawahar Publishers, New Delhi, 
+2011 
+6. Nicholas Henry, “Public Administration and Public Affairs”, Prentice Hall of India, New Delhi, 
+2017. 
+7. Harvey S Rosen and Ted Gayer, “Public Finance” 10th Edition, McGraw-Hill Education, 2013. 
+8. Richard A Musgrave and Peggy B Musgrave, “Public Finance in Theory and Practice”, 5th Edition, 
+Mcgraw Hill Book, 2017. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: III 
+Course: Fundamentals of Biomedical Instruments (DJS23XOE216) 
+ 
+Pre-requisite: 
+1. Basic knowledge of Human Anatomy 
+2. Basic knowledge of Electronics 
+ 
+Objectives: 
+1. To understand the basic principles and working of various medical instruments. 
+2. To familiarize the learners with the various medical imaging modalities, their operating principles, 
+instrumentation and clinical applications. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Associate & describe the different physiological processes taking place within the human body. 
+2. Identify the use of biomaterials and apply principles of various transducers & sensors. 
+3. Demonstrate the working principle of various medical instruments. 
+4. Demonstrate principles used in imaging modalities and analysis. 
+5. Identify different processes used in telemetry and telemedicine. 
+ 
+ 
+Fundamentals of Biomedical Instruments (DJS23XOE216) 
+Unit Description Duration 
+1 Basic Human Physiology 
+ Cell: Electrical activity of excitable cells (Structure and functions of 
+cell. Polarization and depolarization of cell) 
+ Cardiovascular System: Heart, Conductive tissues of heart, Cardiac 
+cycle, Heart Valves, System and Pulmonary Circulation, Transmission 
+of Cardiac Impulse, Blood Pressure, ECG (Einthoven’s Triangle, 
+Various leads and Waveforms). 
+ Muscle Physiology: Muscle physiology and aspects of skin resistance. 
+Generation of EMG 
+ Nervous System: Different parts, their functions. Reflex actions and 
+reflex arc, Function of Sympathetic and Parasympathetic nervous 
+system. Generation of EEG 
+ 
+ 
+ 
+ 
+ 
+ 
+06 
+2 Biomaterial, Transducers and Sensors: 
+ Biomaterials used in fabrication of Biodevices and implants : 
+Polymeric, Composite biomaterials, Metallic biomaterials, and Ceramic 
+biomaterials. 
+ Biopotential electrodes: Electrode tissue interface, Electrode electrolyte 
+interface Electrodes used for ECG, EEG & EMG. 
+ Transducers & sensors: temperature transducer, pulse sensor, glucose 
+sensor, respiration sensor 
+ Introduction of biomaterials, Classification of biomaterials 
+ 
+ 
+ 
+ 
+10 
+3 Overview of Medical Instruments 
+ Classification, application and specifications of diagnostic, 
+therapeutic and clinical laboratory equipment 
+ 
+08 
+
+ 
+ 
+ 
+ 
+ 
+  Method of operation of these Bio Medical Instruments 
+ ECG , EEG,EMG 
+ 
+4 Imaging Modalities and Analysis: 
+ Radio graphic techniques, Computer Tomography, 
+ MRI, PET, SPECT 
+ Ultrasonography 
+ Endoscopy 
+ Thermography, Retinal Imaging 
+ Imaging application in Biometric systems 
+ Analysis of digital images 
+ 
+ 
+ 
+ 
+10 
+5 Telemetry & Telemedicine: 
+ Introduction to Biotelemetry 
+ Physiological parameters compliant to biotelemetry 
+ Components of Biotelemetry system 
+ Applications of telemetry in medical field (ECG, EEG & EMG) 
+ 
+ 
+08 
+ Total 42 
+ 
+Books Recommended: 
+ 
+Textbooks: 
+1. Leslie Cromwell, Biomedical Instrumentation and Measurement, Prentice hall of India, New Delhi,2007. 
+2. M.Arumugam, ‘Bio-Medical Instrumentation’, Anuradha Agencies, 2003. 
+3. Khandpur R.S, Handbook of Biomedical Instrumentation, Tata McGraw-Hill, New Delhi, 2 Edition, 2003. 
+4. John G. Webster, Medical Instrumentation Application and Design, John Wiley and sons, NewYork, 1998. 
+5. Biomaterials Science - An Introduction to Materials in Medicine. B.D. Ratner, A.S. Hoffmann, F. J. 
+Schoen, J. E. Lemons, Academic Press, 1997. 
+ 
+Reference Books: 
+1. Electronic Measurement and Instrumentation by Dr Rajendra Prasad 
+2. Ed. Joseph D. Bronzino, The Biomedical Engineering Hand Book, Third Edition, Boca Raton, CRC Press 
+LLC, 2006. 
+3. Curry, T. S., Dowdey, J. E., & Murry, R. C. (1990). Christensen's physics of diagnostic radiology. 
+Lippincott Williams & Wilkins. 
+4. Biomaterials: An Introduction, Joon Park, R. S. Lakes, Springer Science & Business Media 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: III 
+Course: IPR and Patenting (DJS23XOE217) 
+Pre-requisite: 
+ NIL 
+ 
+Objectives: 
+1. To promote the knowledge of intellectual property laws of India and international treaties. 
+2. To encourage innovation. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Map a given project/ idea to a suitable intellectual property rights. 
+2. Explain the fundamentals of the patents, copyrights, and design registrations. 
+3. Draft applications to protect various intellectual property rights. 
+4. Communicate with national and/or international intellectual property organisations. 
+IPR and Patenting (DJS23XOE217) 
+Unit Description Duration 
+1 Introduction to Intellectual Property Rights (IPR): 
+ Concept & meaning of IP and IPR. 
+ General principles of intellectual property rights. 
+ Need for intellectual property. 
+ Categories of IPR instruments - Patents, Trademarks, Copyrights, 
+Industrial. Designs, Plant variety protection, Trade secrets, Geographical 
+Indications etc. 
+ Ownership, assignment, licenses, infringement, validity period. 
+ International treaties on IPR. 
+ 
+ 
+ 
+ 
+06 
+2 Copyright and Design 
+ The Indian Copyright Act, 1957. 
+ Meaning of copyrights and rights of copyrighted works. 
+ Types of copyright. 
+ Process of filing a copyright application. 
+ Introduction to Designs Law – Definitions. 
+ Registration of designs and procedure. 
+ 
+ 
+ 
+09 
+3 Basics of Patents 
+ The Indian Patent Act and The Indian Patent Rules. 
+ Conditions of patentability. 
+ Patentable and non-patentable inventions. 
+ Types of patent applications and patent specification. 
+ Inventors and Applicants. 
+ Category of applicants - natural person, small entity, startup and others. 
+ Patent databases and patent search. 
+ International Patent Classification code. 
+ 
+ 
+ 
+ 
+09 
+
+ 
+ 
+ 
+ 
+ 
+4 Patent Application Drafting 
+ Patent application drafting: 
+o Application. 
+o Specification. 
+o Claims drafting: 
+ Independent and dependent claims drafting. 
+ Process patent and product patent claims. 
+o Abstract. 
+o Drawings. 
+o Declaration as to inventorship. 
+o Statement and undertaking. 
+ Drafting response to communications from patent office. 
+o Reading and understanding examination reports. 
+o Drafting response. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+09 
+5 Procedure for Filing a Patent Application, Timelines and Fees 
+ Application for grant of patent. 
+ Forms and Fees. 
+ Request for (early) publication and / or (early) examination. 
+ Patent examination and hearing. 
+ Pre-grant and post-grant opposition. 
+ 
+ 
+ 
+09 
+ Total 42 
+ 
+Books Recommended: 
+ 
+Textbooks: 
+1. A Durafe and D Toradmalle, “Intellectual Property Rights”, Wiley, 2020. 
+2. H Rockman, “Intellectual property law for engineers, scientists, and entrepreneurs”, Wiley-IEEE Press, 
+2020. 
+ 
+Reference Books: 
+1. Bare Act, “The Patents Act, 1970 with The Patents Rules, 2003”, Universal, 2023. 
+2. Bare Act, “The Copyright Act, 1957”, Universal and LexisNexis, 2021. 
+3. Bare Act, “The Designs ACT, 2000”, Commercial Law Publishers (India) Pvt. Ltd. 2021 
+ 
+Web Resources: 
+1. W. Fisher, “Maps of Intellectual Property” https://cyber.harvard.edu/people/tfisher/IP/IPMaps.htm 
+2. World Intellectual Property Organisation courses https://www.wipo.int/academy/en/ 
+3. Prof. Feroz Ali, “Patent Drafting for Beginners”, 
+https://onlinecourses.nptel.ac.in/noc24_hs59/preview/ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+Program: Open Elective for all Programs S.Y B.Tech. Semester: III 
+Course: Entrepreneurship and Startup Ecosystem (DJS23XOE218) 
+ 
+Pre-requisite: 
+Nil 
+ 
+Objectives: 
+1. To foster an entrepreneurial mindset. 
+2. To guide participants in building effective Business Models. 
+3. To educate participants regarding Intellectual property and Fundraising for Innovative Ventures. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Effectively Navigate the Global Startup Landscape: 
+2. Cultivate an Entrepreneurial Mindset. 
+3. Create Effective Business Models. 
+4. Understand the significance of Intellectual Property rights. 
+5. Master Fundraising Strategies 
+ 
+Entrepreneurship and Start-up Ecosystem (DJS23XOE218) 
+Unit Description Duration 
+1 Understanding the Entrepreneurial Ecosystem 
+ Introduction to Entrepreneurship and Startups 
+ Role of Entrepreneurship in economy 
+ Global and Local Entrepreneurial Landscapes 
+ Role of Incubators and Accelerators 
+ Case Studies of Successful Startups 
+8 
+2 Developing a Startup Mindset 
+ Cultivating an Entrepreneurial Mindset 
+ Market Analysis and Segmentation 
+ Opportunity Recognition 
+ Innovation and Idea Generation 
+ Feasibility Analysis of Business Ideas 
+ Role of innovation in Entrepreneurship 
+ Fostering creativity 
+ Practical Exercises and Workshops on Creative Problem Solving 
+8 
+3 Business Model Development 
+ Introduction to Business Models 
+ Lean Startup Methodology 
+ Prototyping and Minimum Viable Product (MVP) 
+ Financial Projections and Budgeting 
+ Various forms of Business Ownership 
+ Compliance and Legal Regulations 
+ Operations and Supply Chain Management 
+ Human Resource Management 
+10 
+
+ 
+ 
+  Developing a marketing Strategy 
+ Managing Growth Challenges 
+ 
+4 Technological Innovation and Intellectual Property 
+ Technology and Entrepreneurship 
+ Intellectual Property Basics (Patents, Trademarks, Copyrights) 
+ Patent Search and Analysis 
+ Strategies for Protecting Intellectual Property 
+ Ethical Considerations in Technology and Innovation 
+8 
+5 Fundraising and Investment Strategies 
+ Fundraising Options for Startups 
+ Angel Investors and Venture Capital 
+ Crowdfunding Platforms 
+ Financial Modelling for Startups 
+ Crafting an Effective Pitch 
+8 
+ 42 
+ 
+Students shall complete five module-wise assignments or may opt for a relevant MOOC courses 
+instead. 
+The faculty will decide whether Term Test 2 will be conducted or replaced with a presentation on a 
+Start-up Idea. 
+ 
+Books Recommended: 
+1. Alexander Osterwalder and Yves Pigneur, Business Model Generation: A Handbook for 
+Visionaries, Game Changers, and Challengers, John Wiley & Sons, Jul2010. 
+2. Peter Thiel and Blake Masters, Zero to One: Notes on Startups, or How to Build the Future, 
+Virgin Books, 2015. 
+3. Alejandro Cremades, The Art of Startup Fundraising: Pitching Investors, Negotiating the 
+Deal, and Everything Else Entrepreneurs Need to Know" by, John Wiley & Sons, Inc., 
+Hoboken, New Jersey, 2016. 
+4. Christensen, Clayton M. The Innovator's Dilemma: When New Technologies Cause Great 
+Firms to Fail. Boston, MA: Harvard Business School Press, 1997. 
+5. Brad Feld and Jason Mendelson, Venture Deals: B e Smarter Than Your Lawyer and 
+Venture Capitalist, Wiley; 4th edition, 1 October 2019. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENTREPRENEURSHIP / 
+ECONOMICS / MANAGEMENT 
+COURSES 
+
+ 
+ 
+Program: Common to all Programs (Group A / B) S.Y B.Tech. Semester: III & IV 
+Course: Design Thinking Laboratory (DJS23XHS231L) 
+ 
+Pre-requisite: 
+1. Basic understanding with the development life cycle of products, processes, software, or 
+services. 
+2. Basic knowledge of iterative frameworks (not mandatory). 
+ 
+Objectives: 
+1. To introduce students to the fundamentals, history, and importance of design thinking and 
+its role in solving complex, real-world problems. 
+2. To develop students' empathy and user-research skills by teaching them how to gather 
+insights, create personas, and map user journeys. 
+3. To equip students with the skills to define and reframe problem statements effectively, 
+identifying opportunity areas and stakeholder touchpoints. 
+4. To foster creative ideation, prototyping, and testing skills through hands-on exercises that 
+incorporate strategic innovation and rapid prototyping techniques. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Understand and apply the design thinking process to analyze and solve real-world problems. 
+2. Develop the ability to empathize with users, create user personas, and design empathy and 
+journey maps tailored to specific challenges. 
+3. Demonstrate proficiency in defining clear and actionable problem statements that uncover 
+areas of opportunity. 
+4. Generate diverse ideas using ideation techniques, such as brainstorming and SCAMPER, to 
+approach problem-solving creatively and collaboratively. 
+5. Create and test prototypes, iterating based on feedback and validating solutions through 
+digital platforms and peer review. 
+ 
+Design Thinking Laboratory (DJS23XHS231L) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+1 
+Introduction to Design Thinking 
+ Understanding the fundamentals of design thinking. 
+ Exploring the history and evolution of design thinking. 
+ The importance of empathy in the design thinking process. 
+ Conduct market & industry research by observing and contextualizing 
+various macro & micro trends. 
+ Case Study - conduct their own research on how Design Thinking helped 
+solve some of the biggest and critical problems of our time. 
+ 
+ 
+ 
+ 
+08 
+2 Empathize Phase 
+ Techniques for conducting user research and gathering insights. 05 
+
+ 
+  Creating user personas and empathy maps. 
+ Practicing active listening and observation skills. 
+ To apply various empathizing techniques on the problem statement selected. 
+ Use walk-a-mile immersion and heuristic reviews to first empathize with end 
+users and then to build empathy map and customer journey map. 
+ 
+ 
+ 
+ 
+ 
+3 
+Define Phase 
+ Defining problem statements and reframing challenges. 
+ Tools for synthesizing research findings. 
+ Developing a clear and actionable problem statement. 
+ Start building from Persona map and conduct interviews/ Gemba walk to plot 
+user’s journeys from start to end. 
+ Define the problem space using HMW statement. Now highlight areas of 
+opportunities in the journey map and enlist potential channels/touchpoints as 
+well as stakeholders for proposed solution interventions. 
+ 
+ 
+ 
+ 
+05 
+ 
+ 
+ 
+ 
+4 
+Ideate Phase 
+ Generating creative ideas through brainstorming sessions. 
+ Techniques for divergent and convergent thinking. 
+ Prototyping and experimenting with ideas. 
+ Apply suitable ideation technique to quickly generate diverse ideas that could 
+be applied to target problem space – either partially or in full. 
+ Brain Writing – Build on each other’s ideas and constructively & creatively 
+develop better ideas using SCAMPER technique. 
+ 
+ 
+ 
+ 
+04 
+ 
+ 
+ 
+ 
+ 
+5 
+Prototype and Validation 
+ Introduction to prototyping tools and techniques. 
+ Rapid prototyping methods. 
+ Testing prototypes with users and gathering feedback. 
+ Refining solutions based on user insights. 
+ Develop user storyboard to layout solution proposition in visual and easily 
+explainable form. Run a quick peer validation. 
+ peer-validated the storyboard. 
+ Build an interactive digital prototype using any digital rapid prototyping 
+platform and seek user validation. 
+ 
+ 
+ 
+ 
+ 
+06 
+ Total 28 
+ 
+List of Experiments: 
+ Below is a list of assignments / activities / experiments that would be carried out by students as a 
+mini project in groups of size not more than Three students in each group. 
+ Problem statement for these assignments/ activities/ experiments will be provided by facilitator/ 
+instructor/ faculty to the groups/ teams/ batches within each class. 
+ This list of experiment will help students to learn various design thinking methods and practice 
+corresponding tools available. 
+ 
+Exp. Suggested Experiment 
+ 
+1 
+To conduct market and industry research and analyze case studies demonstrating 
+the application of design thinking. 
+(Increased understanding of how design thinking has been applied to solve 
+
+ 
+ critical problems in various contexts.) 
+2 To exercise empathizing techniques to understand the needs and pain points of a 
+target audience. 
+3 Developing empathy maps and customer journey maps based on collected 
+insights. 
+4 To exercise different tools and techniques (such as affinity diagrams, journey 
+mapping, and user story mapping) for synthesizing research findings). 
+5 Develop user personas to represent different user archetypes and their needs 
+concerning the problem at hand. 
+ 
+6 
+To practice SCAMPRE technique, Brainstorming and brain writing as a 
+collaborative ideation technique to create multiple creative ideas / solution for the 
+problem at hand. 
+7 Create a mind map to generate a wide range of solutions to a problem at hand. 
+8 To explore different prototyping tools and platforms, such as Adobe XD, Figma, 
+Sketch, and InVision. 
+ 
+9 
+To Conduct rapid prototyping sessions to build low fidelity / High fidelity 
+prototype based on the ideas generated in Ideation phase and iterate based on 
+feedback received. 
+10 Develop a plan for implementing the final solution, considering factors like 
+scalability and feasibility. 
+ 
+11 
+ Conduct usability testing to gather feedback on prototypes. 
+ Use A/B testing to compare different versions of a solution and determine 
+which performs better. 
+ 
+Note – A minimum of eight experiments from the above -suggested list (experiments 01 to 07) or any 
+other assignment based on the syllabus will be included, which would help the learner to apply the 
+concept. The mini-project is mandatory. 
+Books Recommended 
+Text books: 
+1. I. Mootee, “Design Thinking for Strategic Innovation: What They Can't Teach You at Business or 
+Design School” Wiley, 2013. 
+2. M. Lewrick, P. Link, and L. Leifer, “The Design Thinking Playbook: Mindful Digital Transformation 
+of Teams, Products, Services, Businesses and Ecosystems” Wiley, 2018. 
+3. T. Lockwood, “Design Thinking: Integrating Innovation, Customer Experience, and Brand Value”, 
+Allworth Press, 2010. 
+4. K. T. Ulrich and S. D. Eppinger, “Product Design and Development”, McGraw-Hill Hill Education, 6th 
+Edition, 2016. 
+5. C. J. Meadows and C. Parikh, “The Design Thinking Workbook: Essential Skills for Creativity and 
+Business Growth”, Emerald Publishing, 2022. 
+Reference books: 
+1. T. Kelley and D. Kelley, “Creative Confidence: Unleashing the Creative Potential Within Us All”, 
+HarperCollins Publisher, 2013. 
+2. T. Brown, “Change by Design: How Design Thinking Transforms Organizations and Inspires 
+Innovation”, HarperCollins, 2013. 
+
+ 
+3. J. Knapp, J. Zeratsky, and B. Kowitz, “Sprint: How to Solve Big Problems and Test New Ideas in Just 
+Five Days”, Simon & Schuster, 2016. 
+4. A. Chakrabarti, “Engineering Design Synthesis: Understanding, Approaches and Tools”, Springer, 
+2002. 
+5. K. Otto, and K. Wood, “Product Design”, Prentice Hall, 2000. 
+ 
+Online Reference: 
+1) Design and Innovation: 
+a) https://openstax.org/books/entrepreneurship/pages/4-suggested-resources 
+2) Overview of Design Thinking : 
+a) https://www.interaction-design.org/literature/topics/design-thinking 
+b) 10 Models for Design Thinking. In 2004, business consultants Hasso… | by Libby Hoffman | 
+Medium 
+c) https://www.tcgen.com/design-
+thinking/#What_is_Design_Thinking_and_How_Does_it_Relate_to_Product_Development 
+3) Understand, observe and define the problem: 
+a) https://www.nngroup.com/articles/empathy-mapping/ 
+b) https://uxdesign.cc/the-purpose-of-a-journey-map-and-how-can-it-galvanize-action-9a628b7ae6e 
+4) Ideation and prototyping: 
+a) https://www.interaction-design.org/literature/topics/prototyping 
+b) https://www.uxmatters.com/mt/archives/2019/01/prototyping-user-experience.php 
+5) Testing and implementation: 
+a) https://www.nngroup.com/articles/usability-testing-101/ 
+b) https://www.interaction-design.org/literature/article/test-your-prototypes-how-to-gather-feedback-
+and-maximise-learning 
+6) Design thinking in various sectors: 
+a) https://www.tutorialspoint.com/design_thinking/design_thinking_quick_guide.htm 
+ 
+Online Courses: NPTEL/ SWAYAM Courses 
+ 
+1. Creative Engineering Design (https://nptel.ac.in/courses/107108010) 
+2. Understanding Creativity and Creative Writing (https://nptel.ac.in/courses/109101017) 
+3. Understanding Design Thinking & People Centred Design 
+(https://nptel.ac.in/courses/109104109) 
+4. Design Thinking - A Primer (https://nptel.ac.in/courses/110106124) 
+5. Product Engineering and Design Thinking (https://nptel.ac.in/courses/112105316) 
+ 
+Evaluation Scheme: 
+Continuous Assessment: 
+Laboratory: (Term work) 
+Term Work shall consist of at least 5 practical’s based on the above list. 
+The distribution of marks for term work shall be as follows: 
+1. Laboratory work (Performance of Experiments, Write-up): 15 Marks 
+2. Mini Project (Report and Presentation): 10 Marks 
+
+ 
+The final certification and acceptance of term work will be subject to satisfactory performance 
+of laboratory work and upon fulfilling minimum passing criteria in the term work. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VALUE EDUCATION COURSE 
+
+ 
+Program: All (SY B.Tech) S.Y B.Tech. Semester: III 
+Course: Universal Human Values (DJS23XHS232) 
+Course: Universal Human Values Tutorial (DJS23XHS232T) 
+ 
+ 
+Objectives: 
+1. To help students distinguish between values and skills, and understand the need, basic guidelines, 
+content and process of value education. 
+2. To help students initiate a process of dialog within themselves to know what they ‘really want to be’ in 
+their life and profession. 
+3. To help students understand the meaning of happiness and prosperity for a human being. 
+4. To facilitate the students to understand harmony at all the levels of human living and live accordingly. 
+5. To facilitate the students in applying the understanding of harmony in existence in their profession and 
+lead an ethical life. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Understand the significance of value inputs in a classroom, distinguish between values and skills, 
+understand the need, basic guidelines, content and process of value education, explore the meaning of 
+happiness and prosperity and do a correct appraisal of the current scenario in the society 
+2. Distinguish between the Self and the Body, understand the meaning of Harmony in the Self the Co -
+existence of Self and Body. 
+3. Understand the value of harmonious relationship based on trust, respect and other naturally acceptable 
+feelings in human-human relationships and explore their role in ensuring a harmonious society 
+4. Understand the harmony in nature and existence and work out their mutually fulfilling participation in 
+the nature. 
+5. Distinguish between ethical and unethical practices and start working out the strategy to actualize a 
+harmonious environment wherever they work. 
+Universal Human Values (DJS23XHS232) 
+Unit Description Duration 
+ 
+ 
+ 
+ 
+ 
+1 
+Course Introduction - Need, Basic Guidelines, Content and Process for 
+Value Education 
+Understanding the need, basic guidelines, content and process for Value 
+Education, Self -Exploration–what is it? - its content and process; ‘Natural 
+Acceptance’ and Experiential Validation- as the mechanism for self-exploration, 
+Continuous Happiness and Prosperity- A look at basic Human Aspirations, Right 
+understanding, Relationship and Physical Facilities - the basic requirements for 
+fulfillment of aspirations of every human being with their correct priority, 
+Understanding Happiness and Prosperity correctly - A critical appraisal of the 
+current scenario, Method to fulfill the above human aspirations: understanding 
+and living in harmony at various levels 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+2 
+Understanding Harmony in the Human Being - Harmony in Myself 
+Understanding human being as a co-existence of the sentient ‘I’ and the material 
+‘Body’, Understanding the needs of Self (‘I’) and ‘Body’. Understanding the 
+Body as an instrument of ‘I’ (I being the doer, seer and enjoyer), Understanding 
+the characteristics and activities of ‘I’ and harmony in ‘I’, Understanding the 
+ 
+ 
+5 
+
+ 
+ harmony of I with the Body; correct appraisal of Physical needs, meaning of 
+Prosperity in detail, Programs to ensure Self-regulation and health. 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Understanding Harmony in the Family and Society- Harmony in Human -
+Human Relationship 
+Understanding harmony in the Family - the basic unit of human interaction, 
+understanding values in human -human relationship; meaning of Justice and 
+program for its fulfillment. Trust and Respect as the foundation al values of 
+relationship, Understanding the meaning of Trust; Difference between intention 
+and competence, Understanding the meaning of Respect, Difference between 
+respect and differentiation; the other salient values in relationship, Understanding 
+the harmony in the society (society being an extension of family). Visualizing a 
+universal harmonious order in society- Undivided Society, Universal Order- from 
+family to world family! 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+4 
+Understanding Harmony in the Nature and Existence - Whole existence as 
+Co-existence Understanding the harmony in the Nature, Interconnectedness and 
+mutual fulfillment among the four orders of nature - recyclability and self -
+regulation in nature. 
+Understanding Existence as Co-existence of mutually interacting units in all- 
+pervasive space, Holistic perception of harmony at all levels of existence 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Implications of the above Holistic Understanding of Harmony on 
+Professional Ethics: Natural acceptance of human values, Definitiveness of 
+Ethical Human Conduct, Basis for Humanistic Education, Humanistic 
+Constitution and Humanistic Universal Order, Competence in Professional 
+Ethics: a) Ability to utilize the professional competence for augmenting universal 
+human order, b) Ability to identify the scope and characteristics of people -
+friendly and eco -friendly production systems, technologies and management 
+models, Case studies of typical holistic technologies, management models and 
+production systems, Strategy for transition from the present sta te to Universal 
+Human Order: a) At the level of individual: as socially and ecologically 
+responsible engineers, technologists and managers, b) At the level of society: as 
+mutually enriching institutions and organizations 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ Total 26 
+ 
+Tutorials: (Term work) 
+Term work shall consist of minimum 5 activities based on activities conducted. 
+The tutorials could be conducted as per the following topics: - 
+Activity No 1 Practice sessions to discuss natural acceptance in human being as the innate 
+acceptance for living with responsibility (living in relationship, harmony, and co- 
+existence) rather than as arbitrariness in choice based on liking-disliking. 
+Activity No 2 Practice sessions to discuss the role others have played in making material goods 
+available to me. Identifying from one’s own life. Differentiate between prosperity 
+and accumulation. Discuss program for ensuring health vs dealing with disease. 
+Activity No 3 Practice sessions to reflect on relationships in family, hostel and institute as 
+extended family, real life examples, teacher-student relationship, goal of 
+education etc. Gratitude as a universal value in relationships. Discuss with 
+
+ 
+ scenarios. Elicit examples from students’ lives. 
+Activity No 4 Practice sessions to discuss human being as cause of imbalance in nature (film 
+“Home” can be used), pollution, depletion of resources and role of technology 
+etc. 
+Activity No 5 Practice Exercises and Case Studies will be taken up in Practice (tutorial) 
+Sessions e.g. To discuss the conduct as an engineer or scientist etc. 
+The final certification and acceptance of term work will be subject to satisfactory performance of activities and 
+upon fulfilling minimum passing criteria in the term work. 
+ 
+Books Recommended: 
+ 
+Textbooks: 
+1. Human Values and Professional Ethics by R R Gaur, R Sangal, G P Bagaria, Excel Books, New Delhi, 
+2010. 
+ 
+Reference Books: 
+1. Jeevan Vidya: Ek Parichaya, A Nagaraj, Jeevan Vidya Prakashan, Amarkantak, 1999. 
+2. Human Values, A.N. Tripathi, New Age Intl. Publishers, New Delhi, 2004. 
+3. The Story of Stuff (Book). 
+4. The Story of My Experiments with Truth - by Mohandas Karamchand Gandhi. 
+5. Small is Beautiful - E. F Schumacher. 6. Slow is Beautiful - Cecile Andrews. 
+6. Economy of Permanence - J C Kumarappa. 
+7. Bharat Mein Angreji Raj – PanditSunderlal. 
+8. Rediscovering India - by Dharampal. 
+9. Hind Swaraj or Indian Home Rule - by Mohandas K. Gandhi. 
+10. India Wins Freedom - Maulana Abdul Kalam Azad. 
+11. Vivekananda - Romain Rolland. (English) 
+12. Gandhi - Romain Rolland. (English) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMMUNITY ENGINEERING 
+PROJECT / FIELD PROJECT 
+
+ 
+ 
+Program: Common for all Programs S.Y B.Tech. Semester: III 
+Course: Community Engagement Service (DJS23XEL201L) 
+ 
+Pre-requisite: 
+1. Fundamentals of core branch 
+2. Communication Skills 
+ 
+Objectives: 
+1. To sensitise the student / learner into recognising social problems & challenges and give them an 
+opportunity to engage in activities for solving the same. 
+ 
+Outcomes: On completion of the course, the learner will be able to: 
+1. Knowledge application: Applies knowledge understandings acquired from one’s academic study/ field/ 
+discipline for community level education, information dissemination by participation and engagement 
+in community welfare activities. 
+2. Commitment for cause: Identify and experience commitment for community engagement activities that 
+reinforce sense of belongingness and gratitude towards societal cause. 
+3. Diversity: Witness diversity in communities and cultures and demonstrate change in approach / attitude 
+as an evidence of unconditional acceptance. 
+4. Team: Recognise, experience and value effectiveness of working in a team, demonstrating co-existence 
+of the roles - sincere worker and effective leader. 
+ 
+Community Engagement Service (DJS23XEL201L) 
+Unit Description 
+ 
+ 
+1 
+Open Activities 
+ Participation in: blood donation camps organizer / donor, day-long tree plantation or 
+afforestation / seed dispersal / cleanliness (water bodies, surrounding etc.) drives. 
+ Literacy drives for child / youth / adults. One-day hand holding activities in work-shop 
+conduct for under privilege kids in the areas of – basic science, math, technical skill 
+demonstration and building. 
+ 
+ 
+ 
+ 
+ 
+2 
+Technical (Program core related) 
+ Cyber-crime, security awareness and vulnerabilities – sensitization, information 
+dissemination and awareness sessions in indicated focus areas. 
+Promotion and Sensitization for Sustainable living – focusing on solar power, water recycling, 
+e-waste responsible disposal, waste recycling etc. in indicated focus areas. 
+Focus areas: residential societies, schools, under-privileged areas, governments /private 
+offices, and similar other establishments. 
+OR 
+Field Survey 
+ Reporting on proactively conducted survey in the areas of resource management for – water, 
+vegetables, electricity, crops etc. 
+
+ 
+ 
+ 
+Suggested Activities 
+1. Undertaking cyber safety / security awareness sensitization drive / program especially for 
+un-initiated students / individuals in schools / colleges / residential complex / offices etc. 
+Typical suggested tabulation. 
+Participant 
+No. 
+Name Age School/ 
+College/ 
+Residence/ 
+Office 
+Email Contact 
+Number 
+Awareness 
+Level 
+Remarks 
+ 
+ 
+ 
+2. Energy / Power assessment for establishments (societies, schools, colleges, residential 
+complex, shops etc.) involving computing power devices ratings, power consumption 
+over operating period, calculating energy cost from tariff card / rates for every group of 
+appliances / devices or equipment. Typical suggested tabulation pattern. 
+Device/Appliance Number of Power Operating Energy Tariff Energy 
+Group appliances Rating Hours Consumption Rate Cost 
+ / devices (kW) (h/day) (kWh/day) (Rs. / (Rs.) 
+ kWh) 
+Lighting Fixtures 
+Ceiling Fans 
+Air Conditioner 
+(AC) 
+ 
+Security Systems 
+Water Pump 
+ 
+3. Traffic light monitoring viz-e-viz average traffic density on road. Analysing the data and 
+commenting on results. Evaluating and comparing impact on road repairs related lane 
+blockage and proportional recommendation for lights timing variations. Typical 
+suggested tabulation pattern. 
+Sr. No. Timestamp Traffic 
+Density 
+Traffic 
+Light Status 
+Road Repair 
+Status 
+Remarks 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+4. Help compute green footprint of select number of household (per member) - say 10 
+houses of 3+ members. This is for evaluating dependence upon non green energy sources 
+and habits and changes in lifestyle for attempts at their reductions. Learners are 
+encouraged to use typically available online carbon -footprint calculators. The table 
+herewith maybe used for reference calculations. 
+ 
+House 
+No. 
+House 
+hold 
+Name 
+Number 
+of 
+Members 
+Energy 
+Usage 
+(kWh) 
+Water 
+Usage 
+(liters) 
+Waste 
+Production 
+(kg) 
+Transportation 
+Habits 
+Green 
+Footprint 
+ 
+ 
+ 
+5. Compulsion of having a borewell for non -potable water supply in city residential 
+complexes is a modern-day rule. Increased pace of re-development, as well as number of 
+occupants in given area, has resulted in increased number of borewells being dug within 
+and outside city limits. 
+Reduced yield, quality and quantity of water adds to the recurring maintenance cost of 
+borewells, especially in the city areas. Poor water recharge systems along-with depleting 
+open soil cover area in wake of wall -to-wall of concrete carpet aggravate the p roblem. 
+Study, analyse and report a residential society’s – capacity of water requirement, present 
+day borewells in action, approximate yield, maintenance cost and frequency, borewell 
+flushing iterations in wake of redevelopment in neighborhood. A typical tabulation 
+mechanism for inferences can be as below: 
+Borewell 
+No. 
+Location Depth 
+(ft) 
+Yield 
+(Liters/Day) 
+Water 
+Quality 
+Maintenance 
+Cost (Rs.) 
+Remarks 
+ 
+ 
+ 
+6. Detection of Adulteration in food / fruits / vegetables / milk / mava /saffron etc. or 
+contamination of potable drinking water. 
+Ex. Adulteration in fruits could be apple waxing, injecting chemicals in watermelon, 
+pomegranate etc. to give it a bright red color, artificial ripening of mangos etc. 
+For a given activity, samples from more than one area, specifically from mofussil 
+/interiors / ‘gaothans’ etc, may be obtained, to evaluate sample purity or extent of 
+adulteration. Learners are encouraged to use online resources provided by ‘Food Safety 
+and Standards Authority of India’ (fssai), for handholding in requisite procedures. 
+YouTube link: 
+Food Safety and Standards Authority of India: goo.gl/Y8Lzbu 
+Ex. 1 Milk Adulteration: 
+ 
+https://www.youtube.com/watch?v=pbnmeRUBxKk 
+Ex.2 Watermelon Adulteration: 
+https://www.youtube.com/watch?v=yrLAj7oJies 
+ Product Adulterant Testing Method Result Remarks 
+ 
+ 
+ 
+ 
+ 
+Certificates and Formats: 
+Activity Endorsement Certificate 
+ 
+ 
+Date: 
+ 
+Community engagement service is a mandatory course, of two credits, introduced at second year of 
+engineering under the autonomous structure of the institute. 
+ 
+Course objective: To sensitise the student / learner into recognising social problems & challenges and 
+give them an opportunity to engage in activities for solving the same. 
+ 
+Course outcomes: 
+1. Knowledge application: Applies knowledge understandings acquired from one’s academic 
+study/ field/ discipline for commu nity level education, information dissemination by 
+participation and engagement in community welfare activities. 
+2. Commitment for cause: Identify and experience commitment for community engagement 
+activities that reinforce sense of belongingness and gratitude towards societal cause. 
+3. Diversity: Witness diversity in communities and cultures and demonstrate change in approach 
+/ attitude as an evidence of unconditional acceptance. 
+4. Team: Recognise, experience and value effectiveness of working in a team, demonstrating co-
+existence of the roles - sincere worker and effective leader. 
+ 
+ 
+This is to certify that Mr./Ms. bearing SAP ID 
+ is a student of S.Y. B.Tech., branch of engineering. He / She 
+is a bonafide student of SVKM’s Dwarkadas J. Sanghvi College of Engineering, Mumbai. He / She is 
+reliable, sincere, hardworking and capable of conducting 
+
+ 
+ 
+ activity in your premises. We request you to kindly allow for the conduction of the activity and 
+we also solicit your earnest co-operation in the same. 
+ 
+ 
+ 
+ 
+ 
+Signature 
+Name of Department Head: 
+ 
+Disclaimer 
+(This form must be read, signed, and submitted prior to the beginning of the community service 
+activity.) 
+ 
+Student Details Activity Details 
+Name 
+SAPID Date 
+Program Time 
+Class/Div Address 
+ 
+ 
+ 
+I, the undersigned accept the following terms and 
+conditions unconditionally: 
+1. I accept and understand that the community activity identification and selection has been done 
+willingly by me. 
+2. I undertake to convey that, I am apparently in good health and well -being, and suffer no 
+physical impairment that would or should prevent my participation in the activity. 
+3. I undertake to bear all related expenses and risk of travel related to the activity and shall not 
+hold any personnel from the institute responsible with regards to claims and / or loss in the 
+process of conduct of activity. 
+4. I undertake that my parents or legal/local guardians are aware of said activity and agree to 
+above mentioned terms and conditions. 
+Student’s name & signature: 
+ 
+Parent or Guardian’s name & signature: 
+
+ 
+ 
+ 
+Guidelines for Assessment of the work 
+ 
+• The review/progress monitoring committee shall be constituted by the Head of the Department. The 
+progress of selected/assigned activities is to be evaluated on a continuous basis, holding at -least one 
+review in the semester. 
+• In the continuous assessment, focus shall also be on each individual student’s contribution to the 
+team activity, their understanding and involvement as well as responses to the questions being raised 
+at all points in time. 
+• Each group needs to submit following forms to respective supervisor after conducting both the 
+activities, 
+o Activity Conduction Report 
+o Participant Feedback (online / offline) 
+o Participant Attendance (online / offline) 
+o Survey Report 
+o Participation certification 
+ 
+Forms for Technical Activity: 
+1. Activity Conduction Report 
+ 
+Sr. 
+No. 
+Name of the Activity 
+1 Date of Activity 
+2 Activity type Open / 
+Technical 
+ 
+3 Activity objectives 
+4 Place of Activity 
+5 SAP id and Names of 
+students 
+ 
+6 Name of the Association 
+7 Activity description 
+8 No. of participants 
+9 Photos (Geo tagged) 
+
+ 
+2. Participant feedback (online / offline): 
+ 
+Sr. 
+No. 
+Indicators Scale: 1 (Lowest) to 5 
+(Highest) 
+1 The objectives of the training were clearly defined. 
+2 The content was organized and easy to follow. 
+3 This training experience will be useful to me. 
+4 The trainer was knowledgeable about the training 
+topics. 
+ 
+5 The training objectives were met 
+ 
+Evaluation Scheme: 
+Continuous Assessment (A): 
+Term Work: - 25 marks, distribution as herewith: 
+1. Rubric for Open Ended Activity (10 marks) 
+ Participation certificate/proof 
+ 
+2. Rubric for Technical Activity (15 marks) 
+ 
+Sr. 
+No. 
+Performance Indicators 
+(Maximum marks per indicator are given in 
+bracket) 
+Marks 
+1 Pre-requisite documents (permission letter, 
+presentation material, permission letters, etc.) 
+[05 marks] 
+ 
+2 Participant Feedback [05 marks] 
+3 Participant attendance [05 marks] 
+ TOTAL 
+ 
+OR 
+3. Rubric for Field Survey Activity: 
+ 
+Sr. 
+No. 
+Performance Indicators 
+(Maximum 03 marks per indicator) 
+Marks 
+1 Topic selection 
+2 Survey preparation 
+3 Field work 
+4 Analysis 
+5 Report writing 
+ TOTAL 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VOCATIONAL AND SKILL 
+ENHANCEMENT COURSE 
+
+ 
+ 
+Program: Computer Science and Engineering (Data Science) S.Y. B.Tech Semester: III 
+Course: Innovative Product Development I (DJS23XSC201P) 
+ 
+Course Objectives: 
+1. To acquaint the students with the process of identifying the need (considering a societal 
+requirement) andensuring that a solution is found to address the same by designing and developing 
+an innovative product. 
+2. To familiarize the students with the process of designing and developing a product, while they work 
+as part ofa team. 
+3. To acquaint the students with the process of appl ying basic engineering fundamentals, so as to 
+attempt at thedesign and development of a successful value-added product. 
+4. To inculcate the basic concepts of entrepreneurship and the process of self -learning and research 
+required toconceptualize and create a successful product. 
+Course Outcome: 
+Learner will be able to: 
+1. Identify the requirement for a product based on societal/research needs. 
+2. Apply knowledge and skills required to solve a societal need by conceptualizing a product, 
+especially whileworking in a team. 
+3. Use standard norms of engineering concepts/practices in the design and development of an innovative 
+product. 
+4. Draw proper inferences through theoretical/ experimental/simulations and analyze the impact of 
+the proposedmethod of design and development of the product. 
+5. Develop interpersonal skills, while working as a member of the team or as the leader. 
+6. Demonstrate capabilities of self-learning as part of the team, leading to life-long learning, which 
+couldeventually prepare them to be successful entrepreneurs. 
+7. Demonstrate product/project management principles during the design and development work and 
+excel inwritten (Technical paper preparation) as well as oral communication. 
+Guidelines for the proposed product design and development: 
+ Students shall form a team of 3 to 4 students (max allowed: 5 -6 in extraordinary cases, subject to 
+the approvalof the department review committee and the Head of the department). 
+ Students should carry out a survey and identify the need, which shall be converted into 
+conceptualization of a product, in consultation with the faculty supervisor/head of 
+department/internal committee of faculty members. 
+ Students in the team shall understand the effective need for product development and accordingly 
+select the bestpossible design in consultation with the faculty supervisor. 
+ Faculty supervisor may provide inputs to students during the entire span of the activity, spread over 2 
+semesters,wherein the main focus shall be on self-learning. 
+ A record in the form of an activity logbook is to be prepared by each team, wherein the team can 
+record weeklyprogress of work. The guide/supervisor should verify the recorded notes/comments 
+and approve the same on aweekly basis. 
+ The design solution is to be validated with proper justification and the report is to be compiled in a 
+
+ 
+standard format and submitted to the department. 
+ Efforts are to be made by the students to try and publish a technical paper, at a suitable publication 
+(National /International), approved by the department research committee/ Head of the department. 
+ The focus should be on self-learning, the capability to design and innovate new products as well as 
+on developing the ability to address societal problems. Advancement of entrepreneurial capabilities 
+and quality development of the students through the yearlong course should ensure that the design 
+and development of a product of appropriate level and quality is carried out, spread ov er two 
+semesters, ie during the semesters III and IV. 
+Guidelines for Assessment of the work: 
+ The review/ progress monitoring committee shall be constituted by the Head of the Department. 
+The progressof design and development of the product is to be evaluat ed on a continuous basis, 
+holding a minimum of tworeviews in each semester. 
+ In the continuous assessment, the focus shall also be on each individual student’s contribution to the 
+team activity,their understanding and involvement as well as responses to the questions being raised 
+at all points in time. 
+Review/Progress monitoring committee may consider the following points during the assessment. 
+The tentative rubrics that can be followed can be as follows: 
+Review 1: 
+i. Literature Review (Algorithms, Techniques, Methodologies) / Product Review (Review of atleast 
+5 technical papers). 
+ii. Presentation Quality. 
+iii. Contribution as a team member and Punctuality. 
+ 
+Review 2: 
+i. Analysis of Literature Review. 
+ii. Problem Statement and proposed solution. 
+iii. System Process Flow Diagram. 
+iv. Presentation Quality. 
+v. Contribution as a team member and Punctuality. 
+vi. Project Documentation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Checked by Head of the Department Principal 
